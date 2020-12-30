@@ -8,6 +8,7 @@
     <ItemGroup>
       <PackageReference Include="CommandLineParser" Version="2.8.0" />
       <PackageReference Include="Microsoft.ML" Version="1.5.4" />
+      <PackageReference Include="Microsoft.ML.LightGbm" Version="1.5.4" />
     </ItemGroup>
 
 </Project>
