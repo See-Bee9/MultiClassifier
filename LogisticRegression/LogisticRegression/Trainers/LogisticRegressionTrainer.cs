@@ -1,7 +1,7 @@
 ﻿using LogisticRegression.Models;
 using Microsoft.ML;
 
-namespace LogisticRegression
+namespace LogisticRegression.Trainers
 {
     public class LogisticRegressionTrainer : ITrainer
     {

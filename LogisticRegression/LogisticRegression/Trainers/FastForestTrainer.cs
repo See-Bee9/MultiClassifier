@@ -1,4 +1,4 @@
-﻿namespace LogisticRegression
+﻿namespace LogisticRegression.Trainers
 {
     public class FastForestTrainer: ITrainer
     {
