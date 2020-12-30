@@ -48,7 +48,10 @@ namespace LogisticRegression
                 {
                     Content = File.ReadAllText(file)
                 };
+                var watch  = System.Diagnostics.Stopwatch.StartNew();
                 var result = predictor.Predict(options.TrainerPath, trainingModel);
+                watch.Stop();
+                Console.WriteLine($"Prediction Time: {watch.ElapsedMilliseconds}");
                 Console.WriteLine(
                     $"{fileName} : {result.Classification}"
                     + $"{Environment.NewLine}\t Proton Confidence : {result.Score[0]:0.###}"
