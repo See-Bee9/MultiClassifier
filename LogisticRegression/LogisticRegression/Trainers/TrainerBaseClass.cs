@@ -24,8 +24,8 @@ namespace LogisticRegression.Trainers
                 .Append(mlContext.Transforms.Conversion.MapKeyToValue("PredictedLabel"));
 
             var trainedModel = dataPipeline.Fit(data);
-            var modelName    = System.IO.Path.Combine(modelPath, "model.zip");
-            mlContext.Model.Save(trainedModel, data.Schema, modelName);
+
+            mlContext.Model.Save(trainedModel, data.Schema, modelPath);
 
             var testDataView = mlContext.Data.LoadFromTextFile<Prediction>(modelPath);
             var modelMetrics = mlContext.MulticlassClassification.Evaluate(trainedModel.Transform(testDataView));

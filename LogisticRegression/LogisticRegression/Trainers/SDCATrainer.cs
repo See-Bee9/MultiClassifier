@@ -2,7 +2,7 @@
 
 namespace LogisticRegression.Trainers
 {
-    public class LogisticRegressionTrainer : TrainerBaseClass
+    public class SDCATrainer : TrainerBaseClass
     {
         // public void Train(string directoryPath, string modelPath)
         // {
