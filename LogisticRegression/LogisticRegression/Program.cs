@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommandLine;
+using LogisticRegression.CLI;
 
 namespace LogisticRegression
 {
@@ -6,7 +7,11 @@ namespace LogisticRegression
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CommandLine.Parser.Default.ParseArguments<Options>(args)
+                .WithParsed(opt =>
+                {
+
+                });
         }
     }
 }
