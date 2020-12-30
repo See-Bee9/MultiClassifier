@@ -1,0 +1,1924 @@
+                                                BMC Microbiology
+                                                                
+The gut microbiota of rural and urban individuals is shaped by geography and lifestyle
+                                                   --Manuscript Draft--
+                                                                
+ Manuscript Number:
+ Full Title:                               The gut microbiota of rural and urban individuals is shaped by geography and lifestyle
+ Article Type:                             Research article
+ Section/Category:                         Ecological and evolutionary microbiology
+
+ Funding Information:                      South African Medical Research           Prof. Thulani Makhalyane
+                                           Foundation
+
+ Abstract:                                 Background
+                                           Understanding the structure and drivers of gut microbiota remains a major ecological
+                                           endeavour. Recent studies have shown that several factors including diet, lifestyle and
+                                           geography may substantially shape the human gut microbiota. However, most of these
+                                           studies have focused on the more abundant bacterial component and comparatively
+                                           less is known regarding fungi in the human gut. This knowledge deficit is especially
+                                           true for rural and urban African populations. Therefore, we assessed the structure and
+                                           drivers of rural and urban gut mycobiota. 
+                                           Results
+                                           Our participants (n=100) were balanced by geography and sex. The mycobiota of
+                                           these geographically separated cohorts was characterized using amplicon analysis of
+                                           the Internal Transcribed Spacer (ITS) gene. We further assessed biomarker species
+                                           specific to rural and urban cohorts. In addition to phyla which have been shown to be
+                                           ubiquitous constituents of gut microbiota, Pichia were key constituents of the
+                                           mycobiota. We found that several factors including geographic location and lifestyle
+                                           factors such as the smoking status were major drivers of gut mycobiota. Linear
+                                           discriminant and the linear discriminant analysis effect size analysis revealed several
+                                           distinct urban and rural biomarkers. 
+                                           Conclusions
+                                           Together, our analysis reveals distinct community structure in urban and rural South
+                                           African individuals. Geography and lifestyle related factors were shown to be key
+                                           drivers of rural and urban gut microbiota.
+ Corresponding Author:                     Thulani Makhalyane
+                                           University of Pretoria
+                                           SOUTH AFRICA
+ Corresponding Author E-Mail:              Thulani.makhalanyane@up.ac.za
+ Corresponding Author Secondary
+ Information:
+ Corresponding Author's Institution:       University of Pretoria
+ Corresponding Author's Secondary
+ Institution:
+ First Author:                             Mubanga Kabwe
+ First Author Secondary Information:
+ Order of Authors:                         Mubanga Kabwe
+                                           Surendra Vikram
+                                           Khodani Mulaudzi
+                                           Janet Jansson
+                                           Thulani Makhalyane
+ Order of Authors Secondary Information:
+ Opposed Reviewers:
+
+
+                    Powered by Editorial Manager® and ProduXion Manager® from Aries Systems Corporation
+Additional Information:
+Question                                  Response
+
+Has this manuscript been submitted        No
+before to this journal or another journal in
+the <a
+href="https://www.biomedcentral.com/p/th
+e-bmc-series-journals#journallist"
+target="_blank" >BMC series</ a>?
+
+
+                   Powered by Editorial Manager® and ProduXion Manager® from Aries Systems Corporation
+                                                   Click here to access/download;Manuscript;Kabwe et al
+                                                   _ABF.docx
+Click here to view linked References
+    1 
+    2 
+    3 
+    4 
+    5   1   The  gut  microbiota  of   rural  and  urban    individuals   is  shaped  by 
+    6 
+    7 
+    8   2   geography and lifestyle 
+    9 
+   10 
+                               1                               1              2
+   11   3   Mubanga Hellen Kabwe , Surendra Vikram, Khodani Mulaudzi , Janet K. Jansson  and Thulani 
+   12 
+   13   4   P. Makhalanyane1* 
+   14 
+   15 
+   16   5   1. Centre  for  Microbial  Ecology  and  Genomics,  Department  of  Biochemistry,  Genetics  and 
+   17 
+   18 
+                                                                                         2.
+   19   6   Microbiology, University of Pretoria, Lynwood Road, Hatfield, Pretoria, 0028, South Africa  
+   20 
+   21   7   Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, 902 Battelle 
+   22 
+   23 
+   24   8   Blvd, Richland, Washington 99352, USA 
+   25 
+   26 
+   27   9    
+   28 
+   29 
+   30  10   Running title: mycobiome of urban and rural individuals 
+   31 
+   32 
+   33  11    
+   34 
+   35 
+   36  12   *Address correspondence to Thulani P. Makhalanyane, thulani.makhalanyane@up.ac.za  
+   37 
+   38 
+   39  13                            
+   40 
+   41 
+   42 
+   43 
+   44 
+   45 
+   46 
+   47 
+   48 
+   49 
+   50 
+   51 
+   52 
+   53 
+   54 
+   55 
+   56 
+   57 
+   58 
+   59 
+   60 
+   61 
+   62                                                                                    1 
+   63        
+   64 
+   65 
+ 1 
+ 2 
+ 3 
+ 4  14   Abstract 
+ 5 
+ 6 
+ 7  15   Background 
+ 8 
+ 9 
+10 
+11  16   Understanding the structure and drivers of gut microbiota remains a major ecological endeavour. 
+12 
+13  17   Recent  studies  have  shown  that several factors  including  diet,  lifestyle  and  geography  may 
+14 
+15  18   substantially shape the human gut microbiota. However, most of these studies have focused on the 
+16 
+17 
+18  19   more abundant bacterial component and comparatively less is known regarding fungi in the human 
+19 
+20  20   gut. This knowledge deficit is especially true for rural and urban African populations. Therefore, 
+21 
+22 
+23  21   we assessed the structure and drivers of rural and urban gut mycobiota.  
+24 
+25 
+26  22   Results 
+27 
+28 
+29  23   Our  participants  (n=100)  were  balanced  by  geography  and  sex.  The  mycobiota  of these 
+30 
+31 
+    24   geographically  separated  cohorts  was  characterized  using  amplicon  analysis  of  the  Internal 
+32 
+33 
+34  25   Transcribed Spacer (ITS) gene. We further assessed biomarker species specific to rural and urban 
+35 
+36  26   cohorts.  In  addition  to  phyla  which  have  been  shown  to  be  ubiquitous  constituents  of  gut 
+37 
+38 
+39  27   microbiota, Pichia were key constituents of the mycobiota. We found that several factors including 
+40 
+41  28   geographic location and lifestyle factors such as  the smoking status were major drivers of gut 
+42 
+43 
+44  29   mycobiota. Linear discriminant and the linear discriminant analysis effect size analysis revealed 
+45 
+46  30   several distinct urban and rural biomarkers.  
+47 
+48 
+49  31   Conclusions 
+50 
+51 
+52  32   Together,  our analysis reveals  distinct  community  structure  in  urban  and  rural  South  African 
+53 
+54 
+55  33   individuals. Geography and lifestyle related factors were shown to be key drivers of rural and 
+56 
+57  34   urban gut microbiota. 
+58 
+59 
+60 
+61 
+62                                                                                    2 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4  35    Keywords 
+ 5 
+ 6  36    Gut microbiome, ethnicity, mycobiome, diet, Africa, rural, urban                     
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62                                                                                             3 
+63         
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4  37   Background 
+ 5 
+ 6 
+ 7  38   By comparison to prokaryotes (bacteria and archaea), eukaryotes are considered part of the rare 
+ 8 
+ 9 
+10  39   “biosphere” of the gut [1, 2]. Despite their low abundances, fungi play significant roles in host 
+11 
+12  40   physiology [2-5]. Recent studies have shown that the gut fungal community composition is less 
+13 
+14 
+15  41   stable over time, compared to bacterial communities [4, 6, 7]. These studies suggest that the gut 
+16 
+17  42   mycobiota is more variable than bacterial communities, and may be influenced substantially by 
+18 
+19 
+20  43   environmental  factors [3,  7]. Despite evidence confirming  the gut  microbiota  is diverse and 
+21 
+22  44   interacts with the host immune system [3, 8, 9], knowledge regarding the community structure of 
+23 
+24       healthy human gut mycobiota remains scant. 
+25  45 
+26 
+27 
+28  46   Most studies have focused on the potential roles played by the mycobiota in the aetiology of gut 
+29 
+30  47   diseases [10-12]. These studies have provided crucial insights on the role of the mycobiota as a 
+31 
+32       potential drivers of immunological  disorders  and  as opportunistic pathogens  in 
+33  48 
+34 
+35  49   immunocompromised hosts [13]. Further, dysbiosis of gut mycobiota has been linked to obesity, 
+36 
+37  50   colorectal cancer and Inflammatory Bowel Diseases (IBDs) [12, 14, 15]. Decreased abundances 
+38 
+39 
+40  51   of Saccharomyces cerevisiae and  higher proportions of Candida albicans were  found in  IBD 
+41 
+42  52   patients compared to healthy controls. A recent study showed that Crohn’s disease-specific gut 
+43 
+44 
+45  53   environments may select for fungi to the detriment of bacteria suggesting disease-specific inter-
+46 
+47  54   kingdom network alterations in IBD [12]. Yet, despite these beneficial effects, there remains a 
+48 
+49 
+50  55   clear  deficit in  knowledge regarding the precise role played  by  the  gut mycobiota in disease 
+51 
+52  56   prevention. Relatedly, the  factors  which drive the diversity  and community structure of gut 
+53 
+54  57   mycobiome remain underexplored. Assessing the influence of environmental factors on the gut 
+55 
+56 
+57  58   mycobiome across a wider cohort of participants is crucial for determining the effects on host-
+58 
+59  59   microbiota dynamics and health. 
+60 
+61 
+62                                                                                    4 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4  60   Several studies  have evaluated the effects  of age [16-18], gender [17], diet [19], diabetes and 
+ 5 
+ 6 
+ 7  61   obesity [15, 20, 21], anorexia nervosa [22], differences across body sites [23, 24] and geographical 
+ 8 
+ 9  62   locations [6,  25,  26] on mycobiome composition  and  diversity. Yet,  these studies  are mostly 
+10 
+11 
+12  63   disease centric or focussed on Asian [26] and/or Western populations [6, 7, 19]. To our knowledge, 
+13 
+14  64   only one study has investigated the gut eukaryotic diversity of African individuals [27]. Although 
+15 
+16 
+    65   these studies improved our understanding of the mycobiome, there may be several confounding 
+17 
+18 
+19  66   factors such as genetic differences. These differences make it difficult to assess, for instance, the 
+20 
+21  67   effects of living in urban or rural areas on the microbiome. The effects of diet, geographic locality 
+22 
+23 
+24  68   and  lifestyle, on  the  gut  microbiome are  often  assumed  but  rarely  examined.  Where  these 
+25 
+26  69   relationships are  assessed, the  majority  of  studies  have primarily  focused on the ecologically 
+27 
+28 
+29  70   abundant bacteria [28,  29] with assertions  that  their  patterns  will  likely  hold  for  other  taxa, 
+30 
+31  71   including mycobiomes.  
+32 
+33 
+34  72   Here, we applied amplicon sequencing of the fungal internal transcribed spacer (ITS) of the rRNA 
+35 
+36 
+37  73   gene on samples collected from individuals living in urban and rural areas in Africa. We provide 
+38 
+39  74   the  first  insights  regarding  the  drivers  of  mycobiome  community  structure  and  potential 
+40 
+41 
+42  75   biomarkers  specific  to individuals  from urban  and  rural locations. Previous  studies of  the  gut 
+43 
+44  76   mycobiome have primarily investigated small cohorts with fewer than 20 individuals [25, 30, 31] 
+45 
+46  77   with very few studies investigating larger cohorts [6, 32]. This study represents the first analysis 
+47 
+48 
+49  78   of the faecal mycobiota in a large cohort of healthy sub-Saharan individuals (100 volunteers). 
+50 
+51  79   Furthermore,  this  is  the  first  study which compares  the  composition  and  diversity  of  the  gut 
+52 
+53 
+54  80   mycobiome  of  geographically  separated  non-western  individuals with the  same  ethnicity. We 
+55 
+56  81   further explored potential biomarker taxa in urban and rural individuals and explore how these 
+57 
+58 
+59  82   taxa vary between the two areas. Using extensive predictor variables collected from participants, 
+60 
+61 
+62                                                                                    5 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4  83   we show  that  geography  and  lifestyle  structure  the  gut  mycobiome  of  rural  and  urban  South 
+ 5 
+ 6 
+ 7  84   African individuals.  
+ 8 
+ 9 
+10  85   Results 
+11 
+12 
+13  86   Similarities and differences between urban and rural individuals 
+14 
+15 
+16  87   We assessed the faecal mycobiota of South African adults living in rural (n=50) and urban regions 
+17 
+18 
+19  88   (n= 50) by assessing stool samples (see details regarding sample recruitment in Methods). We 
+20 
+21  89   recruited an equal number of male and female volunteers across two villages in the Limpopo region 
+22 
+23 
+    90   of South Africa, which is located roughly 500km from the urban site (Pretoria) (Figure 1a). To 
+24 
+25 
+26  91   gain  insights  regarding predictive variables  which  may  shape  the  gut  microbiome,  detailed 
+27 
+28  92   questionnaires were distributed to all volunteers. The volunteers from Ha-Ravele and Tshikombani 
+29 
+30 
+31  93   villages (population size of roughly 200,000, representing the rural participants) were on average 
+32 
+33  94   24 years (mean ± 6.3). Volunteers from Pretoria (total population of approximately 2.1 million) 
+34 
+35 
+36  95   were on average 31 years (mean ± 9.1). The BMI of all participants was above 26.45, resulting in 
+37 
+38  96   a cohort of individuals classified as obese, less than 15.9% of participants were smokers. 
+39 
+40 
+41  97   Amplicon sequence data from 95 volunteers (samples from 5 rural volunteers were excluded due 
+42 
+43 
+44  98   to  low  quality  reads) generated 5,936,454  raw  reads. A total of 5,414,023 fungal  reads were 
+45 
+46  99   retained after sequence filtering and chimera removal. Of these, 1,636,180 reads were assigned to 
+47 
+48 
+49 100   OTUs and these were further clustered into 1,911 OTUs using a 97% cut-off. A higher proportion 
+50 
+51 101   of fungal OTUs were unique to location with urban and rural samples accounting for 47.9% and 
+52 
+53 102   45.3% of reads, respectively (Supplemental Figure 1a). 
+54 
+55 
+56 
+57 103   After  random  subsampling  to  the  lowest  read  count,  155  OTUs  were  excluded from  further 
+58 
+59 104   analyses. The resulting accumulation curves showed reasonable sequence saturation, at a regional 
+60 
+61 
+62                                                                                    6 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 105   level (Supplemental Figure 1b). Fungal species richness was significantly higher in the stool 
+ 5 
+ 6 
+ 7 106   samples  of rural volunteers (Observed;  W  =  615.5, p-Value  =  1.471e4) compared  to  urban 
+ 8 
+ 9 107   volunteers (Figure 1b). However, we did not find significant differences in richness based on 
+10 
+11 
+12 108   gender and age group. 
+13 
+14 
+15 109   Two ubiquitous fungal phyla in urban and rural locations 
+16 
+17 
+18 110   Overall, four distinct fungal phyla were detected in urban and rural gut mycobiomes, based on 
+19 
+20 111   sequences  with relative abundances above 0.1% (Figure 1c). The majority of sequences were 
+21 
+22 
+23 112   assigned to members of the phyla Ascomycota and Basidiomycota, that constituted 80.7% and 
+24 
+25 113   6.1% of the total relative abundance, respectively. Unknown sequences constituted 12.9% of the 
+26 
+27 
+28 114   fungal  mycobiome. In total, 13  distinct  fungal  classes  were  identified with Saccharomycetes 
+29 
+30 115   constituting  the  majority  of  sequences (50.1%)  followed  by Dothideomycetes (20.3%), 
+31 
+32       Eurotiomycetes (4.8%)  and Sordariomycetes (3.9%). Unknown fungal genera dominated  our 
+33 116 
+34 
+35 117   cohort  (18.4%),  followed  by Pichia (17.6%) Candida (17.1%) and Cladosporium (5.9%). 
+36 
+37 118   However, no significant difference was found between taxa abundance at the class level for the 
+38 
+39 
+40 119   gut mycobiota of rural  and  urban participants (W  =  1054, p-value  =  0.5992).  The  difference 
+41 
+42 120   between  the  gut mycobiota of  rural  and  urban  individuals,  across  the  two  locations,  was  not 
+43 
+44 
+45 121   statistically significant (Kruskal-Wallis chi-squared = 2.9875, df = 3, p-value = 0.3936). 
+46 
+47 
+48 122   To  assess the  degree  of  uniqueness  of  a given  sample  in  relation  to  the  overall  community 
+49 
+50 123   composition, we assessed the local contribution to beta diversity (LCTBD). We found that samples 
+51 
+52 
+53 124   from urban volunteers contributed a greater fraction of the overall community diversity (p-Value 
+54 
+55 125   < 0.05). Samples with high local contribution to beta diversity (LCTBD) had a high abundance of 
+56 
+57 
+58 126   Basidiomycota and other unknown taxa. In contrast,  only two samples  from  the rural  location 
+59 
+60 127   contributed to overall community diversity (Supplemental Figure 1c). 
+61 
+62                                                                                    7 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 128   Distinct mycobiota among urban and rural volunteers unrelated to gender 
+ 5 
+ 6 
+ 7 129   Differences  in  the  fungal  community  structure  between  the  rural  and  urban  localities  were 
+ 8 
+ 9 
+10 130   visualized  in  an  NMDS  plot  (Figure 2a).  Urban  and  rural  samples formed distict clusters 
+11 
+12 131   [PERMANOVA  (R2  =  0.070; p-Value  =  0.0001),  ANOSIM  (R  =  0.43, p-Value  =  0.001)  and 
+13 
+14                 2
+15 132   ADONIS (R  = 0.07034 p-Value = 0.0001)]. However, male and female samples did not cluster 
+16 
+17 133   separately. Pairwise analysis of permutational multivariate analysis of variance (PERMANOVA) 
+18 
+19 
+20 134   showed that there was no significant difference between female vs male urban, and female vs male 
+21 
+22 135   rural individuals (R2 = 0.018; R2 = 0.023; respectively and p-Value > 0.4 for both). However, there 
+23 
+24       was a significant difference between the gut mycobiota of urban versus rural female and male 
+25 136 
+26 
+27 137   participants (R2 < 0.074 for all; p-Value = 0.001 for all). 
+28 
+29 
+30 138   Ecological drivers of gut mycobiota  
+31 
+32 
+33 139   Redundancy analysis (RDA) was performed to determine which predictor variables significantly 
+34 
+35 
+36 140   explained the variation in fungal community composition (Figure 2b). Four predictive variables 
+37 
+38 141   were significant  (r2 >  0.2; p-Value  <  0.05) drivers  of community  composition  and  structure. 
+39 
+40 
+41 142   Predictive variables included; breastfeeding, smoking, mode of birth and location; all of which 
+42 
+43 143   significantly influenced the fungal community composition. 
+44 
+45 
+46 144   We conducted correlation analyses to explore the relationships among dominant gut species. Our 
+47 
+48 
+49 145   results  showed a few highly positive  correlations  in  the  rural  cohort: between Mucor and 
+50 
+51 146   Dipodascus, Mucor and Naganishia, Clavispora and Lentendrea, and between Udeniomyces and 
+52 
+53 147   Lentendrea (Figure 4a).  Whereas,  the  strongest  negative  correlation  was found between 
+54 
+55 
+56 148   Dipodascus with Trichoderma, Dipodascus with Ascotricha and Dipodascus with Chalastospora. 
+57 
+58 149   Within  the  urban  cohort, Xeromyces and Agaricus, Diutina and Clavispora,  and Dekkera and 
+59 
+60 
+61 
+62                                                                                    8 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 150   Diutina exhibited  the  strongest  positive  correlations (Figure 4b).  The  strongest  negative 
+ 5 
+ 6 
+ 7 151   correlations  were  detected  between Clavispora with Filobasidium, and  with Verrucaria and 
+ 8 
+ 9 152   Malassezia. 
+10 
+11 
+12 153   Biomarker taxa 
+13 
+14 
+15 154   Linear discriminant analysis (LDA) and the linear discriminant analysis effect size (LEfSe) [33] 
+16 
+17 
+18 155   test for biomarkers was used to detect taxa that showed the strongest effect on group differentiation 
+19 
+20 156   (Figure 3a). OTU level analysis uncovered 14 urban-associated species from 10 genera. Whereas, 
+21 
+22 
+23 157   17 rural-associated  species  from 11 genera,  were  detected  as  possible  biomarkers. The  most 
+24 
+25 158   abundant rural-associated  biomarker  genera  were Hypopichia and Dipodascus, with  species 
+26 
+27 
+28 159   Hypopichia burtonii and Dipodascus geotrichum being the most ubundant (Figure 3b). Whereas, 
+29 
+30 160   the  urban-associated  biomarkers  were  dominated  by the  class Tremellomycetes and genera 
+31 
+32       Dekkera and Hannaella.  Whereas,  species Dekkera  bruxellensis  and  Hannaella  sinensis 
+33 161 
+34 
+35 162   dominated the urban-associated biomarkers. 
+36 
+37 
+38 163   Discussion 
+39 
+40 
+41 164   The results from this study suggest that the gut mycobiome of the South African population is 
+42 
+43 
+44 165   structured by  geography  and  lifestyle.  This finding is supported by  the clustering of  a  large 
+45 
+46 166   proportion of the fungal OTU’s into discrete rural and urban groups within the Venn diagram. 
+47 
+48 
+49 167   Only a small percentage of OTUs were shared between the two populations, which may suggest 
+50 
+51 168   that factors such as the environment, age and diet may play a role in shaping the differences in 
+52 
+53 169   OTU clustering. These results were further corroborated by two distinct clusters, consistent with 
+54 
+55 
+56 170   rural and urban locality.  
+57 
+58 
+59 
+60 
+61 
+62                                                                                    9 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 171   Several studies have investigated the healthy human mycobiome [6, 7, 19, 25, 30, 34]. In these 
+ 5 
+ 6 
+ 7 172   studies, geography was  not considered as a potential factor structuring the gut mycobiota. For 
+ 8 
+ 9 173   instance, Nash et al. (2017) found no association between host phenotypic characteristics with 
+10 
+11 
+12 174   mycobiome  profile.  This  study suggests  that  diet,  the  environment,  diurnal  cycles,  and  host 
+13 
+14 175   genetics may substantially influence the human gut mycobiome. However, the finding that the 
+15 
+16 
+   176   majority  of  the variation could  not  be  explained  by  their metadata does  suggest  that other 
+17 
+18 
+19 177   environmental factors, such as geography, may contribute to structuring the human microbiome 
+20 
+21 178   [6]. 
+22 
+23 
+24       Our study provides the first results showing the importance of geography in African populations. 
+25 179 
+26 
+27 180   Geographic  locality  may  be  associated with different environmental  factors,  such  as  different 
+28 
+29 181   climatic regimes, which may effect structural changes in the mycobiota. For example, climate 
+30 
+31 
+32 182   significantly influences vegetation and farming practices and leads to region specific diets. These 
+33 
+34 183   region-specific diets may ultimately influence the gut mycobiota. This is a reasonable prediction 
+35 
+36 
+37 184   given previous findings showing that fungi have climate dependent biogeographic patterns [35, 
+38 
+39 185   36]. These patterns are likely to determine the type of fungi individuals may be exposed to, which 
+40 
+41 
+42 186   may in turn impact the colonization of fungi in the human gut. The most abundant rural-associated 
+43 
+44 187   biomarker  species  found  in  this  study, Dipodascus  geotrichum, is  ubiquitous  in  nature [37] 
+45 
+46 188   whereas, Hypopichia burtonii is commonly isolated from corn, wheat, and rice [38]. The urban-
+47 
+48 
+49 189   associated biomarkers were dominated by the species Dekkera bruxellensis, which are commonly 
+50 
+51 190   isolated from fermented food such as wine, beer, feta cheese and sour dough [39-41]. In contrast, 
+52 
+53 
+54 191   Hannaella sinensis is commonly isolated from plants and soil [42, 43]. The staple diet of the rural 
+55 
+56 192   South African population primarily consists of a corn-based porridge (called ‘pap’). It is therefore 
+57 
+58 
+59 193   not uncommon for a fungal species commonly isolated from corn to be a dominant biomarker for 
+60 
+61 
+62                                                                                   10 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 194   the  rural  population.  Conversely,  the  urban  population  diet was more  diverse and included 
+ 5 
+ 6 
+ 7 195   fermented foods such as wine, sour dough bread and feta cheese, which are commonly available 
+ 8 
+ 9 196   in supermarkets. Thus, the species Dekkera bruxellensis was identified as a dominant biomarker 
+10 
+11 
+12 197   in the urban population. 
+13 
+14 
+15 198   In  addition  to geographic  location, we  found  that smoking, mode  of  birth and breastfeeding 
+16 
+17 199   significantly influenced gut  fungal  communities. Several studies have previously reported that 
+18 
+19 
+20 200   these  factors may significantly  influence the initial  colonization,  subsequent  composition  and 
+21 
+22 201   structure of bacterial members of the human gut microbiome [28, 44-46]. Suhr et al. (2016) and 
+23 
+24       Hallen-Adams et al. (2017) investigated the gut mycobiome of two cohorts that were exclusively 
+25 202 
+26 
+27 203   on  a  vegetarian or  a western  diet.  These studies  found  that the distribution  of  fungi  differed 
+28 
+29 204   considerably between the two cohorts [7, 47]. Plant-associated Fusarium, Malassezia, Penicillium 
+30 
+31 
+32 205   and Aspergillus species were  detected at higher  abundances within  the  vegetarian  cohort, 
+33 
+34 206   compared  to  the cohort  on a conventional  diet. The  finding that smoking  affected  fungal 
+35 
+36 
+37 207   community composition and structure is supported by several studies  [48-50]. The approximately 
+38 
+39 208   4000 chemical compounds produced by cigarettes have been shown to alter the composition of the 
+40 
+41 
+42 209   gut microbiome [48, 50-53].  The reported increase of Clostridia induced by smoking in murine 
+43 
+44 210   models has also been indirectly  confirmed  in  humans  where  an  increased  rate  of C.  difficile 
+45 
+46 211   infection was greater in former and current smokers compared to never smokers [52]. Moreover, 
+47 
+48 
+49 212   the abundance of the fungus Candida tropicalis has also been reported to be significantly higher 
+50 
+51 213   in C.  difficile infection patients  compared  to healthy  individuals.  [54]. The  abundance  of C. 
+52 
+53 
+54 214   tropicalis has also been detected to be positively correlated with levels of anti-Saccharomyces 
+55 
+56 215   cerevisiae antibodies  (ASCA) [54]. In  our  study C.  tropicalis was  detected  to  be  higher  in 
+57 
+58 
+59 216   individuals who smoke compared to non-smokers whereas, the inverse was true for S. cerevisiae. 
+60 
+61 
+62                                                                                   11 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 217   These findings may confirm the antagonistic association between the species C. tropicalis and S. 
+ 5 
+ 6 
+ 7 218   cerevisiae, as previously reported by Hoarau et al., (2016). 
+ 8 
+ 9 
+10 219   Most studies have identified the genera Candida, Saccharomyces, Malassezia and Aspergillus as 
+11 
+12 220   the three most abundant in the gut of healthy individuals [6, 25, 32]. To the best of our knowledge, 
+13 
+14 
+15 221   our study is the first to report Pichia as one of the top four most abundant genera in the human gut 
+16 
+17 222   mycobiome. This may be due to several factors including differences in cohort characteristics (e.g., 
+18 
+19 
+20 223   geographical location, diet, genetic predisposition and climate). Pichia have been identified as 
+21 
+22 224   both constituent members of the human oral [55, 56] and gut microbiome [34]. Mukherjee detected 
+23 
+24       a 1:1 abundance ratio in the oral mycobiome of individuals when Candida and Pichia were present 
+25 225 
+26 
+27 226   together [56]. Pichia was also observed to have an antagonistic effect against Candida, Fusarium 
+28 
+29 227   and Aspergillus.  
+30 
+31 
+32       The yeast  genera, Pichia,  Candida and Cladosporium, dominated the  South  African  gut 
+33 228 
+34 
+35 229   mycobiome.   Our  findings agree  with previous  studies  which show  that members  of  the 
+36 
+37 230   Aspergillus, Candida, Debaryomyces, Malassezia, Penicillium, Pichia, and Saccharomyces genera 
+38 
+39 
+40 231   were the  most  recurrent  and/or  dominant  fungal  genera [34,  47,  57]. In  contrast  to  previous 
+41 
+42 232   findings, our data indicate higher relative abundances of Cladosporium, detection of Mucor and 
+43 
+44 
+45 233   the absence or low abundance of genera such as Cyberlindnera, and Galactomyces [6, 19, 58]. 
+46 
+47 234   Previous studies found that the gut mycobiome of a cohort from Houston, Texas, was dominated 
+48 
+49 
+50 235   by Saccharomyces,  Malassezia and Candida [6]. By  contrast,  the  genus Malassezia was  not 
+51 
+52 236   detected in the gut mycobiome of a Pennsylvania cohort, which was instead dominated by the 
+53 
+54 237   genera Saccharomyces and Candida [19]. Differences in study methodologies may be a source of 
+55 
+56 
+57 238   these conflicting findings [6]. One study amplified the Internal Transcribed Spacer 2 (ITS2) region 
+58 
+59 239   of the fungal rRNA gene [6], and the second amplified the ITS1 region [19]. Studies similar to the 
+60 
+61 
+62                                                                                   12 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 240   work by Gardes et al. (1993) and White et al. (1990), where ITS1F and ITS2 primer sets were used 
+ 5 
+ 6 
+ 7 241   to amplify the ITS2 region, did not detect Malassezia [59, 60]. The second reason for the observed 
+ 8 
+ 9 242   differences  has  been  attributed  to differences  in  cohort  characteristics,  such  as  diet and/or 
+10 
+11 
+12 243   geographical location. Strati (2016) and Raimondi’s (2019) investigating cohorts in Italy, detected 
+13 
+14 244   same dominant fungal genera [58, 61], and the investigation of cohorts in two different states in 
+15 
+16 
+   245   the USA observed different results [6, 46]. We used ITS1 and ITS4 in this study and found that 
+17 
+18 
+19 246   the genera Pichia, Candida and Cladosporium dominated the urban cohort, whereas genera Pichia, 
+20 
+21 247   Candida and Aspergillus dominated the rural cohort. The dominant taxa identified in urban and 
+22 
+23 
+24 248   rural  locations  further support our assertion that geographic location plays a major role in  the 
+25 
+26 249   observed differences. 
+27 
+28 
+29 250   Candida albicans was the most dominant taxa n our cohort and is frequently reported as the most 
+30 
+31 
+32 251   abundant Candida species in both diseased [62] and healthy individuals [63]. Candida spp. not 
+33 
+34 252   only colonize the gut [19, 34] but several other body sites, including the oral cavity [55, 64], vagina 
+35 
+36 
+37 253   [65], and skin [66, 67]. However, Candida are autochthonous to the mammalian digestive tract 
+38 
+39 254   and species including Candida albicans, C. tropicalis, C. parapsilosis, and C. glabrata may grow 
+40 
+41 
+42 255   and colonize at 37˚C [7].  A review of the literature suggest that C. albicans carriage in healthy 
+43 
+44 256   individuals ranges from 30–60% [68] and that living mammals are considered a niche for these 
+45 
+46 257   species as they are not found in significant concentrations in soil, food or air [69, 70]. Raimondi 
+47 
+48 
+49 258   et  al., (2019) reported  that C.  albicans was frequently  detected  and  dominated  the  cultivable 
+50 
+51 259   mycobiota of different faecal samples [61].  
+52 
+53 
+54 260   Conclusions 
+55 
+56 
+57 
+58 261   This study provides the first insight into the importance of geography and lifestyle factors on the 
+59 
+60 262   gut mycobiome in rural  and urban locations in Africa. We found that fungi in the gut display 
+61 
+62                                                                                   13 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 263   distinct patterns consistent  with  geographic locality. Redundancy analysis  showed that several 
+ 5 
+ 6 
+ 7 264   lifestyle factors were major drivers explaining the distinct community structure. The results of 
+ 8 
+ 9 265   biomarker  analysis revealed several ecologically  important fungal taxa, which were unique  to 
+10 
+11 
+12 266   individuals  from urban  and  rural  areas.  These  results  have  significant  health  implications, 
+13 
+14 267   particularly for immunocompromised individuals living in rural and urban locations. Such findings 
+15 
+16 
+   268   provide a valid basis for the development of novel therapeutics or preventative measures reliant 
+17 
+18 
+19 269   on modulating the gut mycobiome.  
+20 
+21 
+22 270   Methods 
+23 
+24 
+25 271   Participant enrolment criteria for urban and rural areas 
+26 
+27 
+28 272   Volunteers were recruited from two rural locations and one urban location. For rural volunteers, 
+29 
+30 
+31 273   we recruited individuals following traditional diets, with generally low levels of processed foods. 
+32 
+33 274   Urban cohorts reported mixed diets and increased consumption of processed foods. Volunteers 
+34 
+35 
+36 275   from the Ha-Ravele and Tshikombani villages located in the Vhembe District of the Limpopo 
+37 
+38 276   Province comprised the rural cohort. Both villages  are  approximately  391  km  and  439  km, 
+39 
+40 
+41 277   respectively, from the closest city (Pretoria). This city, in the Gauteng province of South Africa, 
+42 
+43 278   served as the urban sampling area (Figure 1a). In total, 100 stool samples were collected from 
+44 
+45 279   healthy volunteers. These samples were equally divided between gender and locality [i.e. rural (25 
+46 
+47 
+48 280   males  and  25  females)  and  urban  (25  males  and  25  females)]. Self-stool  collection  kits  were 
+49 
+50 281   provided to all volunteers (Easy Sampler® Stool collection Kit, Hounisen Lab Equipment A/S, 
+51 
+52 
+53 282   Skanderborg, Denmark). 
+54 
+55 
+56 283   Inclusion and exclusion criteria  
+57 
+58 
+59 
+60 
+61 
+62                                                                                   14 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 284   The participants were all healthy adults age 18 – 50 years. Volunteers reporting antibiotic use/other 
+ 5 
+ 6 
+ 7 285   treatments in the sample collection sheets were excluded from the study. Similarly, individuals 
+ 8 
+ 9 286   who had been diagnosed with any inflammatory-related bowel diseases or gastrointestinal diseases 
+10 
+11 
+12 287   within six months prior to sample collection were excluded from the study. 
+13 
+14 
+15 288   DNA extraction 
+16 
+17 289   DNA was isolated using the PowerSoil DNA Isolation Kit (MO BIO Laboratories Inc., Carlsbad, 
+18 
+19 
+20 290   CA) following the manufacturer’s specifications with minor modifications. Briefly, approximately 
+21 
+22 291   0.25g of stool sample was transferred into the Power-Bead tubes using a sterile disposable wooden 
+23 
+24       spatula (Lasec Laboratories, RSA). The sample was homogenized by gently vortexing the tubes 
+25 292 
+26 
+27 293   for 10 s before adding 60 µL of the lysis buffer. This was then incubated for 30 min. at 55°C prior 
+28 
+29 294   to centrifugation at room temperature for 30 s at 10,000 x g. The supernatant from this step was 
+30 
+31 
+32 295   transferred to sterile 2 mL tubes and 250 µL of inhibitor removal reagent was added to this.  The 
+33 
+34 296   samples were incubated on ice for 5 min., thereafter approximately 1.2 mL of binding buffer was 
+35 
+36 
+37 297   added. Next, 70% ethanol (500 µL) was added and the contents precipitated by centrifugation at 
+38 
+39 298   room  temperature  for  60  s  at  10,000  x g.  The  DNA  was  eluted  with  100 µL  filter-sterilised 
+40 
+41 
+42 299   autoclaved Millipore water and quantified using the NanoDrop™ 2000/2000c Spectrophotometer 
+43 
+44 300   (Thermo Scientific, Waltham, MA, USA). The quality of isolated DNA was confirmed by agarose 
+45 
+46 301   gel electrophoresis, on 1% (w/v) agarose gel in 1 X TAE buffer (0.2% [w/v] Tris, 0.5% [v/v] acetic 
+47 
+48 
+49 302   acid,  1%  [v/v]  5  M  EDTA  [pH  8])  at  90  Volts  for  45 min. in  a  BioRad  Sub-Cell®  GT  gel 
+50 
+51 303   electrophoresis system with gel red visualising agent. The gel was visualised using the BioRad Gel 
+52 
+53 
+54 304   Doc system and viewed with a UV Trans-illuminator. 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62                                                                                   15 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 305   ITS gene region amplification, sequencing and data processing 
+ 5 
+ 6 
+ 7 306   The internal transcribed spacer (ITS) region was amplified using fungal-specific primers [60]: 
+ 8 
+ 9 307   ITS1F     (5‘     -CTTGGTCATTTAGAGGAAGTAA-3‘)            and     ITS4      (5‘- 
+10 
+11 
+12 308   TCCTCCGCTTATTGATATGC-3‘) and the HotStarTaq Plus Master Kit (Qiagen, Valencia, CA). 
+13 
+14 309   Amplicons from different samples were pooled to equimolar concentrations and purified of short 
+15 
+16 
+   310   fragments using Agencourt Ampure beads (Agencourt Bioscience Corporation, USA). Paired-end 
+17 
+18 
+19 311   2 x 250bp sequencing was performed on an Illumina MiSeq instrument (Illumina Inc., San Diego, 
+20 
+21 312   CA, USA) at Mr DNA (Shallowater, TX 79363). 
+22 
+23 
+24       The resultant data were analysed using the Quantitative Insights into Microbial Ecology (QIIME2) 
+25 313 
+26 
+27 314   software  version  2018.8.0 [71]. Demultiplexed  sequences were  assessed  for  quality  and  those 
+28 
+29 315   shorter than 200 bp, with quality scores below 25, containing more than two ambiguous characters 
+30 
+31 
+32 316   or more than one mismatch to the sample-specific barcode or the primer sequences, were excluded 
+33 
+34 317   from  further downstream  analyses.  Chimeric sequence detection and operation taxonomic unit 
+35 
+36 
+37 318   (OTU)  selection was  performed at 97%  sequence  similarity  using  USEARCH  v11 [72]. 
+38 
+39 319   Taxonomies were assigned to each OTU using the UNITE (release 7_99) databases for fungi [73]. 
+40 
+41 
+42 320   Singletons  were  excluded,  and  each  sample  was  randomly  subsampled  (rarefied)  to  the  same 
+43 
+44 321   number of sequences per sample (17 980).  
+45 
+46 
+47 322   Statistical analyses  
+48 
+49 
+50 323   All statistical analyses were performed in R version 3.5.1 using R studio [74, 75]. Alpha diversity 
+51 
+52 
+53 324   indices (observed, Chao1, Shannon, and Simpson indices), together with rarefaction curves were 
+54 
+55 325   calculated and visualized using the R packages “phyloseq” and “ggplot”. First, the Shapiro-Wilk’s 
+56 
+57 
+58 326   test  was  applied  to  determine  data  distribution [76].  Subsequently,  the  unpaired  two-sample 
+59 
+60 327   Wilcoxon rank sum test [77, 78] was applied to determine significant differences between the 
+61 
+62                                                                                   16 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 328   alpha diversity indices using the R packages “dplyr” version 0.4.3 and the “ggpubr” version 0.1.8. 
+ 5 
+ 6 
+ 7 329   [79, 80]. In these analyses, the rural or urban location was specified as a random factor.  
+ 8 
+ 9 
+10 330   The R packages “phyloseq” [81] and “microbiomeseq” [82] were used to calculate and visualize 
+11 
+12 331   relative taxa abundance at phylum and class level. OTU abundance was transformed to relative 
+13 
+14 
+15 332   abundance and taxa with relative abundance less than 0.1% were removed. The Wilcoxon rank 
+16 
+17 333   sum  test  was  applied  to  determine  significant  differences  between  taxa  in  the  urban  and  rural 
+18 
+19 
+20 334   samples. Whereas, the Kruskal-Wallis test [83] was applied to determine significant differences 
+21 
+22 335   between taxa in the four sample types.   
+23 
+24 
+25 336   The local contribution to beta diversity (LCBD) was  calculated according to [84]. The LCBD 
+26 
+27 
+28 337   describes  the degree of  uniqueness  of  a  given  sample in  relation  to  the  overall community 
+29 
+30 338   composition. The taxa abundance was normalized to obtain the proportion of most abundant taxa 
+31 
+32       per sample. Location was used as the grouping variable and the Hellinger method was used for the 
+33 339 
+34 
+35 340   dissimilarity coefficients calculation.  
+36 
+37 
+38 341   Pairwise similarities among samples were calculated using the Bray–Curtis index of similarity. 
+39 
+40 
+41 342   The resulting matrix was represented visually in a nonmetric multidimensional scaling (NMDS) 
+42 
+43 343   plot to observe community structure.  Using the vegan package [85], a permutational multivariate 
+44 
+45 344   analysis of variance (PERMANOVA) [86] based on 9999 permutations of the data, was performed 
+46 
+47 
+48 345   to test whether differences between sample groupings in the NMDS ordinations were statistically 
+49 
+50 346   significant. Microbial community similarities and the homogeneity of dispersion between the rural 
+51 
+52 
+53 347   and urban sample groups were tested using the ANOSIM and ADONIS tests, respectively [87, 88]. 
+54 
+55 
+56 348   The effect of the different recorded environmental factors on fungal community composition and 
+57 
+58 349   structure was determined through redundancy analysis (RDA). First, the OTU-count data were 
+59 
+60 
+61 
+62                                                                                   17 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 350   Hellinger-transformed.  The  contribution  of  highly  correlating  OTUs (p-Value  <  0.05)  with 
+ 5 
+ 6 
+ 7 351   redundancy  axes  was  identified  using  the  envfit  function  from  the  R  package  vegan [85].  To 
+ 8 
+ 9 352   measure the relationship of abundant taxa with measured anthropometric factors (age, BMI, height, 
+10 
+11 
+12 353   and  weight),  a  Spearman  correlation  analysis  was  done  and  visualized  in  the  R  package 
+13 
+14 354   microbiomeseq [82].   
+15 
+16 
+17 355   Fungal-fungal  relationships  were  interrogated  using  SparCC [89]. Correlation was  based  on 
+18 
+19 
+20 356   measuring the linear relationship between log transformed abundances. First, data were filtered to 
+21 
+22 357   remove OTUs that had less than 2 reads on average. SparCC was used to generate true correlation 
+23 
+24       coefficients from which pseudo p-values were calculated. The calculate pseudo p-values were false 
+25 358 
+26 
+27 359   discovery rate (FDR) adjusted [90] and the correlation matrix was visualized using the “corrplot” 
+28 
+29 360   function [91] in R.  
+30 
+31 
+32       Potential biomarker taxa which differed in abundance and occurrence between the two geographic 
+33 361 
+34 
+35 362   groups were detected by linear discriminant analysis (LDA) effect size (LEfSe) [33]. The LEfSe 
+36 
+37 363   was  calculated  using  the  online  Galaxy  web  application [92] with  the  Huttenhower  lab’s  tool 
+38 
+39 
+40 364   (https://galaxyproject.org/learn/visualization/custom/lefse/). First  the  nonparametric  factorial 
+41 
+42 365   Kruskal–Wallis sum rank tests (alpha = 0.01) was used to detect differential abundant features (at 
+43 
+44 
+45 366   genera, family, class and phylum level) within the two geographic locations (rural and urban). The 
+46 
+47 367   phylogenetic consistency was then tested using the pairwise Wilcoxon rank-sum tests (alpha = 
+48 
+49 
+50 368   0.01). Finally, the effect size of each differentially abundant feature was estimated using the LDA. 
+51 
+52 369   The all-against-all classes were compared (most stringent) and a linear discriminant analysis score 
+53 
+54 370   value of 2.0 was chosen as threshold for discriminative features.  
+55 
+56 
+57 
+58 371   Abbreviations  
+59 
+60 
+61 
+62                                                                                   18 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 372   IBD:  irritable  bowel  disease;  ITS:  internal  transcribed  spacer;  HMO:  human  milk 
+ 5 
+ 6 
+ 7 373   oligosaccharides;  LNT:  lacto-N-tetraose;  LNnT:  lacto-N-neo-tetraose;  OTU:  operational 
+ 8 
+ 9 374   taxonomic unit; LCTBD: local contribution to beta diversity; NMDS: nonmetric multidimensional 
+10 
+11 
+12 375   scaling; 
+13 
+14 
+15 376   Ethical clearance  
+16 
+17 
+18 377   All  experiments  were  approved  by  the  Ethics  Approval  Committee  of  the  Faculty  of  Health 
+19 
+20 378   Sciences  at  the  University  of  Pretoria  (EC  160630-051).  Participants  approved  and  provided 
+21 
+22 
+23 379   informed consent prior to enrolment in this study. All experimental methods and experiments were 
+24 
+25 380   in accordance with the Helsinki Declaration. 
+26 
+27 
+28 381    
+29 
+30 
+31       Consent for publication  
+32 382 
+33 
+34 
+35 383   All  participants  provided consent  for publication of study results of the collected biomaterials 
+36 
+37 384   paired with anonymized information on age, sex, location, diet and other data. 
+38 
+39 
+40 385   Availability of data and materials 
+41 
+42 
+43 386   The  sequence  data  generated  in  this  study are  available  on  the  NCBI 
+44 
+45 
+46 387   (https://www.ncbi.nlm.nih.gov/) under the following accession number: PRJNA589500.  
+47 
+48 
+49 388   Competing interests  
+50 
+51 
+52 389   The authors declare that they have no competing interests.  
+53 
+54 
+55 390   Funding 
+56 
+57 391   This research was supported by the South African Medical Research Foundation (TPM). MHK 
+58 
+59 
+60 392   and  KM  received  scholarships  from  the  National  Research  Foundation.  We  wish  to  thank the 
+61 
+62                                                                                   19 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 393   Fulbright program for providing sabbatical support to TPM, JJ was funded by the Microbiomes in 
+ 5 
+ 6 
+ 7 394   Transition (MinT) initiative at the Pacific Northwest National Laboratory in Richland, WA, USA. 
+ 8 
+ 9 395   PNNL  is  operated  for  the  DOE  by  Battelle  Memorial  Institute  under  Contract  DE-AC05-
+10 
+11 
+12 396   76RL01830.  
+13 
+14 
+15 397    
+16 
+17 
+18 398   Authors' contributions 
+19 
+20 
+21 399   T.P.M designed the research; Faecal samples were collected by K.M with support from M.H.K 
+22 
+23 
+   400   and  TPM.  M.H.K  and  K.M  performed  the  analyses;  M.H.K,  S.V  and  K.M  analysed  the  data; 
+24 
+25 
+26 401   M.H.K and T.P.M. wrote the paper. T.P.M. and J.J. edited the paper. All authors read and approved 
+27 
+28 402   the manuscript. 
+29 
+30 
+31 
+   403 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62                                                                                   20 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 404   Acknowledgements 
+ 5 
+ 6 
+ 7 405   We would like to thank all the volunteers for donating their data, time and samples to our research.  
+ 8 
+ 9 
+10 
+11 406   Authors' information 
+12 
+13       1.
+14 407    Centre  for  Microbial  Ecology  and  Genomics,  Department  of  Biochemistry,  Genetics  and 
+15 
+16 408   Microbiology, University of Pretoria, Pretoria 0028, South Africa  
+17 
+18 
+19 409   2. Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, 902 Battelle 
+20 
+21 410   Blvd, Richland, Washington 99352, USA 
+22 
+23 
+24 411   Corresponding author 
+25 
+26 
+27 412   Correspondence to Thulani P. Makhalanyane 
+28 
+29 413                            
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62                                                                                   21 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 414   Figure captions 
+ 5 
+ 6 
+ 7 415   Figure 1 Geographic locations and diversity estimates a) The three sampling locations in Gauteng 
+ 8 
+ 9 
+10 416   (Pretoria)  and  Limpopo  (Ha-ravele  and Tshikombani)  provinces of  South  Africa b) The 
+11 
+12 417   differences in mycobiota species richness between the two locations, gender and age group and, 
+13 
+14 
+15 418   c) The relative abundances of taxa at phylum and class levels within each location. The abundance 
+16 
+17 419   of each taxon was calculated as the percentage of sequences per gender (RF = Rural   female, RM 
+18 
+19 
+20 420   = Rural male, UF = urban female and UM = Urban male) from each location for a given microbial 
+21 
+22 421   group. The  group designated  as 'Unknown'  encompasses  unclassified  sequences  together  with 
+23 
+24       classes representing > 0.1% of the total sequences. The bar size represents the relative abundance 
+25 422 
+26 
+27 423   of specific taxa in the particular group, with colours referring to taxa according to the legend. 
+28 
+29 
+30 424    
+31 
+32 
+33 425   Figure  2 Overview  of  mycobiota  structure  and  significant  environmental drivers a) The non-
+34 
+35 
+36 426   metric  multidimensional  scaling  (NMDS)  plot  based  on  Bray–Curtis  dissimilarity  and, b) 
+37 
+38 427   Redundancy analysis (RDA) showing community structure in response to four selective variables. 
+39 
+40 
+41 428   The filled shapes reflect fungal community composition in the different locations, with colours 
+42 
+43 429   referring to location and the different explanatory variables according to the legend.  
+44 
+45 
+46 430    
+47 
+48 
+49 431   Figure 3 The results of Linear discriminant analysis (LDA) effect size (LefSe) analysis of rural 
+50 
+51 
+52 432   and  urban  gut  mycobiota a) The  cladogram shows the  output  of  the  LEfSe  algorithm,  which 
+53 
+54 433   identifies  taxonomically  consistent  differences  between  rural  (Ha-ravele  and  Tshikombani 
+55 
+56 
+57 434   villages) and urban (Pretoria) fungal community members, respectively. Taxa with nonsignificant 
+58 
+59 435   differences are  represented  as  yellow  circles  and  the  diameter  of  the  circle is proportional  to 
+60 
+61 
+62                                                                                   22 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 436   relative abundances b) The histogram of the LDA scores was computed for differentially abundant 
+ 5 
+ 6 
+ 7 437   taxa between the rural and urban gut mycobiota. The bar size represents the effect of the size of 
+ 8 
+ 9 438   specific taxa in the particular group at species level 
+10 
+11 
+12 439    
+13 
+14 
+15 440   Figure 4 Correlations occurring between fungal taxa in a) rural and b) urban fungal mycobiota 
+16 
+17 
+18 441   with P < 0.05 after FDR adjustment. Red squares represent significant negative correlations and 
+19 
+20 442   blue  squares  represent  significant  positive  correlations.  The  darker  colours  represent  stronger 
+21 
+22 
+23 443   correlations and non-significant correlations have been excluded from the plot. 
+24 
+25 
+26 444    
+27 
+28 445   Supplemental Figure legend 
+29 
+30 
+31 446   Figure S1 Comparison  of  mycobiota  between  urban  and  rural  participants  a)  Venn  diagram 
+32 
+33       showing the unique and shared phylotypes for samples collected from urban and rural participants. 
+34 447 
+35 
+36 448   b)  Rarefaction  plot  showing  sequencing  coverage.  c)  Taxa  abundance  data  was  normalised  to 
+37 
+38 449   obtain the proportion of most abundant taxa per sample. The diameter of the points at the bottom 
+39 
+40 
+41 450   of the plot corresponds to the magnitude of the LCBD value for a particular sample. The bars 
+42 
+43 451   correspond to taxa that are most abundant with the top taxa sharing a bigger portion of the bar for 
+44 
+45 
+46 452   each sample. 
+47 
+48 
+49 453                            
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62                                                                                   23 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 454   References 
+ 5 
+ 6 
+ 7 455   1.    Sogin ML, Morrison HG, Huber JA, Welch DM, Huse SM, Neal PR, Arrieta JM, Herndl GJ: Microbial 
+ 8 
+ 9 456         diversity in the deep sea and the underexplored “rare biosphere”. Proceedings of the National 
+10 457         Academy of Sciences 2006, 103(32):12115-12120. 
+11 458   2.    Richard ML, Sokol H: The gut mycobiota: insights into analysis, environmental interactions and 
+12 459         role  in  gastrointestinal  diseases. Nature  Reviews  Gastroenterology  &  Hepatology 2019, 
+13 460         16(6):331-345. 
+14 
+15 461   3.    Underhill  DM,  Iliev  ID: The  mycobiota:  interactions  between  commensal  fungi  and  the  host 
+16 462         immune system. Nature Reviews Immunology 2014, 14(6):405. 
+17 463   4.    Oever  Jt,  Netea  MG: The  bacteriome–mycobiome  interaction  and  antifungal  host  defense. 
+18 464         European journal of immunology 2014, 44(11):3182-3191. 
+19 465   5.    Huffnagle GB, Noverr MC: The emerging world of the fungal microbiome. Trends in microbiology 
+20 466         2013, 21(7):334-341. 
+21 
+22 467   6.    Nash AK, Auchtung TA, Wong MC, Smith DP, Gesell JR, Ross MC, Stewart CJ, Metcalf GA, Muzny 
+23 468         DM,  Gibbs  RA: The  gut  mycobiome  of  the  Human  Microbiome  Project  healthy  cohort. 
+24 469         Microbiome 2017, 5(1):153. 
+25 470   7.    Hallen-Adams HE, Suhr MJ: Fungi in the healthy human gastrointestinal tract. Virulence 2017, 
+26 471         8(3):352-358. 
+27 
+28 472   8.    Rizzetto L, De Filippo C, Cavalieri D: Richness and diversity of mammalian fungal communities 
+29 473         shape innate and adaptive immunity in health and disease. European journal of immunology 
+30 474         2014, 44(11):3166-3181. 
+31 475   9.    Romani L: Immunity to fungal infections. Nature Reviews Immunology 2011, 11(4):275. 
+32 476   10.   Fujimura KE, Sitarik AR, Havstad S, Lin DL, Levan S, Fadrosh D, Panzer AR, LaMere B, Rackaityte E, 
+33 
+   477         Lukacs NW: Neonatal gut microbiota associates with childhood multisensitized atopy and T cell 
+34 
+35 478         differentiation. Nature medicine 2016, 22(10):1187. 
+36 479   11.   Ott SJ, Kühbacher T, Musfeldt M, Rosenstiel P, Hellmig S, Rehman A, Drews O, Weichert W, Timmis 
+37 480         KN,  Schreiber  S: Fungi  and  inflammatory  bowel  diseases:  alterations  of  composition  and 
+38 481         diversity. Scandinavian journal of gastroenterology 2008, 43(7):831-841. 
+39 482   12.   Sokol H, Leducq V, Aschard H, Pham H-P, Jegou S, Landman C, Cohen D, Liguori G, Bourrier A, 
+40 
+41 483         Nion-Larmurier I: Fungal microbiota dysbiosis in IBD. Gut 2017, 66(6):1039-1048. 
+42 484   13.   Iliev ID, Funari VA, Taylor KD, Nguyen Q, Reyes CN, Strom SP, Brown J, Becker CA, Fleshner PR, 
+43 485         Dubinsky  M: Interactions between  commensal  fungi  and  the C-type  lectin receptor  Dectin-1 
+44 486         influence colitis. Science 2012, 336(6086):1314-1317. 
+45 487   14.   Luan  C,  Xie L,  Yang  X, Miao  H, Lv  N,  Zhang  R,  Xiao X,  Hu  Y,  Liu  Y, Wu  N: Dysbiosis  of  fungal 
+46 
+47 488         microbiota  in  the  intestinal  mucosa  of  patients  with  colorectal  adenomas. Scientific  reports 
+48 489         2015, 5:7980. 
+49 490   15.   Rodríguez MM, Pérez D, Chaves FJ, Esteve E, Marin-Garcia P, Xifra G, Vendrell J, Jové M, Pamplona 
+50 491         R, Ricart W: Obesity changes the human gut mycobiome. Scientific reports 2015, 5:14600. 
+51 492   16.   Gewolb IH, Schwalbe RS, Taciak VL, Harrison TS, Panigrahi P: Stool microflora in extremely low 
+52 493         birthweight  infants. Archives  of  Disease  in  Childhood-Fetal  and  Neonatal  Edition 1999, 
+53 
+54 494         80(3):F167-F173. 
+55 495   17.   Strati F, Di Paola M, Stefanini I, Albanese D, Rizzetto L, Lionetti P, Calabrò A, Jousson O, Donati C, 
+56 496         Cavalieri  D: Age  and  gender  affect  the  composition  of  fungal  population  of  the  human 
+57 497         gastrointestinal tract. Front Microbiol 2016, 7:1227. 
+58 
+59 
+60 
+61 
+62                                                                                   24 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 498   18.   Heisel T, Podgorski H, Staley CM, Knights D, Sadowsky MJ, Gale CA: Complementary amplicon-
+ 5 499         based genomic approaches for the study of fungal communities in humans. PLoS One 2015, 
+ 6 
+ 7 500         10(2):e0116705. 
+ 8 501   19.   Hoffmann C, Dollive S, Grunberg S, Chen J, Li H, Wu GD, Lewis JD, Bushman FD: Archaea and fungi 
+ 9 502         of the human gut microbiome: correlations with diet and bacterial residents. PLoS One 2013, 
+10 503         8(6):e66019. 
+11 504   20.   Gouba N, Raoult D, Drancourt M: Plant and fungal diversity in gut microbiota as revealed by 
+12 
+13 505         molecular and culture investigations. PloS one 2013, 8(3):e59474. 
+14 506   21.   Kowalewska B, Zorena K, Szmigiero-Kawko M, Wąż P, Myśliwiec M: Higher diversity in fungal 
+15 507         species  discriminates  children  with  type  1  diabetes  mellitus  from  healthy  control. Patient 
+16 508         preference and adherence 2016, 10:591. 
+17 509   22.   Gouba N, Raoult D, Drancourt M: Gut microeukaryotes during anorexia nervosa: a case report. 
+18 
+   510         BMC research notes 2014, 7(1):33. 
+19 
+20 511   23.   Zhang E, Tanaka T, Tajima M, Tsuboi R, Nishikawa A, Sugita T: Characterization of the skin fungal 
+21 512         microbiota  in  patients  with  atopic  dermatitis  and  in  healthy  subjects. Microbiology  and 
+22 513         immunology 2011, 55(9):625-632. 
+23 514   24.   Nguyen  LD,  Viscogliosi  E,  Delhaes  L: The  lung  mycobiome:  an  emerging  field  of  the  human 
+24 515         respiratory microbiome. Front Microbiol 2015, 6:89. 
+25 
+26 516   25.   Hamad I, Sokhna C, Raoult D, Bittar F: Molecular detection of eukaryotes in a single human stool 
+27 517         sample from Senegal. PloS one 2012, 7(7):e40888. 
+28 518   26.   Nam Y-D, Chang H-W, Kim K-H, Roh SW, Kim M-S, Jung M-J, Lee S-W, Kim J-Y, Yoon J-H, Bae J-W: 
+29 519         Bacterial, archaeal, and eukaryal diversity in the intestines of Korean people. The Journal of 
+30 520         Microbiology 2008, 46(5):491-501. 
+31 
+32 521   27.   Hamad I, Raoult D, Bittar F: Repertory of eukaryotes (eukaryome) in the human gastrointestinal 
+33 522         tract: taxonomy and detection methods. Parasite immunology 2016, 38(1):12-36. 
+34 523   28.   Xu Z, Knight R: Dietary effects on human gut microbiome diversity. Br J Nutr 2015, 113 Suppl:S1-
+35 524         5. 
+36 525   29.   Wang WL, Xu SY, Ren ZG, Tao L, Jiang JW, Zheng SS: Application of metagenomics in the human 
+37 526         gut microbiome. World J Gastroenterol 2015, 21(3):803-814. 
+38 
+39 527   30.   Suhr MJ, Banjara N, Hallen‐Adams HE: Sequence‐based methods for detecting and evaluating 
+40 528         the human gut mycobiome. Letters in applied microbiology 2016, 62(3):209-215. 
+41 529   31.   Raimondi  S,  Amaretti  A,  Gozzoli  C,  Simone  M,  Righini  L,  Candeliere  F,  Brun  P,  Ardizzoni  A, 
+42 530         Colombari B, Paulone S: Longitudinal survey of fungi in the human gut: ITS profiling, phenotyping 
+43 531         and colonization. Front Microbiol 2019, 10:1575. 
+44 
+45 532   32.   Hallen-Adams HE: Fungi in the healthy human gastrointestinal tract. Virulence 2017, 8(3):352. 
+46 533   33.   Segata N, Izard J, Waldron L, Gevers D, Miropolsky L, Garrett WS, Huttenhower C: Metagenomic 
+47 534         biomarker discovery and explanation. Genome biology 2011, 12(6):R60. 
+48 535   34.   Hallen-Adams  HE: Fungi  inhabiting  the  healthy  human  gastrointestinal  tract:  a  diverse  and 
+49 536         dynamic community. Fungal Ecology 2015, 15:9. 
+50 
+   537   35.   Wang D, Rui Y, Ding K, Cui X, Hao Y, Tang L, Pang Z, Zhang B, Zhou S, Wang K: Precipitation drives 
+51 
+52 538         the  biogeographic  distribution  of  soil  fungal  community  in  Inner  Mongolian  temperate 
+53 539         grasslands. Journal of soils and sediments 2018, 18(1):222-228. 
+54 540   36.   Summerell BA, Laurence MH, Liew EC, Leslie JF: Biogeography and phylogeography of Fusarium: 
+55 541         a review. Fungal Diversity 2010, 44(1):3-13. 
+56 542   37.   Kolecka A, Khayhan K, Groenewald M, Theelen B, Arabatzis M, Velegraki A, Kostrzewa M, Mares 
+57 
+58 543         M,  Taj-Aldeen  SJ,  Boekhout  T: Identification  of  medically  relevant  species  of  arthroconidial 
+59 544         yeasts by use of matrix-assisted laser desorption ionization–time of flight mass spectrometry. 
+60 545         Journal of clinical microbiology 2013, 51(8):2491-2500. 
+61 
+62                                                                                   25 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 546   38.   Kurtzman CP: Hyphopichia von Arx & van der Walt (1976). In: The Yeasts. Elsevier; 2011: 435-
+ 5 547         438. 
+ 6 
+ 7 548   39.   Schifferdecker AJ, Dashko S, Ishchuk OP, Piškur J: The wine and beer yeast Dekkera bruxellensis. 
+ 8 549         Yeast 2014, 31(9):323-332. 
+ 9 550   40.   Fadda  ME,  Cosentino  S,  Deplano  M,  Palmas  F: Yeast  populations  in  Sardinian  feta  cheese. 
+10 551         International Journal of Food Microbiology 2001, 69(1):153-156. 
+11 552   41.   Meroth  CB,  Hammes  WP,  Hertel  C: Identification  and  population  dynamics  of  yeasts  in 
+12 
+13 553         sourdough  fermentation  processes  by  PCR-denaturing  gradient  gel  electrophoresis. Appl 
+14 554         Environ Microbiol 2003, 69(12):7453-7461. 
+15 555   42.   Into P, Pontes A, Sampaio JP, Limtong S: Yeast Diversity Associated with the Phylloplane of Corn 
+16 556         Plants Cultivated in Thailand. Microorganisms 2020, 8(1):80. 
+17 557   43.   Landell M, Brandão L, Barbosa A, Ramos J, Safar S, Gomes F, Sousa F, Morais P, Broetto L, Leoncini 
+18 
+   558         O et al: Hannaella pagnoccae sp. nov., a tremellaceous yeast species isolated from plants and 
+19 
+20 559         soil. International journal of systematic and evolutionary microbiology 2014, 64. 
+21 560   44.   Yatsunenko T, Rey FE, Manary MJ, Trehan I, Dominguez-Bello MG, Contreras M, Magris M, Hidalgo 
+22 561         G, Baldassano RN, Anokhin AP: Human gut microbiome viewed across age and geography. nature 
+23 562         2012, 486(7402):222. 
+24 563   45.   Dominguez-Bello MG, Costello EK, Contreras M, Magris M, Hidalgo G, Fierer N, Knight R: Delivery 
+25 
+26 564         mode  shapes  the  acquisition  and  structure  of  the  initial  microbiota  across  multiple  body 
+27 565         habitats in newborns. Proceedings of the National Academy of Sciences 2010, 107(26):11971-
+28 566         11975. 
+29 567   46.   Wu GD, Chen J, Hoffmann C, Bittinger K, Chen Y-Y, Keilbaugh SA, Bewtra M, Knights D, Walters 
+30 568         WA, Knight R: Linking long-term dietary patterns with gut microbial enterotypes. Science 2011, 
+31 
+32 569         334(6052):105-108. 
+33 570   47.   Suhr  MJ: Sequencebased  methods  for  detecting  and  evaluating  the  human  gut  mycobiome. 
+34 571         Letters in Applied Microbiology 2016, 62(3):209. 
+35 572   48.   Capurso G, Lahner E: The interaction between smoking, alcohol and the gut microbiome. Best 
+36 573         practice & research Clinical gastroenterology 2017, 31(5):579-588. 
+37 574   49.   Biedermann L, Brülisauer K, Zeitz J, Frei P, Scharl M, Vavricka SR, Fried M, Loessner MJ, Rogler G, 
+38 
+39 575         Schuppler  M: Smoking  cessation  alters  intestinal  microbiota:  insights  from  quantitative 
+40 576         investigations  on  human  fecal  samples  using  FISH. Inflammatory  bowel  diseases 2014, 
+41 577         20(9):1496-1501. 
+42 578   50.   Allais L, Kerckhof FM, Verschuere S, Bracke KR, De Smet R, Laukens D, Van den Abbeele P, De Vos 
+43 579         M, Boon N, Brusselle GG: Chronic cigarette smoke exposure induces microbial and inflammatory 
+44 
+45 580         shifts and mucin changes in the murine gut. Environmental microbiology 2016, 18(5):1352-1363. 
+46 581   51.   Biedermann L, Zeitz J, Mwinyi J, Sutter-Minder E, Rehman A, Ott SJ, Steurer-Stey C, Frei A, Frei P, 
+47 582         Scharl  M: Smoking  cessation  induces  profound  changes  in  the  composition  of  the  intestinal 
+48 583         microbiota in humans. PloS one 2013, 8(3):e59260. 
+49 584   52.   Rogers MA, Greene MT, Saint S, Chenoweth CE, Malani PN, Trivedi I, Aronoff DM: Higher rates of 
+50 
+   585         Clostridium difficile infection among smokers. Plos one 2012, 7(7):e42091. 
+51 
+52 586   53.   Tomoda K, Kubo K, Asahara T, Andoh A, Nomoto K, Nishii Y, Yamamoto Y, Yoshikawa M, Kimura 
+53 587         H: Cigarette  smoke  decreases organic  acids  levels  and  population  of  bifidobacterium  in  the 
+54 588         caecum of rats. The Journal of toxicological sciences 2011, 36(3):261-266. 
+55 589   54.   Hoarau G, Mukherjee P, Gower-Rousseau C, Hager C, Chandra J, Retuerto M, Neut C, Vermeire S, 
+56 590         Clemente  J,  Colombel  J-F: Bacteriome  and  mycobiome  interactions  underscore  microbial 
+57 
+58 591         dysbiosis in familial Crohn’s disease. MBio 2016, 7(5):e01250-01216. 
+59 592   55.   Dupuy AK, David MS, Li L, Heider TN, Peterson JD, Montano EA, Dongari-Bagtzoglou A, Diaz PI, 
+60 593         Strausbaugh LD: Redefining the human oral mycobiome with improved practices in amplicon-
+61 
+62                                                                                   26 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 594         based  taxonomy:  discovery  of  Malassezia  as  a  prominent  commensal. PLoS  One 2014, 
+ 5 595         9(3):e90899. 
+ 6 
+ 7 596   56.   Mukherjee PK, Chandra J, Retuerto M, Sikaroodi M, Brown RE, Jurevic R, Salata RA, Lederman 
+ 8 597         MM,  Gillevet  PM,  Ghannoum  MA: Oral  mycobiome  analysis  of  HIV-infected  patients: 
+ 9 598         identification  of  Pichia  as  an  antagonist  of  opportunistic  fungi. PLoS  pathogens 2014, 
+10 599         10(3):e1003996. 
+11 600   57.   Rodríguez JM, Murphy K, Stanton C, Ross RP, Kober OI, Juge N, Avershina E, Rudi K, Narbad A, 
+12 
+13 601         Jenmalm MC: The composition of the gut microbiota throughout life, with an emphasis on early 
+14 602         life. Microbial ecology in health and disease 2015, 26(1):26050. 
+15 603   58.   Strati F, Cavalieri D, Albanese D, De Felice C, Donati C, Hayek J, Jousson O, Leoncini S, Pindo M, 
+16 604         Renzi D: Altered gut microbiota in Rett syndrome. Microbiome 2016, 4(1):41. 
+17 605   59.   Gardes M, Bruns TD: ITS primers with enhanced specificity for basidiomycetes‐application to the 
+18 
+   606         identification of mycorrhizae and rusts. Molecular ecology 1993, 2(2):113-118. 
+19 
+20 607   60.   White TJ, Bruns T, Lee S, Taylor J: Amplification and direct sequencing of fungal ribosomal RNA 
+21 608         genes for phylogenetics. PCR protocols: a guide to methods and applications 1990, 18(1):315-322. 
+22 609   61.   Raimondi  S,  Amaretti  A,  Gozzoli  C,  Simone  M,  Righini  L,  Candeliere  F,  Brun  P,  Ardizzoni  A, 
+23 610         Colombari  B,  Paulone  S et  al: Longitudinal  Survey  of  Fungi  in  the  Human  Gut:  ITS  Profiling, 
+24 611         Phenotyping, and Colonization. Front Microbiol 2019, 10(1575). 
+25 
+26 612   62.   Calderone RA, Clancy CJ: Candida and candidiasis: American Society for Microbiology Press; 2011. 
+27 613   63.   Silva S, Negri M, Henriques M, Oliveira R, Williams DW, Azeredo J: Candida glabrata, Candida 
+28 614         parapsilosis  and  Candida tropicalis:  biology,  epidemiology,  pathogenicity  and  antifungal 
+29 615         resistance. FEMS microbiology reviews 2012, 36(2):288-305. 
+30 616   64.   Ghannoum  MA,  Jurevic  RJ,  Mukherjee  PK,  Cui  F,  Sikaroodi  M,  Naqvi  A,  Gillevet  PM: 
+31 
+32 617         Characterization  of  the  oral  fungal  microbiome (mycobiome)  in  healthy  individuals. PLoS 
+33 618         pathogens 2010, 6(1):e1000713. 
+34 619   65.   Drell T, Lillsaar T, Tummeleht L, Simm J, Aaspõllu A, Väin E, Saarma I, Salumets A, Donders GG, 
+35 620         Metsis M: Characterization of the vaginal micro-and mycobiome in asymptomatic reproductive-
+36 621         age Estonian women. PloS one 2013, 8(1):e54379. 
+37 622   66.   Findley  K,  Oh  J,  Yang  J,  Conlan  S,  Deming  C,  Meyer  JA,  Schoenfeld  D,  Nomicos  E,  Park  M, 
+38 
+39 623         Sequencing NISCC: Topographic diversity of fungal and bacterial communities in human skin. 
+40 624         Nature 2013, 498(7454):367. 
+41 625   67.   Leung MH, Chan KC, Lee PK: Skin fungal community and its correlation with bacterial community 
+42 626         of urban Chinese individuals. Microbiome 2016, 4(1):46. 
+43 627   68.   Moran G, Coleman D, Sullivan D: An introduction to the medically important Candida species. In: 
+44 
+45 628         Candida and Candidiasis, Second Edition. American Society of Microbiology; 2012: 11-25. 
+46 629   69.   Saleh HA, Moawad AA, El-Hariri M, Refai MK: Prevalence of yeasts in human, animals and soil 
+47 630         sample at El-Fayoum Governorate in Egypt. Int J Microbiol Res 2011, 2(3):233-239. 
+48 631   70.   Vogel C, Rogerson A, Schatz S, Laubach H, Tallman A, Fell J: Prevalence of yeasts in beach sand at 
+49 632         three bathing beaches in South Florida. Water research 2007, 41(9):1915-1920. 
+50 
+   633   71.   Bolyen  E,  Rideout  JR,  Dillon  MR,  Bokulich  NA,  Abnet  C,  Al-Ghalith  GA,  Alexander  H,  Alm  EJ, 
+51 
+52 634         Arumugam  M,  Asnicar  F: QIIME  2:  Reproducible,  interactive,  scalable,  and  extensible 
+53 635         microbiome data science. In.: PeerJ Preprints; 2018. 
+54 636   72.   Edgar RC: Search and clustering orders of magnitude faster than BLAST. Bioinformatics 2010, 
+55 637         26(19):2460-2461. 
+56 638   73.   Kõljalg U, Larsson KH, Abarenkov K, Nilsson RH, Alexander IJ, Eberhardt U, Erland S, Høiland K, 
+57 
+58 639         Kjøller  R,  Larsson  E: UNITE:  a  database  providing  web‐based  methods  for  the  molecular 
+59 640         identification of ectomycorrhizal fungi. New Phytologist 2005, 166(3):1063-1068. 
+60 
+61 
+62                                                                                   27 
+63        
+64 
+65 
+ 1 
+ 2 
+ 3 
+ 4 641   74.   RDevelopmentCoreTeam: R: A Language and Environment for Statistical Computing: A Graduate 
+ 5 642         Course in Probability. R Foundation for Statistical Computing, Vienna, Austria. In.; 2018. 
+ 6 
+ 7 643   75.   Wickham H, Wickham MH: The ggplot package. In.; 2007. 
+ 8 644   76.   Villasenor Alva JA, Estrada EG: A generalization of Shapiro–Wilk's test for multivariate normality. 
+ 9 645         Communications in Statistics—Theory and Methods 2009, 38(11):1870-1883. 
+10 646   77.   Mann HB, Whitney DR: On a test of whether one of two random variables is stochastically larger 
+11 647         than the other. The annals of mathematical statistics 1947:50-60. 
+12 
+13 648   78.   Wilcoxon F: Individual comparisons by ranking methods. Biometrics bulletin 1945, 1(6):80-83. 
+14 649   79.   Wickham H, Francois R, Henry L, Müller K: dplyr: A Grammar of Data Manipulation. R package 
+15 650         version 0.4. 3. R Found Stat Comput, Vienna https://CRAN R-project org/package= dplyr 2015. 
+16 651   80.   Kassambara  A: ggpubr:‘ggplot2’Based  Publication  Ready  Plots.  R  package  version  0.1.  8.  In.; 
+17 652         2018. 
+18 
+   653   81.   McMurdie  PJ,  Holmes  S: phyloseq:  an  R  package  for  reproducible  interactive  analysis  and 
+19 
+20 654         graphics of microbiome census data. PloS one 2013, 8(4):e61217. 
+21 655   82.   Ssekagiri A, Sloan W, Ijaz U: microbiomeSeq: an R package for microbial community analysis in 
+22 656         an environmental context. In: ISCB Africa ASBCB conference: 2017. 
+23 657   83.   Breslow  N: A  generalized  Kruskal-Wallis  test  for  comparing  K  samples  subject  to  unequal 
+24 658         patterns of censorship. Biometrika 1970, 57(3):579-594. 
+25 
+26 659   84.   Legendre  P, De  Cáceres  M: Beta  diversity  as  the  variance  of  community  data:  dissimilarity 
+27 660         coefficients and partitioning. Ecology letters 2013, 16(8):951-963. 
+28 661   85.   Oksanen J, Blanchet FG, Kindt R, Legendre P, O’hara R, Simpson GL, Solymos P, Stevens MHH, 
+29 662         Wagner H: Vegan: community ecology package. R package version 1.17-4. http://cran r-project 
+30 663         org> Acesso em 2010, 23:2010. 
+31 
+32 664   86.   Anderson  MJ: A  new  method  for  non‐parametric  multivariate  analysis  of  variance. Austral 
+33 665         ecology 2001, 26(1):32-46. 
+34 666   87.   Gray J, Aschan M, Carr M, Clarke K, Green R, Pearson T, Rosenberg R, Warwick R: Analysis of 
+35 667         community  attributes  of  the  benthic  macrofauna  of  Frierfjord/Langesundfjord  and  in  a 
+36 668         mesocosm experiment. Marine Ecology Progress Series 1988, 46:151-165. 
+37 669   88.   Anderson  MJ,  Walsh  DC: PERMANOVA,  ANOSIM,  and  the  Mantel  test  in  the  face  of 
+38 
+39 670         heterogeneous dispersions: what null hypothesis are you testing? Ecological monographs 2013, 
+40 671         83(4):557-574. 
+41 672   89.   Friedman  J,  Alm  EJ: Inferring  correlation  networks  from  genomic  survey  data. PLoS 
+42 673         computational biology 2012, 8(9):e1002687. 
+43 674   90.   Benjamini Y, Hochberg Y: Controlling the false discovery rate: a practical and powerful approach 
+44 
+45 675         to  multiple  testing. Journal  of  the  Royal  statistical  society:  series  B  (Methodological) 1995, 
+46 676         57(1):289-300. 
+47 677   91.   Wei T, Simko V, Levy M, Xie Y, Jin Y, Zemla J: Package ‘corrplot’. Statistician 2017, 56:316-324. 
+48 678   92.   Blankenberg D, Kuster GV, Coraor N, Ananda G, Lazarus R, Mangan M, Nekrutenko A, Taylor J: 
+49 679         Galaxy: a web‐based genome analysis tool for experimentalists. Current protocols in molecular 
+50 
+   680         biology 2010, 89(1):19.10. 11-19.10. 21. 
+51 
+52 681    
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62                                                                                   28 
+63        
+64 
+65 
+Manuscript                                                                                                        Click here to access/download;Figure;Figure 1.pdf
+Manuscript                                                                                                                              Click here to access/download;Figure;Figure 2.pdf
+Manuscript                                                                                        Click here to access/download;Figure;Figure 3.pdf
+Manuscript                                                                                                                                          Click here to access/download;Figure;Figure 4.pdf
+Manuscript
+
+
+         
+
+
+                      Click here to access/download
+                     Supplementary Material
+                   Supplementary Figure S1.pdf

@@ -1,0 +1,1993 @@
+Lawrence Berkeley National Laboratory
+Recent Work
+
+Title
+Fungal ecological strategies reflected in gene transcription - a case study of two litter 
+decomposers.
+
+Permalink
+https://escholarship.org/uc/item/8mn549pp
+
+Journal
+Environmental microbiology, 22(3)
+
+ISSN
+1462-2920
+
+Authors
+Barbi, Florian
+Kohler, Annegret
+Barry, Kerrie
+et al.
+
+Publication Date
+2020-03-01
+
+DOI
+10.1111/1462-2920.14873
+
+Supplemental Material
+https://escholarship.org/uc/item/8mn549pp#supplemental
+ 
+Peer reviewed
+
+
+ eScholarship.org                                   Powered by the California Digital Library
+                                                                      University of California
+  1   Title
+
+  2   Fungal  ecological  strategies  reflected                    in  gene  transcription  – a
+
+  3   case study of two litter decomposers
+
+  4
+
+  5   Authors
+
+  6   Florian       Barbi1,  Annegret  Kohler2,  Kerrie                     Barry3,      Preetisri
+
+  7   Baskaran4, Chris Daum3, Laure Fauchery2, Katarina Ihrmark5, Alan
+
+  8   Kuo3,  Kurt  LaButti3,  Anna  Lipzen3,  Emmanuelle  Morin2,  Igor  V.
+
+  9   Grigoriev3,6, Bernard Henrissat7,8,9, Björn Lindahl1, Francis Martin2,10
+
+10
+
+11    1Swedish University of Agricultural Sciences, Department of Soil and Environment, Box
+
+12    7014, SE-750 07 Uppsala, Sweden
+
+13    2Université de Lorraine, INRA, UMR Interactions Arbres/Microorganismes (IAM), Laboratoire
+
+14    d’excellence Recherches Avances sur la Biologie de l’Arbre et les Ecosystèmes Forestiers
+
+15    (LabEx ARBRE), Centre INRA Grand-Est, 54280 Champenoux, France.
+
+16    3US Department of Energy Joint Genome Institute, Walnut Creek, CA 94598 USA
+
+17    4Swedish University of Agricultural Sciences, Department of Ecology, Box 7044, SE-750 07
+
+18    Uppsala, Sweden
+
+19    5Swedish University of Agricultural Sciences, Department of Forest Mycology and Plant
+
+20    Pathology, Box 7026, 750 07 Uppsala, Sweden
+
+21    6Department of Plant and Microbial Biology, University of California Berkeley, Berkeley CA
+
+22    94720 
+
+23    7CNRS UMR 7257, Aix-Marseille University, 13288, Marseille, France. 
+
+24    8INRA, USC 1408 AFMB, 13288, Marseille, France
+25   9Department of Biological Sciences, King Abdulaziz University, Jeddah, Saudi Arabia
+
+26   10Beijing  Advanced  Innovation  Center  for  Tree  Breeding by  Molecular  Design, Beijing
+
+27   Forestry University, 35 Qinghua E Rd, Haidian Qu, Beijing Shi, China, 100083.
+
+ 28
+
+29   *  Corresponding  authors:  Florian  Barbi,  Swedish  University  of  Agricultural
+
+30   Sciences, Department of Soil and Environment, Box 7014, SE-750 07 Uppsala,
+
+31   Sweden. Phone: +46 18-672720. Mail: florian.barbi@slu.se
+
+32   Björn Lindahl, Swedish University of Agricultural Sciences, Department of Soil and
+
+33   Environment,  Box  7014,  SE-750  07  Uppsala,  Sweden. Phone: +46 18-672720.
+
+34   Mail:  bjorn.lindahl@slu.se  
+
+35
+
+36   Running title
+
+37   Fungal ecology reflected in gene transcription
+
+38
+
+39   Originality-Significance Statement
+
+40   The direct assessment of ecophysiological processes, such as decomposition of
+
+41   organic matter, is a key to understand the role of microbial communities in their
+
+42   environment. We addressed this challenge by comparing information given by
+
+43   genomes vs.  transcriptomes  of  two  fungi  during  a  litter  decomposition
+
+44   experiment, in parallel with a measure of organic matter chemical changes. Our
+
+45   findings  highlight  that  contrasting  ecological  strategies     were  reflected by
+
+46   differences  in  expression  of  specific  functional  genetic  markers,  as      well as
+
+47   temporal changes in gene expression of different components of the decomposer
+
+48   machinery,  following  the chemical changes  in the  substrate  as decomposition
+
+49   progressed.  Consequently,  we  assume  that  targeting  transcription  ratios  of
+50   specific ‘keystone’ genes would be useful to assess fungal ecological strategies,
+
+51   providing information about the dynamics of ecophysiological processes, such as
+
+52   decomposition, at the ecosystem scale.
+
+53
+
+54
+
+55
+
+56   Summary
+
+57   Microbial communities interplay with their environment through their functional
+
+58   traits that can be as response or an effect to the environment. Here we explore
+
+59   how a functional trait – the decomposition of organic matter, can be address
+
+60   based  on  genetic  markers  and  how  the  expression  of  these  markers  reflect
+
+61   ecological strategies of two fungal litter decomposer Gymnopus androsaceus and
+
+62   Chalara longipes. We sequenced the genomes of these two fungi, as well as their
+
+63   transcriptomes  at  different  steps  of  Pinus  sylvestris  needles  decomposition  in
+
+64   microcosms. Our results highlighted that if the gene content of the two species
+
+65   could indicate similar potential decomposition abilities, the expression levels of
+
+66   specific  gene  families  belonging  to  the  glycosyl  hydrolases  (GH)  superfamily
+
+67   reflected  contrasting  ecological  strategies.  Actually  C.  longipes,  the   weaker
+
+68   decomposer in this experiment, turned-out to have a high content of genes
+
+69   involved in holocellulose decomposition but low expression levels, reflecting a
+
+70   versatile  ecology  compare  to  the  more  competitive  G.  androsaceus  with  high
+
+71   expression  levels  of  keystone  functional  genes.  Thus  we  established  that
+
+72   sequential  expression  of  genes  coding  for  different  components  of  the
+
+73   decomposer machinery indicated adaptation to chemical changes in the substrate
+
+74   as decomposition progressed.
+75
+
+76
+
+77   Keywords
+
+78   Fungi,  genomics/functional  genomics/comparative  genomics,  Microbial  ecology,
+
+79   Transcriptomics, Ecophysiology
+
+80
+
+81   Introduction
+
+82   To  understand  relationships  between  composition  and  function  of  microbial
+
+83   communities  it  is  essential  to  analyse  how  contrasting  ecological  traits  and
+
+84   strategies interplay with the environment (Koide et al., 2014). Direct assessment
+
+85   of  ecophysiological  traits  of  microorganisms  colonizing  natural  substrates  is  a
+
+86   major challenge, but indirect approaches based on gene content and expression
+
+87   offer new ways forward. Here we explore how fungal ecological strategies can be
+
+88   assessed  based  on  genetic  markers  of  functional  traits (Kuske et  al.,  2015;
+
+89   Treseder and Lennon, 2015), using two fungal decomposers of needle litter with
+
+90   contrasting ecological strategies as a model.
+
+91
+
+92   During the past decades the number of sequenced fungal genomes has increased
+
+93   rapidly,  especially  due  to  the Community  Science  Program        “1000  fungal
+
+94   genomes” launched by JGI (Grigoriev et al., 2014). Genomic information enables
+
+95   comparative analyses of fungal species, in order to explain functional differences
+
+96   related to the content of genes with specific functions among genomes (Eastwood
+
+97   et  al.,  2011;  Floudas et  al.,  2012;  Talbot et  al.,  2015;  Martino et  al.,  2018).
+
+98   Organic matter decomposition is a good example where losses (Kohler et al.,
+ 99   2015)  and gains (Floudas et  al.,  2012;  Riley et  al.,  2014)  of  plant  cell-wall
+
+100   degrading  enzymes  have  been  connected  to  the  evolution  of  specialized
+
+101   ecological groups. Divergent evolution of the genetic machinery of decomposition
+
+102   has led to the distinction of fungal guilds within the general guild of saprotrophs,
+
+103   such as the white-rot fungi capable of lignin degradation (Floudas et al., 2012).
+
+104   Consideration of different guilds of decomposers (e.g. opportunists, holocellulose
+
+105   decomposers  and  lignin  decomposers)  may  enable  better  prediction  of
+
+106   relationships between soil fungal communities, the chemical nature of organic
+
+107   matter and the loss and stabilization of organic pools below ground (Moorhead
+
+108   and Sinsabaugh, 2006; Talbot et al., 2015; Bhatnagar et al., 2018).
+
+109
+
+110   However, in relation to bacteria, fungi represent a narrow evolutionary branch,
+
+111   and  it  seems  plausible  that  ecological  strategies  among  fungi  largely  reflect
+
+112   differences in gene regulation rather than gene content. All genes involved in a
+
+113   process may not be of the same importance, and ecological strategies could be
+
+114   characterized  by  expression  of  certain  keystone  genes.  Further,  litter
+
+115   decomposition  is biochemically sequential, and  a  transcriptomic approach can
+
+116   provide information about the genes expressed during different phases of the
+
+117   decomposition  process.  Fungal  gene  expression  in  response  to  the  chemical
+
+118   composition of organic matter (Baldrian and López-Mondéjar, 2014), but also the
+
+119   subsequent  alteration  of  organic  matter  by  fungal  gene  products  should  be
+
+120   essential in defining the ecological strategy of fungal decomposers.
+
+121
+
+122   Fungal genes coding for enzymes involved in biochemical transformations during
+
+123   decomposition are specified according to the CAZyme classification (Lombard et
+124   al., 2014). The CAZy database characterizes evolutionary distinct enzyme families
+
+125   with respect to their biochemical properties and substrate specificities. Enzymatic
+
+126   degradation during litter decomposition can be divided into three main processes
+
+127   linked to the principal components of plant cell walls: 
+
+128       (1) Cellulose decomposition is a complex process resulting from the action of
+
+129          a variety of glycoside hydrolases (GH) (Table1). Cellulases (primarily GH5-
+
+130          5, GH6 and GH7) cleave cellulose chains, decreasing their length and
+
+131          creating new chain ends. These enzyme can act on crystalline cellulose and
+
+132          may  either  be  binding-releasing  enzymes  that  have  to  attach  to  the
+
+133          cellulose  via  CBM  for  each  hydrolytic  cleavage  or  processive  (non-
+
+134          releasing) enzymes that generate the dimer cellobiose (cellobiohydrolases)
+
+135          (Payne et al., 2015). The 1,4-β-glucosidases (GH1 and GH3) then are able
+
+136          to hydrolyze cellobiose into glucose. There is also an additional, oxidative
+
+137          mechanism to cleave the cellulose internally, based on lytic polysaccharide
+
+138          monooxygenases (LPMO), which belong the Auxiliary Activities (primarily
+
+139          AA9) class of enzyme in the CAZyme database (Levasseur et al., 2013). 
+
+140       (2) Hemicelluloses  are branched polymers that, in addition to glucose, also
+
+141          contain  fucose,  galactose,  rhamnose,  mannose,  arabinose  and  xylose
+
+142          (Sarkar et al., 2009; Schädel et al., 2010). Together these sugars form the
+
+143          three  main  polysaccharides  of  hemicelluloses:  xylan,  xyloglucan  and
+
+144          galactomannan.  Due  to  the  molecular  complexity  of  hemicelluloses,
+
+145          several sets of enzymes are involved in their decomposition (Table1). The
+
+146          involved  gene  families  are  polyspecific  and  contain  enzymes  that
+
+147          potentially  may  target  many  different  substrates.  As  for  cellulose,
+
+148          hemicellulose decomposition is initiated by endohydrolytic enzymes that
+149          create  new  chain  ends,  enabling  the  subsequent  action  of  processive
+
+150          exohydrolases followed by monomer-releasing enzymes. Pectins are also
+
+151          heteropolysaccharides  that  are  degraded  in  a  similar  manner  as
+
+152          hemicelluloses, with pectin lyases playing a key role.
+
+153       (3) Lignin is a phenolic polymer that is resistant to hydrolytic decomposition.
+
+154          Breakdown  of  lignin,  as  well  as  other  non-hydrolysable  components,
+
+155          require  oxidative  mechanisms.  In  particular,  enzymes  in  the  class  II
+
+156          peroxidase family (AA2) are able to attack a variety of chemical bonds in
+
+157          an  unspecific  manner.  Class  II  peroxidases  include  lignin  peroxidases  ,
+
+158          manganese peroxidases (MnP) and versatile peroxidases  (Martinez et al.,
+
+159          2009; Hofrichter et al., 2010). Of these, MnP are the most abundant in soils
+
+160          (Kellner et al., 2014)  and act indirectly by oxidizing Mn2+  to Mn3+, using
+
+                                                   3+
+161          H2O2  as  electron  acceptor.  The  Mn  ,  in  turn,  may  oxidise  a  variety  of
+
+162          organic  molecules.  Multicopper  oxidases  (AA1),  including  laccases,  use
+
+163          molecular oxygen as electron acceptor and have also been proposed to
+
+164          participate in lignin oxidation.
+
+165
+
+166   The primary steps of decomposition are extracellular processes responsible for
+
+167   the depolymerisation of long polymers into low molecular weight compounds that
+
+168   may be taken up by the fungi and used in intracellular metabolism. Part of the
+
+169   acquired resources will then be used in catabolism to eventually be released in
+
+
+170   the form of CO2 during respiration via two steps of the citric acid cycle mediated
+
+171   by isocitrate dehydrogenase (IDH) and the oxoglutarate dehydrogenase complex
+
+172   (OGDC). Remaining resources may be used for anabolic purposes, building cell
+
+173   components – primarily cell walls. The fungal cell wall is essentially composed by
+174   two polymers; β-1,3-glucan, polymerized by glucan synthase (GT48), and chitin,
+
+175   polymerized by chitin synthase (GT2) (Bowman and Free, 2006). The carbon (C)
+
+176   use efficiency represents the proportion of acquired carbon that the organisms
+
+177   use to build biomass (Manzoni et al., 2018).
+
+178
+
+179   In  this  study  we  addressed  how  changes  in  chemical  composition  of Pinus
+
+180   sylvestris  needle  litter  were  related  to  gene  content  and  transcription  during
+
+181   decomposition  by  two  litter  decomposer  fungi  with  contrasting  ecological
+
+182   strategies.  We  used  the  experimental  material  presented  in Baskaran et  al.
+
+183   (2019)  and  chemical  data  therein,  derived  from   13C-PMAS-NMR  spectroscopic
+
+184   analyses. Gymnopus  androsaceus  (L.) Della Magg. & Trassin. and Chalara
+
+185   longipes  (Preuss)  Cooke.  are  both  common  colonizers  of  pine  litter  but  with
+
+186   different ecological strategies and abilities regarding decomposition (Baskaran et
+
+187   al.,  2019). G.  androsaceus  is  an  efficient  decomposer   with  high  ligninolytic
+
+188   capacity (Boberg et al., 2011), whereas C. longipes  is characterized by stress
+
+189   tolerance,  endophytic  capacity (Koukol,  2011)  and  lack  of  ligninolytic  ability
+
+190   (Boberg et al., 2011). Baskaran et al.  (2019)  found that in the presence of G.
+
+191   androsaceus,  40% of the needle litter mass was lost during 10 months of
+
+192   incubation, but only 10 % in the presence of C. longipes. Further, G. androsaceus
+
+193   was  able  to  decompose  non-hydrolysable  constituents  of  the  litter,  including
+
+194   aromatic and akyl C, whereas C. longipes  only exploited the hydrolysable litter
+
+195   fraction (mainly polysaccharide O-Alkyl C).
+
+196
+
+197   Here, we sequenced the genomes of the two fungi and analysed gene expression
+
+198   during decomposition. We expected that the differences in decomposer capacity
+199   and  ecology  would  be  reflected  in  the  genomes,  in  the  expression  of  genes
+
+200   central for the decomposition machinery, as well as in the expression of genetic
+
+201   markers related to C use efficiency. C use efficiency should decrease with time,
+
+202   due  to  increased  costs  of  mycelial  maintenance  and  the  more  complex
+
+203   decomposing  machinery  required  as  the  substrate  become  increasingly
+
+204   recalcitrant (Manzoni et al., 2018). Further, C use efficiency was expected to be
+
+205   lower for C. longipes, as its stress-tolerant mycelium should have a higher cost of
+
+206   maintenance relative to its slow growth, compared with the rapidly growing G.
+
+207   androsaceus (c.f.  the  C-S-R  ecological  strategies  of Grime  1974   (Cooke  and
+
+208   Rayner, 1984)).
+
+209
+
+210   We hypothesized that:
+
+211       (1) In the genomes, there would be a correlative link between the presence or
+
+212          number  of  genes  with  a  specific  function,  the  biochemical  action  of  a
+
+213          fungus  and its affiliation  to  a  functional  guild.  While  the  gene diversity
+
+214          among relevant GH families would be predictors of cellulose, hemicellulose
+
+215          and  pectin  decomposition,  presence  of  the  AA1  and  AA2  gene  family
+
+216          should be indicative of lignin decomposition. 
+
+217       (2) In the transcriptomes, genes coding for lignocellulolytic enzymes would be
+
+218          expressed  in  sequence  during  the  progressive  decomposition  of
+
+219          hemicellulose, cellulose and lignin. The relative expression of genes coding
+
+220          for hydrolases acting on long-chain substrates, including endohydrolases
+
+221          and  processive  enzymes  as  well  as  the  oxidative  AA9)  would  be  high
+
+222          initially,  promoting  subsequent  higher  expression  of  genes  coding  for
+
+223          enzymes that release monosaccharides. Oxidative enzymes (AA1 and AA2)
+224          would primarily be expressed at late decomposition stages      (Šnajdr et al.,
+
+225          2011). 
+
+226       (3) We expected that G. androsaceus, growing and decomposing more rapidly,
+
+227          would have a higher CUE than the slowly growing C. longipes       (Manzoni et
+
+228          al., 2018) and  hypothesised that this difference would be reflected in a
+
+229          higher expression ratio of the anabolic enzymes GT48 and GT2 over the
+
+230          catabolic  enzymes  IDH  and  OGDC.  Further,  we  expected  that  CUE  (as
+
+231          indicated by the GT48 and GT2 to IDH and OGDC ratio) would decrease
+
+232          with time and increasing recalcitrance of the substrate.
+
+233
+
+234   Materials and methods
+
+235   Fungal strains and microcosms
+
+236   Strains  of Gymnopus  androsaceus  (isolate  JB14)  and Chalara  longipes  (isolate
+
+237   BDJ)  were  obtained  from  the  culture  collection  of  the  Department  of  Forest
+
+238   Mycology and Plant Pathology at the Swedish University of Agricultural Sciences.
+
+239   Details of the microcosm design are described in Baskaran et al. (2019). Briefly, a
+
+240   total of 24 microcosms were filled with 85g of sand and 11g of dry Scots pine
+
+241   needles (Pinus sylvestris) each and sterilised by gamma radiation. The needle
+
+242   litter  contained  0.42%  N,  50.6%    C,  had  a  C:N-ratio  of  120  and  a  lignin
+
+243   concentration  of  approximately  25%    (Boberg et  al.,  2014).  For  each  fungal
+
+244   species,  twelve  microcosms  were  inoculated  through  the  addition  of  single
+
+245   needles that had been pre-colonized for 2 months on N-free agar cultures. After
+
+
+246   inoculation, 20 ml of 100 mM NH4Cl solution were added to all microcosms, to
+
+247   stimulate  fungal  growth.  Sealed  microcosms  were  incubated  at  20  ºC  and  4
+248   replicates from each fungal species were harvested after 2, 5 and 10 months,
+
+249   shock frozen in liquid nitrogen, ground using mortar and pestle and stored at -80
+
+250   ºC.
+
+251   A Bruker 500 MHz Avance III spectrometer equipped with a MAS probe was used
+
+252   to acquire 13CP/MAS spectra (Schaefer and Stejskal, 1976), which were        divided
+
+253   into established spectral regions to quantify the relative contribution of O-Alkyl C,
+
+254   Alkyl C, Aromatic C and Carboxyl C.
+
+255
+
+256   DNA  and  RNA  extraction  for  genome  sequencing,  assembly  and
+
+257   annotation.
+
+258   C.  longipes  BDJ was cultured in liquid Hagem medium for 30 days and G.
+
+259   androsaceus   JB14 was  cultured in liquid  medium with 1.75% malt and  0.25%
+
+260   peptone  for 16  days.  Mycelium was freeze-dried and ground in a mortar and
+
+261   pestle with sand, and 1-5 mL was used for DNA and RNA extraction. DNA was
+
+262   extracted following a 3% CTAB-buffer/chloroform protocol (supplementary method
+
+263   A).  RNA  was  extracted  with  2%        CTAB-buffer/chloroform-isoamyl  alcohol
+
+264   (supplementary method B) and purified following the protocol of the RNeasy mini
+
+265   kit (Qiagen).
+
+266   G. androsaceus  (https://genome.jgi.doe.gov/Gyman1/Gyman1.home.html) and C.
+
+267   longipes (https://genome.jgi.doe.gov/Chalo1/Chalo1.info.html) were sequenced by
+
+268   the U.S. Department of Energy Joint Genome Institute (JGI) using a combination of
+
+269   Illumina fragment (270 bp insert size) and 4 Kbp long mate-pair (LMP) libraries,
+
+270   and assembled using ALLPATHS-LG. G. androsaceus  was improved with PacBio
+
+271   and  PBJelly.  The  genomes  were  annotated  using  the  JGI  annotation  pipeline
+
+272   (Grigoriev et  al.,  2014)  and  are  available  via  the  JGI  MycoCosm   database
+273   (jgi.doe.gov/fungi).  Transcriptomes  of  the  two  species  produced  at  JGI  were
+
+274   sequenced  using  Illumina,  assembled  using  Rnnotator  and  used  for  genome
+
+275   annotation (Kohler et al., 2015).
+
+276
+
+277   RNA extraction from microcosm, sequencing and data processing 
+
+278   Total  RNA  was  extracted  from  800  mg  of  tissue  per  sample  using  the  RNA
+
+279   PowerSoil Total RNA Isolation Kit (Mobio now Qiagen). Quantification and integrity
+
+280   check were conducted using an Experion Automated Electrophoresis Station (Bio-
+
+281   Rad, Hercules, CA, USA). Preparation of libraries (IlluminaTruSeq Stranded mRNA)
+
+282   and  2  x  125  bp  Illumina  HiSeq2500  sequencing  was  performed  by  the  GeT
+
+283   platform (Get‐PlaGe GenoToul, Castanet‐Tolosan, France) following their standard
+
+284   protocol.  Three  replicates  were  sequenced  except  for C. longipes  mycelium
+
+285   harvested after 2 and 5 month. For these two time points the amount of fungal
+
+286   material was only sufficient to extract good quality RNA for two replicates. Raw
+
+287   reads were trimmed for low quality (quality score 0.05), Illumina adapters and
+
+288   sequences shorter than 15 nucleotides and aligned to the respective reference
+
+289   transcripts available  at  JGI  (https://genome.jgi.doe.gov/programs/fungi/index.jsf)
+
+290   using the CLC Genomics Workbench v9. The following CLC genomic workbench
+
+291   parameters were used for read mapping: minimum length fraction 0.9, minimum
+
+292   similarity fraction 0.8, Mismatch cost = 2, insertion cost = 3, Deletion cost = 3,
+
+293   and the maximum number of hits for a read was set to 10. The unique and total
+
+294   mapped reads number for each transcript were determined and then normalized
+
+295   to RPKM (Reads Per Kilobase of exon model per Million mapped reads). Intact
+
+296   pairs were counted as two, broken pairs as one.      The complete data sets were
+
+297   submitted to NCBI GEO as GSEXXX. 
+298
+
+299   Analysis of gene expression in microcosms
+
+300   Specific gene families were selected from the CAZyme database (Lombard et al.,
+
+301   2014) or based on literature (Barbi et al., 2014; Treseder and Lennon, 2015)  In
+
+302   the  specific  cases  of  the GH2  family,  only  beta-mannosidases  were  selected
+
+303   based on JGI annotations (Table1). The number of genes in each selected gene
+
+304   family  were  integrated  across  the  two  fungal  genomes,  and  the  normalized
+
+305   number (RPKM) of sequenced transcripts were assessed. Statistical analyses were
+
+306   performed using R (v3.3.1) with “vegan” packages (Oksanen et al., 2019; R Core
+
+307   Team,  2019).  Changes  in  global  patterns  of  gene  expression  during  the
+
+308   experiment  were  analysed  by  Principal  Component  Analysis  (PCA)  based  on
+
+309   mean-normalized expression values. Patterns of gene expression were related to
+
+310   changes in chemical composition of the decomposing litter by fitting vectors of C
+
+311   fraction  ratios  (Table  2)  to  the  PCA.  Specific  correlations  between  expression
+
+312   ratios of genes from specific families and time or C fraction ratios were analysed
+
+313   post-hoc by linear regression.
+
+314
+
+315   Results
+
+316   The 89 Mbp genome of G. androsaceus contained 29375 genes, of which 409
+
+317   (1.4%) were identified as belonging to different GH families, while the 52 Mbp
+
+318   genome of C. longipes  contained a total of 19765 genes, of which 429 (2.2%)
+
+319   were                identified               as               GH                genes
+
+320   (https://genome.jgi.doe.gov/Gyman1/Gyman1.home.html, https://genome.jgi.doe.
+
+321   gov/Chalo1/Chalo1.home.html) (Table S1).
+
+322
+323   The genome of C. longipes contained a somewhat higher number of genes coding
+
+324   for β-glucosidases (GH1 and GH3) and cellulolytic enzymes (GH5_5, GH6, and
+
+325   GH7) as that of G. androsaceus (56 vs. 52) (Fig. 1A; Table S1). C. longipes had 93
+
+326   genes potentially involved in xylan decomposition (GH10, GH11, GH115, GH27,
+
+327   GH3, GH35, GH36, GH43, GH51, GH54, GH62 and GH67), whereas G. androsaceus
+
+328   had only 64. A high number of genes involved in hemicellulose decomposition
+
+329   seems  to  be  a  common  feature  of  Leotiomycetes,  which  in  addition  to  litter
+
+330   saprotrophs, such as C. longipes, also include endophytes and species forming
+
+331   ericoid mycorrhiza (Fig. S1). C. longipes had 34 genes involved in galactomannan
+
+332   decomposition  (GH5_7,  GH5_31,  GH27,  GH26,  GH35  and  GH36),  whereas G.
+
+333   androsaceus had only 24 genes. Both fungi contained a similar number of genes
+
+334   involved in xyloglucan decomposition (GH12, GH27, GH29, GH31, GH35, GH36,
+
+335   GH51, GH54, GH74 and GH95; 48 and 47 for C. longipes  and G. androsaceus,
+
+336   respectively) (Fig. 1C; Fig S2; Table S1). C. longipes  had 46 genes involved in
+
+337   pectin decomposition, whereas G. androsaceus had only 32 (Fig. 1E). Regarding
+
+338   lignin breakdown, C. longipes had 28 genes annotated as multicopper oxidases,
+
+339   whereas G. androsaceus had 32 (Fig. 1G). Moreover, no genes coding for versatile
+
+340   or lignin peroxidase were identified in the genomes of any of the fungi, but     the
+
+341   genome of G. androsaceus  contained 10 genes coding for class II peroxidases
+
+342   (AA2) that were further classified as Manganese Peroxidases. C. longipes, similar
+
+343   to other ascomycetes, had 4 class II peroxidases with missing key residues for Mn
+
+344   oxidation (ExxxE and D) and these have no conserved tryptophan residue (Fawal
+
+345   et  al.,  2013).  These  enzymes  have  been  classified  as  ascomycete  class  II
+
+346   peroxidases or as “generic peroxidases” (Floudas et al., 2012).
+
+347
+348   Transcriptomes  were  successfully  sequenced  from        9  microcosms  with     G.
+
+349   androsaceus (3 from each harvest) and from 7 microcosms with C. longipes (2 x 2
+
+350   months, 2 x 5 months and 3 x 10 months). In contrast to the lower number of GH
+
+351   genes in the genome of G. androsaceus, the overall expression of β-glucosidases
+
+352   and cellulase genes were 8 times higher for G. androsaceus than for C. longipes
+
+353   (Fig. 1B), and genes coding for hemicellulases and pectin lyases were also more
+
+354   highly expressed by G. androsaceus  (Fig. 1D;  Fig.  1F;  Fig.  S2). Among  genes
+
+355   involved in cellulose depolymerisation, C. longipes had 1.3 times more transcripts
+
+356   coding for β-glucosidases (GH1 and GH3) than for cellulases (GH5_5, GH6 and
+
+357   GH7), whereas G. androsaceus had higher relative expression of cellulases, with
+
+358   an average GH1+3 to GH5_5+6+7 ratio of 0.17 (Fig. 1A).
+
+359
+
+360   Gene expression during decomposition
+
+361   For G. androsaceus, changes in chemical composition of the litter followed a clear
+
+362   temporal dynamic (Fig. 2A) from month 2 (top left) to month 10 (middle right)
+
+363   (Baskaran et al., 2019). The overall pattern of gene expression changed during
+
+364   the  progression  of  the  experiment,  as  indicated  by  the  clustering  of
+
+365   transcriptomes according to harvest time in the mean-normalized PCA, as well as
+
+366   by the significant correlation between mass remaining and the PCA ordination
+
+367   axes (P=0.016). Changes in gene transcription occurred in parallel with changes
+
+368   in chemical composition of the litter, as indicated by the significant correlations
+
+369   between different C fraction ratios, as analysed by NMR, and the PCA ordination
+
+370   axes (Aromatic C to O-Alkyl C, P=0.015; Alkyl C to O-Alkyl C, P=0.026; Carboxyl C
+
+371   to O-Alkyl C, P=0.032) (Fig. 2).
+
+372
+373   Expression of G. androsaceus genes coding for cellulolytic enzymes acting on long
+
+374   chains  (GH5_5,  GH6  and  GH7)  increased  during  the  experiment,  whereas  the
+
+375   global expression level of β-glucosidase coding genes that release glucose (GH1
+
+376   and GH3) was stable, and many β-glucosidase genes were more highly expressed
+
+377   at month 2 and 5 compare to month 10 (Fig 2B; Fig S3A). The ratio of expression
+
+378   between  cellulases  and  β-glucosidases  transcripts  (i.e.  the  ratio  of
+
+379   GH5_5+GH6+GH7  to  GH1+GH3)  increased  significantly  with  time  (Fig.              3A)
+
+380   (R2=0.897, P=0.001) and was correlated with the Carboxyl C to O-Alkyl C ratio,
+
+381   which  is  an  indicator  of  increasing  decomposition  (G.  androsaceus  R2=0.787,
+
+382   P=0.001) (Fig. 3A).
+
+383
+
+384   Similarly,  considering G.  androsaceus  genes  coding  for  hemicellulases,  we
+
+385   observed  that  genes  coding  for  monosaccharide  releasing  enzymes  were
+
+386   relatively more expressed during the early stages of the experiment, whereas
+
+387   genes coding for long-chain acting enzymes were more highly expressed at later
+
+388   stages (Fig. 2B and 2C). With the exception of one GH26 and one GH5_7, genes
+
+389   coding  for  enzymes  targeting  general  hemicellulose  substrates  and
+
+390   galactomannan  (i.e.  GH2,  GH26,  GH27,  GH35,  GH5_7  and  GH5_31)  had  their
+
+391   maximum of expression at early stages. Pectinase encoding genes (GH28, GH55,
+
+392   CE8 (CE=Carbohydrate Esterases) and PL1 (PL=Polysaccharide Lyases)) tended
+
+393   to be highly expressed at intermediate stages of decomposition (Fig. S6). On the
+
+394   contrary, enzymes targeting xylan and xyloglucan (i.e. GH10, GH11, GH12) were
+
+395   mainly expressed at later stages (Fig. 2D). 
+
+396
+397   Most of the G. androsaceus AA9 genes were highly expressed at month 2 but less
+
+398   pronounced over time (Fig. 2B; Fig. 3C). AA2 genes had a maximum expression
+
+399   level at month 5 (Fig. 2B). Although the correlation between the ratio of Aromatic
+
+400   C  to  O-Alkyl  C  and  the  AA2  transcript  expression  level  was  only  marginally
+
+401   significant (R2=0.296, p-value=0.129) (Fig. S5A), there was a trend that the lignin
+
+402   to polysaccharides ratio decreased when transcription of AA2 genes was high
+
+403   (Fig. 3B). AA1 genes, coding for multicopper oxidases, were expressed throughout
+
+404   the experiment without a significant correlation (R2=0.183, p-value=0.25) with
+
+405   substrate chemical composition (Fig. S5C).
+
+406
+
+407   For C. longipes  directional changes in gene expression levels were less obvious
+
+408   (Fig.  S4A;  Fig.  S6).  Due  to  the  lack  of  good  replication  for C.  longipes,
+
+409   interpretation of gene expression dynamics is ambiguous. Actually, neither mass
+
+410   loss nor C fraction ratios were significantly correlated with the PCA ordination
+
+411   (P>0.5).   Nonetheless,  it  appeared  that  genes  coding  for  long-chain  acting
+
+412   enzymes (GH5_5, GH5_7, GH6, GH7, GH10, GH11) as well as LPMO (AA9) were
+
+413   relatively  more  highly  expressed  at  later  stages,  whereas  genes  coding  for
+
+414   monosaccharide releasing enzymes (GH1, GH3, GH2, GH27 and GH35) were more
+
+415   expressed at early stages (Fig. S4B and S4C; Fig. S3B). Moreover, C. longipes
+
+416   genes coding for ascomycetes class II peroxidases (AA2) were not significantly
+
+417   expressed, and AA1 expression was much lower than for G. androsaceus (Fig.
+
+418   1H).
+
+419
+
+420   It was visually obvious that G. androsaceus grew more vividly than C. longipes. It
+
+421   also decomposed the organic matter four times more rapidly and the gradual
+422   substitution of plant derived organic matter to organic matter derived from fungal
+
+423   mycelium was indicated by a gradual increase in the ratio of Alkyl C to O-Alkyl C
+
+424   in  presence  of G.  androsaceus  (Fig.  4) (Baskaran et  al.,  2019).  We  used  the
+
+425   expression ratio of genes coding for the GT48 and GT2 families (β-1,3-glucan
+
+426   synthase and chitin synthase) over the isocitrate dehydrogenase (IDH) and the
+
+
+427   oxoglutarate dehydrogenase complex (OGDC) (responsible for CO2 production in
+
+428   the citric acid cycle) as an indicator of C use efficiency. This expression ratio was
+
+429   3 times higher for G.  androsaceus  than  for C. longipes  and  stable  over  the
+
+430   duration of the experiment (Fig 3D).
+
+431
+
+432   Discussion
+
+433   We related gene content and transcriptional patterns to chemical changes during
+
+434   litter  decomposition  by  two  saprotrophic  fungi  with  contrasting  ecological
+
+435   strategies. Contrary to our presupposition, the presence or diversity of functional
+
+436   genes in the two genomes did not reflect the performance of the two fungi during
+
+437   decomposition.  Although C. longipes  was a  weak decomposer  of holocellulose
+
+438   compared to G. androsaceus      (Baskaran et al., 2019), we found that C. longipes
+
+439   had a higher number of transcribed genes coding for enzymes involved in
+
+440   cellulose, hemicellulose and pectin decomposition than G. androsaceus  (Fig. 1;
+
+441   Fig. S1; Fig. S2). However, the expression levels for genes considered as markers
+
+442   for plant cell wall decomposition were considerably higher for G. androsaceus
+
+443   than for C. longipes, with an almost 8 times higher average expression of genes
+
+444   coding  for  cellulases  and  β-glucosidases  and  9  times  higher  expression  of
+
+445   hemicellulose genes, as well as 4.5 time higher expression of pectinase genes
+
+446   over the time course of the experiment (Fig. 1; Fig. S2). Thus, fungal gene
+447   expression was a better predictor of cell-wall polysaccharides decomposition than
+
+448   gene content, indicating that genomic information do not suffice to understand
+
+449   functional differences between fungi of different ecological strategies.
+
+450
+
+451   In  this  context,  one  may  consider  the  recent  evolutionary  history  and  larger
+
+452   genomes of fungi relative to bacteria, which commonly have smaller genomes
+
+453   that  are  highly  optimized  according  to  environmental  selection  pressure
+
+454   (Martínez-Cano et  al.,  2015).  Compared  to  bacteria,  fungi  may  be  considered
+
+455   metabolically  similar,  with  sugars  as  their  principal  energy  source.  Thus,
+
+456   ecological strategies among fungi primarily relate to differences in the way they
+
+457   use extracellular processes and host interactions to acquire sugars. In some cases
+
+458   systematic genomic differences have been identified, e.g. between mycorrhizal
+
+459   and saprotrophic basidiomycetes (Kohler et al., 2015) or between different modes
+
+460   of wood decomposition (Riley et al., 2014; Hori et al., 2018). In contrast, our
+
+461   findings  indicate  that  the  distinct  ecological  strategies  of  two  fungal  litter
+
+462   saprotrophs were largely regulated at the transcriptional level with a high degree
+
+463   of  genomic  redundancy.  Rather  than  indicating  extensive  decomposition
+
+464   capabilities,  the  diverse  set  of  genes  involved  in  cell-wall  polysaccharides
+
+465   decomposition of C. longipes could reflect a high degree of ecological resilience
+
+466   and flexibility. Generally, Leotiomycetes (to which C. longipes  belongs) have a
+
+467   broader  tolerance  to  constrained  nutrient  availability  and  low  pH  than
+
+468   Agaricomycetes (to which G. androsaceus  belongs) (Sterkenburg et al., 2015).
+
+469   Further, C. longipes may colonise living needles as an endophyte (Koukol, 2011),
+
+470   and  this  versatile  ecology  may  be  comparable  to  ericoid  mycorrhizal
+
+471   Leotiomycetes, which have been proposed to switch between biotrophism and
+472   saprotrophism  and  also  have  a  high  content  of  genes  involved  in  cell-wall
+
+473   polysaccharide decomposition (Martino et al., 2018) (Fig. S1).
+
+474
+
+475   In contrast to the stress tolerant, versatile strategy of C. longipes, the potent
+
+476   decomposer  capacity  of  the  highly  competitive G.  androsaceus  seems  to  be
+
+477   related to high expression of a limited number of keystone genes. Its single gene
+
+478   within the GH6 family, beneficial for cleavage of crystalline cellulose (Payne et al.,
+
+479   2015), was highly transcribed at an almost 40 times higher rate than the three
+
+480   GH6 genes of C. longipes, suggesting a keystone role of GH6 transcription for
+
+481   cellulose  decomposition  (Fig.  1).  The  presence  of  10  AA2  genes  (MnP)  in G.
+
+482   androsaceus confirms the pivotal role of extracellular peroxidases for overall plant
+
+483   cell-wall decomposition (Floudas et al., 2012), particularly in boreal ecosystems
+
+484   (Kyaschenko et al., 2017; Stendahl et al., 2017). While G. androsaceus was able
+
+485   to cause significant mass loss of non-hydrolysable litter components, C. longipes,
+
+486   with  only  four  non-expressed  genes  coding  for  “generic”  ascomycete  class  II
+
+487   peroxidases and  a  low  expression  of  AA1  genes  (multicopper  oxidases  incl.
+
+488   laccases), was unable to attack this fraction (Baskaran et al., 2019). 
+
+489
+
+490   We  hypothesized  that  genes  coding  for  plant  cell  wall  decomposing  enzymes
+
+491   would be sequentially expressed as decomposition progressed, with long-chain
+
+492   acting  enzymes  initiating  the  process,  monosaccharide-releasing  enzymes
+
+493   increasing  in  relative  importance  with  time,  and  oxidative  enzymes  primarily
+
+494   being produced at late stages of decomposition. On the contrary, we found that
+
+495   genes coding for enzymes acting on long chains (including the cellulases of GH6
+
+496   and  GH7  as  well  as  endoxylanases,  xyloglucan  endoglucanases  and
+497   endomannanases belonging to the families GH10, GH11, GH12, GH5 and GH26)
+
+498   were most expressed towards the end of the experiment, whereas genes coding
+
+499   for  monosaccharide-releasing  β-glucosidases  (GH1  and  GH3),  β-mannosidases
+
+500   (GH2), galactosidases (GH 27 and GH35) and pectinases (GH28, GH55, PL1, CE8)
+
+501   were expressed also during early stages of decomposition (Fig. 2, Fig. S3, Fig S6).
+
+502   For both fungi the expression ratio of cellulases (GH5_5, GH6 and GH7) to β-
+
+503   glucosidases  (GH1  and  GH3)  increased  over  time  with  a  higher  ratio  for G.
+
+504   androsaceus  (Fig. 3A). Further, the cellulases to β-glucosidases expression ratio
+
+505   also increased as the Carboxyl C to O-Alkyl C ratio increased (Fig. 2; Fig. 3A),
+
+506   which indicates loss of polysaccharides in relation to more stable compounds.
+
+507   Thus,  counterintuitively,  production  of  long-chain  acting  enzymes  seemed  to
+
+508   increase as the pool of hydrolysable polysaccharides was depleted. These results
+
+509   partly  agrees  with  the  dynamics  of  enzyme  activities  in  other  decomposition
+
+510   experiments (Šnajdr et al., 2011; Presley et al., 2018). 
+
+511
+
+512   Based on these observations, we conceptualise that the polysaccharides of the
+
+513   plant cell wall do not constitute a homogenous pool with respect to susceptibility
+
+514   to enzymatic hydrolysis, but rather a spectrum from long unbranched molecules
+
+515   to highly branched and cross-linked structures. Linear chains may be efficiently
+
+516   hydrolysed  by  a  minimum      of  internal  chain  cleavages,  followed  by  rapid
+
+517   depolymerisation  by  processive  (non-releasing)  enzymes,  leading  to  ample
+
+518   production  of  small  polysaccharides.  These,  in  turn,  require  high  activity  of
+
+519   monosaccharide-releasing enzymes for sugars to become available for uptake. As
+
+520   susceptible substrates are depleted, the proportion of branched and cross-linked
+
+521   polysaccharides raises, and thus increasing the demand for internal cleavage and
+522   chain-end formation. Further, cross-linking and branching efficiently disrupt the
+
+523   processive mechanism of non-releasing hydrolases, leading to a lower production
+
+524   of  small  polysaccharides (Yoshida et  al.,  2008)  (Fig.  5).  Thus,  the  increasing
+
+525   expression of genes coding for long-chain active enzymes with time should not be
+
+526   interpreted as accelerating rate of decomposition, but rather as a response to
+
+527   decreasing availability of susceptible substrates and a lower output of products
+
+528   per enzymatic reaction event. 
+
+529
+
+530   Another interpretation would be that crystalline cellulose – the primary target of
+
+531   enzymes in the GH6 and GH7 families – is less readily hydrolysed than amorphous
+
+532   cellulose and hemicellulose and thus remains until later stages of decomposition,
+
+533   motivating late expression of GH6 and GH7 encoding genes. However, this theory
+
+534   disagrees with our observations that genes coding for AA9 enzymes (LPMO) –
+
+535   instrumental for the initiation of degradation of crystalline cellulose (Hu et al.,
+
+536   2014)  –  were  expressed  primarily  during  early  stages  (for G.  androsaceus),
+
+537   whereas  genes  related  to  decomposition  of  xylan  and  xyloglucan  –  the  main
+
+538   hemicelluloses of the secondary cell wall of softwood (Shrotri et al., 2017) – were
+
+539   primarily expressed at later stages (Fig. 2D).
+
+540
+
+541   In light of our results we suggest that the expression ratio of GH5_5+GH6+GH7 to
+
+542   GH1+GH3 could be used as a marker of declining substrate quality, with low
+
+543   ratios indicating opportunistic use of more labile substrates, whereas a high ratio
+
+544   indicate  more  efficient  resource  utilization,  also  targeting  more  recalcitrant
+
+545   compounds. 
+
+546
+547   In  the  case  of  C.  longipes,  which  did  not  use  oxidative  mechanisms  for
+
+548   ligninolysis, the Aromatic C to O-Alkyl C ratio increased with time (Fig S5B) as
+
+549   holocellulose was degraded. In contrast, in G. androsaceus, this ratio decreased
+
+550   concurrently with an increase in AA2 gene expression from month 2 to month 5
+
+551   (Fig 3B). Although the correlation was not clearly significant, we observed a trend
+
+552   of lower Aromatic-C to O-Alkyl-C ratio when AA2 gene expression was higher (Fig
+
+553   S5A).  This  may  indicate  that,  after  initial  consumption  of  susceptible
+
+554   polysaccharides,  the  proportion  of  lignin  increases,  and  cross-linking  between
+
+555   polysaccharides  and  lignin    (Iiyama   et  al.,  1994)  may  impede  hydrolytic
+
+556   depolymerisation (Yoshida et  al.,  2008).  This  view  is  congruent  with  the
+
+557   increasing  ratio  of  Aromatic  C  over  O-Alkyl  C  in C.  longipes, but with the
+
+558   ligninolytic G.  androsaceus  the  chemical barrier to  hydrolysis  may  have  been
+
+559   counter-acted  by  peroxidases  making  new  polysaccharides  susceptible  to
+
+560   depolymerisation. The relatively early expression of AA2 genes and many AA1
+
+561   genes in G. androsaceus was in disagreement with our original hypothesis, as well
+
+562   as with the result of Šnajdr et al. (2011), who observed increasing Mn-peroxidase
+
+563   and laccase activity at late decomposition stages. Earlier expression of oxidative
+
+564   enzymes during decomposition of pine needles may be explained by the high
+
+565   proportion  of  O-Alkyl  C  in  the  non-hydrolysable  pool (Baskaran et  al.,  2019),
+
+566   potentially  cross-linked  to  lignin (Iiyama et  al.,  1994).  Moreover,  sequential
+
+567   patterns of decomposition observed in the field may also reflect the ecological
+
+568   succession of fungi during litter decomposition, in which initial decomposition by
+
+569   endophytic  ascomycetes  is  replaced  by  the  later  action  of  basidiomycetes
+
+570   (Voříšková and Baldrian, 2013).
+
+571
+572   The  lytic  polysaccharide  monooxygenases  (LPMO)  of  the  AA9  family  are,
+
+573   supposedly,  secreted  during  the  early  steps  of  the  decomposition  process
+
+574   (Couturier et  al.,  2015)  and  act  in  synergy  with  cellulases  to  enhance  their
+
+575   decomposition  capacity (Harris et  al.,  2010;  Hu et  al.,  2014;  Couturier et  al.,
+
+576   2016). This idea is in agreement with our observations of G. androsaceus, where
+
+577   AA9  gene  expression  declined  as  decomposition  progressed  and  the  more
+
+578   efficient oxidative AA2  enzymes        were  induced  (Fig. 2B;  Fig. 3C). However, C.
+
+579   longipes without expressed AA2 coding genes and low AA1 gene expression was
+
+580   unable  to  attack  lignin,  and  when  susceptible  polysaccharides  were  depleted,
+
+581   expression of AA9 increased (Fig. 3C; Fig. S4B).
+
+582
+
+583   After uptake of decomposition products, carbohydrates are partitioned between
+
+584   catabolic and anabolic metabolic pathways. The expression ratio of genes coding
+
+585   for enzymes involved in the synthesis of the two principal components of the
+
+586   fungal cell wall, namely β-1.3 glucan and chitin (i.e. GT48 and GT2) over genes
+
+587   coding for central enzymes of the respiration (i.e. IDH and OGDC in the Citric acid
+
+588   cycle) was much higher in G. androsaceus than C. longipes (Fig. 3D). This higher
+
+589   expression ratio is indicative of a higher CUE for G. androsaceus, in line with our
+
+590   initial hypothesis and the intense mycelial growth of G. androsaceus observed in
+
+591   the microcosms (Fig. 4). C. longipes had a similar expression of genes associated
+
+
+592   with CO2 production, but lower expression of GT48 and GT2 genes, in line with its
+
+593   meagre  mycelial  growth.  However,  contrary  to  our  hypothesis  the  gene
+
+594   expression  indicator  of  CUE  ratio  remained  constant  over  the  experiment,
+
+595   indicating  that  the  partitioning  of  acquired  resources  between  growth  and
+
+596   respiration was not altered by decreasing chemical quality of the substrate or
+597   mycelial senescence. Thus, the increasing enzyme production in more recalcitrant
+
+598   materials, as indicated by the upregulated transcription of CAZyme genes with
+
+599   time, seems not to be associated with a major respiratory cost. However, the
+
+600   markers we used to reflect respiration are putative, and careful analyses of gene
+
+
+601   expression and CO2 production in parallel are needed. Our observations may be
+
+602   interpreted  within  the  C-S-R  theoretical  framework  (Grime,  1977;  Cooke  and
+
+603   Rayner, 1984; Crowther et al. 2014), with C. longipes having stress-tolerant traits,
+
+604   such as  a versatile but  inefficient  decomposition machinery and low resource
+
+605   allocation  to  mycelial  growth.  In  contrast,  the  traits  of G.  androsaceus  are
+
+606   congruent  with  a  C-strategy,  with  higher  biomass  production  and  efficient
+
+607   exploitation of organic matter resources.
+
+608
+
+609   To conclude, expression analysis of specific genetic markers seems to be useful
+
+610   to assess fungal ecological strategies, providing information about the dynamics
+
+611   of ecophysiological processes, such as decomposition. By targeting transcription
+
+612   ratios  of  specific  ‘keystone’  genes  at  the  ecosystem  scale  (i.e. meta-
+
+613   transcriptomics), information about the interplay between the fungal communities
+
+614   and their environment may be derived that could be used to decipher the role of
+
+615   fungi as mediators of ecosystem responses to environmental change (Lindahl and
+
+616   Kuske, 2013; Treseder and Lennon, 2015).
+
+617
+
+618   Acknowledgment
+
+619   Thanks are due to Mats Sandgren for valuable comments and friendly review
+
+620   of the manuscript. 
+621   This work was supported by The Swedish Research Council FORMAS (grant 2011-
+
+622   1747 to B.L.), the Genomic Science Program, US Department of Energy, Office of
+
+623   Science  and  the  Laboratory  of  Excellence  ARBRE  (grant  no.  ANR-11-LABX-
+
+624   0002_ARBRE). The research was also supported by the Institut National de la
+
+625   Recherche Agronomique, University of Lorraine, Région Lorraine Research Council
+
+626   and the European Fund for Regional Development. The work conducted by the
+
+627   U.S. Department of Energy Joint Genome Institute, a DOE Office of Science User
+
+628   Facility, is supported by the Office of Science of the U.S. Department of Energy
+
+629   under Contract No. DE-AC02-05CH11231.
+
+630
+
+631   The authors have no conflict of interest to declare.
+
+632
+
+633   References
+
+634         Baldrian,  P.  and  López-Mondéjar,  R.  (2014)  Microbial  genomics,
+
+635          transcriptomics and proteomics: new discoveries in decomposition research
+
+636          using  complementary  methods. Applied  Microbiology  and  Biotechnology
+
+637          98: 1531–1537.
+
+638         Barbi, F., Bragalini, C., Vallon, L., Prudent, E., Dubost, A., Fraissinet-Tachet,
+
+639          L., et al. (2014) PCR Primers to Study the Diversity of Expressed Fungal
+
+640          Genes Encoding Lignocellulolytic Enzymes in Soils Using High-Throughput
+
+641          Sequencing. PLoS ONE 9: e116264.
+
+642         Baskaran, P., Ekblad, A., Soucémarianadin, L.N., Hyvönen, R., Schleucher,
+
+643          J., and Lindahl, B.D. (2019) Nitrogen dynamics of decomposing Scots pine
+
+644          needle  litter  depends  on  colonizing  fungal  species. FEMS  Microbiology
+
+645          Ecology 95:.
+646         Bhatnagar,  J.M.,  Peay,  K.G.,  and  Treseder,  K.K.  (2018)  Litter  chemistry
+
+647          influences decomposition through activity of specific microbial functional
+
+648          guilds. Ecological Monographs 88: 429–444.
+
+649         Boberg, J.B., Finlay, R.D., Stenlid, J., Ekblad, A., and Lindahl, B.D. (2014)
+
+650          Nitrogen and carbon reallocation in fungal mycelia during decomposition of
+
+651          boreal forest litter. PloS one 9: e92897–e92897.
+
+652         Boberg, J.B., Ihrmark, K., and Lindahl, B.D. (2011) Decomposing capacity of
+
+653          fungi commonly detected in Pinus sylvestris needle litter. Fungal Ecology 4:
+
+654          110–114.
+
+655         Bowman,  S.M.  and  Free,  S.J.  (2006)  The  structure  and  synthesis  of  the
+
+656          fungal cell wall. BioEssays 28: 799–808.
+
+657         Cooke,  R.C.,  (viaf)76376799  and  Rayner,  A.D.M.  (1984)  Ecology  of
+
+658          saprotrophic fungi, London : Longman.
+
+659         Couturier, M., Bennati-Granier, C., Urio, M.B., Ramos, L.P., and Berrin, J.-G.
+
+660          (2016)  Fungal  Enzymatic  Degradation  of  Cellulose.  In,  Soccol,C.R.,
+
+661          Brar,S.K.,  Faulds,C.,  and  Ramos,L.P.  (eds), Green  Fuels  Technology:
+
+662          Biofuels. Cham: Springer International Publishing, pp. 133–146.
+
+663         Couturier,  M.,  Navarro,  D.,  Chevret,  D.,  Henrissat,  B.,  Piumi,  F.,  Ruiz-
+
+664          Dueñas,  F.J.,  et  al.  (2015)  Enhanced  degradation  of  softwood  versus
+
+665          hardwood by the white-rot fungus Pycnoporus coccineus. Biotechnology for
+
+666          biofuels 8: 216–216.
+
+667         Crowther, T.W., Maynard, D.S., Crowther, T.R., Peccia, J., Smith, J.R., and
+
+668          Bradford,  M.A.  (2014)  Untangling  the  fungal  niche:  the  trait-based
+
+669          approach. Front Microbiol 5: 579–579.
+670         Eastwood,  D.C.,  Floudas,  D.,  Binder,  M.,  Majcherczyk,  A.,  Schneider,  P.,
+
+671          Aerts,  A.,  et  al.  (2011)  The  Plant  Cell  Wall–Decomposing  Machinery
+
+672          Underlies the Functional Diversity of Forest Fungi. Science 333: 762.
+
+673         Fawal, N., Li, Q., Savelli, B., Brette, M., Passaia, G., Fabre, M., et al. (2013)
+
+674          PeroxiBase:  a  database  for  large-scale  evolutionary  analysis  of
+
+675          peroxidases. Nucleic acids research 41: D441–D444.
+
+676         Floudas, D., Binder, M., Riley, R., Barry, K., Blanchette, R.A., Henrissat, B.,
+
+677          et  al.  (2012)  The  Paleozoic  Origin  of  Enzymatic  Lignin  Decomposition
+
+678          Reconstructed from 31 Fungal Genomes. Science 336: 1715–1719.
+
+679         Grigoriev, I.V., Nikitin, R., Haridas, S., Kuo, A., Ohm, R., Otillar, R., et al.
+
+680          (2014)  MycoCosm  portal:  gearing  up  for  1000  fungal  genomes. Nucleic
+
+681          Acids Research 42: D699–D704.
+
+682         Grime,  J.P.  (1974)  Vegetation  classification  by  reference  to  strategies.
+
+683          Nature 250: 26–31.
+
+684         Harris,  P.V.,  Welner,  D.,  McFarland,  K.C.,  Re,  E.,  Navarro  Poulsen,  J.-C.,
+
+685          Brown, K., et al. (2010) Stimulation of Lignocellulosic Biomass Hydrolysis by
+
+686          Proteins  of  Glycoside  Hydrolase  Family  61:  Structure  and  Function  of  a
+
+687          Large, Enigmatic Family. Biochemistry 49: 3305–3316.
+
+688         Hofrichter, M., Ullrich, R., Pecyna, M.J., Liers, C., and Lundell, T. (2010) New
+
+689          and  classic  families  of  secreted  fungal  heme  peroxidases. Applied
+
+690          Microbiology and Biotechnology 87: 871–897.
+
+691         Hu,  J.,  Arantes,  V.,  Pribowo,  A.,  Gourlay,  K.,  and  Saddler,  J.N.  (2014)
+
+692          Substrate  factors  that  influence  the  synergistic  interaction  of  AA9  and
+
+693          cellulases during the enzymatic hydrolysis of biomass. Energy Environ Sci
+
+694          7: 2308–2315.
+695         Iiyama, K., Lam, TBT., and Stone, B.A. (1994) Covalent Cross-Links in the
+
+696          Cell Wall. Plant Physiol 104: 315.
+
+697         Kellner, H., Luis, P., Pecyna, M.J., Barbi, F., Kapturska, D., Krüger, D., et al.
+
+698          (2014) Widespread Occurrence of Expressed Fungal Secretory Peroxidases
+
+699          in Forest Soils. PLoS ONE 9: e95557.
+
+700         Kohler, A., Kuo, A., Nagy, L.G., Morin, E., Barry, K.W., Buscot, F., et al.
+
+701          (2015)  Convergent  losses  of  decay  mechanisms  and  rapid  turnover  of
+
+702          symbiosis genes in mycorrhizal mutualists. Nature Genetics 47: 410–415.
+
+703         Koide, R.T., Fernandez, C., and Malcolm, G. (2014) Determining place and
+
+704          process:  functional  traits  of  ectomycorrhizal  fungi  that  affect  both
+
+705          community structure and ecosystem function. New Phytologist        201: 433–
+
+706          439.
+
+707         Koukol, O. (2011) New species of Chalara occupying coniferous needles.
+
+708          Fungal Diversity 49: 75.
+
+709         Kuske, C.R., Hesse, C.N., Challacombe, J.F., Cullen, D., Herr, J.R., Mueller,
+
+710          R.C., et al. (2015) Prospects and challenges for fungal metatranscriptomics
+
+711          of complex communities. Fungal Ecology 14: 133–137.
+
+712         Kyaschenko,  J.,  Clemmensen,  K.E.,  Karltun,  E.,  and  Lindahl,  B.D.  (2017)
+
+713          Below-ground organic matter accumulation along a boreal forest fertility
+
+714          gradient  relates  to  guild  interaction  within  fungal  communities. Ecology
+
+715          Letters 20: 1546–1555.
+
+716         Levasseur,  A.,  Drula,  E.,  Lombard,  V.,  Coutinho,  P.M.,  and  Henrissat,  B.
+
+717          (2013)  Expansion  of  the  enzymatic  repertoire  of  the  CAZy  database  to
+
+718          integrate auxiliary redox enzymes. Biotechnology for Biofuels 6: 41.
+719         Lindahl, B.D. and Kuske, C.R. (2013) Metagenomics for Study of Fungal
+
+720          Ecology. In, The Ecological Genomics of Fungi. John Wiley & Sons, Ltd, pp.
+
+721          279–303.
+
+722         Lombard,  V.,  Golaconda  Ramulu,  H.,  Drula,  E.,  Coutinho,  P.M.,  and
+
+723          Henrissat, B. (2014) The carbohydrate-active enzymes database (CAZy) in
+
+724          2013. Nucleic Acids Research 42: D490–D495.
+
+725         Manzoni, S., Čapek, P., Porada, P., Thurner, M., Winterdahl, M., Beer, C., et
+
+726          al. (2018) Reviews and syntheses: Carbon use efficiency from organisms to
+
+727          ecosystems – definitions, theories, and empirical evidence. Biogeosciences
+
+728          15: 5929–5949.
+
+729         Martinez,  D.,  Challacombe,  J.,  Morgenstern,  I.,  Hibbett,  D.,  Schmoll,  M.,
+
+730          Kubicek, C.P., et al. (2009) Genome, transcriptome, and secretome analysis
+
+731          of  wood  decay  fungus  Postia  placenta  supports  unique  mechanisms  of
+
+732          lignocellulose conversion. Proceedings of the National Academy of Sciences
+
+733          106: 1954–1959.
+
+734         Martínez-Cano, D.J., Reyes-Prieto, M., MartÃnez-Romero, E., Partida-MartÃ-
+
+735          nez, L.P., Latorre, A., Moya, A., and Delaye, L. (2015) Evolution of small
+
+736          prokaryotic genomes. Frontiers in Microbiology 5:.
+
+737         Martino, E., Morin, E., Grelet, G.-A., Kuo, A., Kohler, A., Daghino, S., et al.
+
+738          (2018)  Comparative  genomics  and  transcriptomics  depict  ericoid
+
+739          mycorrhizal  fungi  as  versatile  saprotrophs  and  plant  mutualists. New
+
+740          Phytologist 217: 1213–1229.
+
+741         Moorhead, D.L. and Sinsabaugh, R.L. (2006) A THEORETICAL MODEL OF
+
+742          LITTER DECAY AND MICROBIAL INTERACTION. Ecological Monographs             76:
+
+743          151–174.
+744         Oksanen, J., Blanchet, F.G., Friendly, M., Kindt, R., Legendre, P., McGlinn,
+
+745          D., et al. (2019) vegan: Community Ecology Package.
+
+746         Payne, C.M., Knott, B.C., Mayes, H.B., Hansson, H., Himmel, M.E., Sandgren,
+
+747          M., et al. (2015) Fungal Cellulases. Chem Rev 115: 1308–1448.
+
+748         Presley, G.N., Panisko, E., Purvine, S.O., and Schilling, J.S. (2018) Coupling
+
+749          Secretomics with Enzyme Activities To Compare the Temporal Processes of
+
+750          Wood  Metabolism     among  White  and  Brown  Rot  Fungi. Applied  and
+
+751          Environmental Microbiology 84:.
+
+752         R  Core  Team    (2019)  R:  A  Language  and  Environment  for  Statistical
+
+753          Computing.
+
+754         Riley, R., Salamov, A.A., Brown, D.W., Nagy, L.G., Floudas, D., Held, B.W., et
+
+755          al.  (2014)  Extensive  sampling  of  basidiomycete  genomes  demonstrates
+
+756          inadequacy  of  the  white-rot/brown-rot  paradigm  for  wood  decay  fungi.
+
+757          Proceedings of the National Academy of Sciences 111: 9923–9928.
+
+758         Sarkar, P., Bosneaga, E., and Auer, M. (2009) Plant cell walls throughout
+
+759          evolution: towards a molecular understanding of their design principles.
+
+760          Journal of Experimental Botany 60: 3615–3635.
+
+761         Schädel, C., Blöchl, A., Richter, A., and Hoch, G. (2010) Quantification and
+
+762          monosaccharide  composition  of  hemicelluloses  from         different  plant
+
+763          functional types. Plant Physiology and Biochemistry 48: 1–8.
+
+764         Schaefer,  J.  and  Stejskal,  E.O.  (1976)  Carbon-13  nuclear  magnetic
+
+765          resonance of polymers spinning at the magic angle. J Am Chem Soc          98:
+
+766          1031–1032.
+767         Shrotri, A., Kobayashi, H., and Fukuoka, A. (2017) Chapter Two - Catalytic
+
+768          Conversion  of  Structural  Carbohydrates  and  Lignin  to  Chemicals.  In,
+
+769          Song,C. (ed), Advances in Catalysis. Academic Press, pp. 59–123.
+
+770         Šnajdr,  J.,  Cajthaml,  T.,  Valášková,  V.,  Merhautová,  V.,  Petránková,  M.,
+
+771          Spetz, P., et al. (2011) Transformation of Quercus petraea litter: successive
+
+772          changes in litter chemistry are reflected in differential enzyme activity and
+
+773          changes  in  the  microbial  community  composition:  Transformation  of
+
+774          Quercus petraea litter. FEMS Microbiology Ecology 75: 291–303.
+
+775         Stendahl, J., Berg, B., and Lindahl, B.D. (2017) Manganese availability is
+
+776          negatively  associated  with  carbon  storage  in  northern  coniferous  forest
+
+777          humus layers. Scientific Reports 7:.
+
+778         Sterkenburg, E., Bahr, A., Brandström Durling, M., Clemmensen, K.E., and
+
+779          Lindahl, B.D. (2015) Changes in fungal communities along a boreal forest
+
+780          soil fertility gradient. New Phytologist 207: 1145–1158.
+
+781         Talbot,  J.M.,  Martin,  F.,  Kohler,  A.,  Henrissat,  B.,  and  Peay,  K.G.  (2015)
+
+782          Functional guild classification predicts the enzymatic role of fungi in litter
+
+783          and soil biogeochemistry. Soil Biology and Biochemistry 88: 441–456.
+
+784         Treseder, K.K. and Lennon, J.T. (2015) Fungal Traits That Drive Ecosystem
+
+785          Dynamics on Land. Microbiology and Molecular Biology Reviews         79: 243–
+
+786          262.
+
+787         Yoshida, M., Liu, Y., Uchida, S., Kawarada, K., Ukagami, Y., Ichinose, H., et
+
+788          al. (2008) Effects of Cellulose Crystallinity, Hemicellulose, and Lignin on the
+
+789          Enzymatic  Hydrolysis  of     Miscanthus  sinensis  to  Monosaccharides.
+
+790          Bioscience, Biotechnology, and Biochemistry 72: 805–810.
+
+791
+792   Data accessibility
+
+793   Gymnopus                             androsaceus                            genome:
+
+794   https://genome.jgi.doe.gov/Gyman1/Gyman1.home.html 
+
+795   GenBank  accessions:  BioProject  PRJNA234428,  BioSample  SAMN05660848,
+
+796   Accession VKGB00000000.
+
+797   Chalara longipes genome: https://genome.jgi.doe.gov/Chalo1/Chalo1.info.html
+
+798   GenBank  accessions:  BioProject PRJNA213334,  BioSample            SAMN02745709,
+
+799   Accession VKGA00000000.
+
+800   Microcosms  experiment  transcriptome  data  sets: NCBI  GEO  as  GSEXXX
+
+801   (Submission in progess)
+
+802
+
+803
+
+804   Author Contributions
+
+805   FB, AKo, PB, BL, FM designed research; LF, PB, KI performed research; KI, LF, BH,
+
+806   IG contributed new reagents or analytical tools; AKu, KL, CD, KB, BH, IG were
+
+807   involved in genomes project and annotations; FB, AKo, EM, BL analyzed data; FB,
+
+808   AKo, BL, FM wrote the paper.
+
+809
+
+810   Table 1. Characteristics of the selected CAZyme gene families.
+
+811   For  each  CAZyme  family  information  concerning  the  enzyme  substrate,
+
+812   mechanism, active site, 3D structure of catalytic domain and binding location are
+
+813   from      the     CAZyme       database      (http://www.cazy.org/),      CAZypedia
+
+814   (http://www.cazypedia.org/index.php/Main_Page),           ExplorEnz        database
+
+815   (http://www.enzyme-database.org/index.php),           and       JGI       annotation
+
+816   (https://jgi.doe.gov)
+817   *GH2 beta-mannosidase were selected based on JGI annotations
+
+818   **GH28 pectine lyases were selected based on JGI annotations
+
+819   ***This family include exo- and endo-enzymes but a majority of the member are
+
+820   exo-enzymes (CAZyme)
+
+821   ****Including subfamilies AA1_1, AA1_2 and AA1_3 
+
+822
+
+823   Table 2. Interpretation of 13C CP/MAS-NMR spectroscopy
+
+824   Specific  C  pools  of  chemical  fractions  of Pinus  sylvestris  needle  litter  are
+
+825   interpreted in terms of organic matter compounds.  
+
+826
+
+827
+
+828   Figure 1. Gene content in genomes and global expression levels
+
+829   (A, C, E and G) Bar plots indicating the number of genes present in the genomes
+
+830   of Gymnopus  androsaceus  and Chalara  longipes. (B,  D,  F  and  H)  Bar  plots
+
+831   indicated the global expression levels (i.e. addition of the average of relative gene
+
+832   expression levels for each month). (A and B) Selected gene families involved in
+
+833   cellobiose  and  cellulose  decomposition  are  indicated  in  light  blue  (GH1),  blue
+
+834   (GH3), light green (GH5 (subfamily 5)), green (GH6), dark green (GH7). (C and B)
+
+835   Restricted  number  of  relevant  gene  families  coding  for  enzymes  targeting  a
+
+836   specific substrate in hemicelluloses are indicated in cyan (GH10), blue (GH11),
+
+837   purple (GH12), red (GH2), dark green (GH26), green (GH27), yellow (GH35) and
+
+838   brown (GH5 (subfamilies 7 and 31)). (E and F) Selected gene families involved in
+
+839   pectin decomposition are indicated in light blue (GH28*), darkblue (GH55), green
+
+840   (CE8), yellow (PL1), orange (PL3_2). (G and H) Selected gene families coding for
+841   multicopper oxidases are indicated in brown (AA1), darkred (AA1_1), red (AA1_2),
+
+842   pink (AA1_3).
+
+843   GH2*: Only beta-mannosidase. Based on JGI annotations. Transcript Id 916611,
+
+844   962261  and  1012799  for G.  androsaceus.  JGI  Transcript  Id  193197,  345240,
+
+845   354232, 396534, 406068, 470006, 493784 and 503773 for C. longipes.
+
+846   GH28*  For G.  androsaceus the  JGI  Transcript  Id  991351  is  not  annotated  as
+
+847   pectinase.
+
+848
+
+849
+
+850   Figure 2.
+
+851   Principal component analysis (PCA) ordination displaying Gymnopus androsaceus
+
+852   overall pattern of gene expression during the experiment. Relative abundance of
+
+853   expressed  genes  are  mean-normalized  to  represent  the  dynamic  of  gene
+
+854   expressions. Areas represent the global expression levels (i.e. sum of the average
+
+855   for each of the 3 month) for the selected genes, at a logarithmic scale. Vectors
+
+856   fitted the litter mass remaining and different carbon fractions of litter organic
+
+857   matter to the PCA ordination. The different plots highlight (A) the transcriptomes
+
+858   from month 2 (M2T1, M2T2, M2T3), month 5 (M5T1, M5T2, M5T3) and month 10
+
+859   (M10T1, M10T2, M10T3), (B) expressed genes involved in cellobiose and cellulose
+
+860   decomposition  (monosaccharide  releasing  enzymes  in  blue,  long-chain  acting
+
+861   enzymes in green and LPMO in red) and lignin decomposition (Class II peroxidases
+
+862   in  purple), (C)  expressed  genes  coding  for  hemicellulases  (monosaccharide
+
+863   releasing enzymes in blue and long-chain acting enzymes in green), (D) the
+
+864   different hemicelluloses (xylan and xyloglucan in blue, galactomannan in green
+
+865   and all of them in red) targeted by the hemicellulases.
+866
+
+867
+
+868   Figure 3. 
+
+869   (A) Relationship between the ratio GH5_5+GH6+GH7 to GH1+GH3 and the ratio
+
+870   Carboxyl C to O-Alkyl C. (B) Evolution over months of the relative abundance of
+
+871   expressed genes coding for class II peroxidases     (AA2) in parallel with the ratio
+
+872   Aromatic C to O-Alkyl C in presence of G. androsaceus (purple). (C) Evolution over
+
+873   months  of  the  relative  abundance  of  expressed  genes  coding  for  lytic
+
+874   polysaccharide  monooxygenases      (AA9). (D) Relationship  between  the  relative
+
+875   abundance of expressed genes coding for the β-glucan synthase (GT48) plus the
+
+876   chitin synthase (GT2) and the genes coding for the oxoglutarate dehydrogenase
+
+877   complex (OGDC) plus isocitrate dehydrogenases (IDH). Data obtained from litter
+
+878   decomposition  microcosms  in  presence  of Gymnopus  androsaceus  (blue)  and
+
+879   Chalara longipes (red) at month 2 (empty circle), month 5 (circle with cross) and
+
+880   month 10 (full circle). Lines represent fitted linear regressions with P <0.05 (solid
+
+881   line), 0.1< P >0.05 (dashed line), P >0.1 (dotted line). 
+
+882
+
+883
+
+884   Figure 4. Needle litter microcosms.
+
+885   The pictures of the litter microcosms have been taken after 10 month in presence
+
+886   of Gymnopus androsaceus (left side, blue) and Chalara longipes (right side, red).
+
+887   The bar plots indicate the percentage of needle litter mass remaining and the
+
+888   gradual substitution of plant derived organic matter to fungal derived organic
+
+889   matter (i.e. ratio Alkyl C to O-Alkyl C) measured at month 2 (M2), 5 (M5) and 10
+
+890   (M10) for both fungi.
+891
+
+892
+
+893   Figure 5. Conceptual figure of plant polysaccharide pools hydrolysis over time.
+
+894   Plant cell wall constitutes a spectrum from long unbranched molecules to highly
+
+895   branched  and  cross-linked  structures. (Top  frame)  At  the  beginning  of  the
+
+896   decomposition process, long unbranched molecules are efficiently hydrolysed by
+
+897   few  long-chain  acting  enzymes  and  require  high  activity  of  monosaccharide-
+
+898   releasing enzymes for sugars to become available for uptake. (Bottom frame) In
+
+899   later  stage  of  decomposition  process,  the  higher  proportion  of  branched  and
+
+900   cross-linked structures increase the demand for internal cleavage and chain-end
+
+901   formation performed by long-chain acting enzymes an require equivalent or lower
+
+902   activity of monosaccharide-releasing enzymes. Consequently with the progress of
+
+903   decomposition  the  ratio  of  long-chain  acting  enzymes  to  monosaccharide-
+
+904   releasing enzymes increase.
+
+905
+
+906
+
+907   Table S1. CAZy assignments for the 2 fungi Gymnopus androsaceus and Chalara
+
+908   longipes.
+
+909
+
+910   Table S2. G. androsaceus and C. longipes genomes information
+
+911
+
+912   Figure  S1.  Heatmap  representing  the  degree  of  CAZYmes  content  similarity
+
+913   between Chalara longipes, Gymnopus androsaceus and 28 other Ascomycota and
+
+914   Basidiomycota  published  genomes.  From  left  to  right  Cadospora  sp.  (Cadsp1)
+
+915   END, Oidodendron maius (Oidma1) ERM, Phialocephala scopiformis (Phisc1) END,
+916   Chalara longipes  (Chalo1) SAP, Meliniomyces variabilis  (Melva1) ERM, Armillaria
+
+917   cepistipes  (Armcep1)  SAP,  Gymnopus  androsaceus (Gyman1)  SAP, Gymnopus
+
+918   luxurians  (Gymlu1)  SAP, Amanita  muscaria  (Amamu1)  ECM, Paxillus  involutus
+
+919   (Paxin1) ECM, Laccaria bicolor (Lacbi2) ECM, Postia placenta (Pospl1) SAP, Serpula
+
+920   lacrimans (Serla2) SAP, Heterobasidion annosum (Hetan2) P, Trametes versicolor
+
+921   (Trave1) P, Phanerochaete chrysosporium (Phchr2) SAP, Schizophyllum commune
+
+922   (Schco3) SAP, Pleurotus ostreatus (Pleos2) SAP, Coprinopsis cinerea (Copci1) SAP,
+
+923   Sacharomyces  cerevisiae  (Sacce1)  Y,  Tuber  melanosporum  (Tubme1v2)  ECM,
+
+924   Terfezia boudieri (Terbo2) ECM, Morchella importuna (Morco1) SAP, Neurospora
+
+925   crassa (Neucr2) SAP, Ascocoryne sarcoides  (Ascsa1), Glarea lozoyensis (Glalo1)
+
+926   SAP,  Glonium    stellatum  (Glost2)  SAP,  Rhizoscyphus  ericae  (Rhier1)  ERM,
+
+927   Aspergillus nidulans (Aspni7) SAP, Cenococcum geophilum (Cenge3) ECM. Fungal
+
+928   guilds:  ericoid  mycorrhiza  (ERM),  endophyte  (END),  Ectomycorrhiza  (ECM),
+
+929   saptrotroph (SAP), pathogen (P), yeast (Y).
+
+930
+
+931
+
+932   Figure S2. Gene content in genomes and global expression levels
+
+933   On the left: bar plots indicating the number of genes coding for hemicellulases
+
+934   involved in xylan, xyloglucan and galactomannan decomposition, present in the
+
+935   genomes of Gymnopus androsaceus and Chalara longipes. On the right: bar plots
+
+936   indicating the global expression levels (i.e. addition of the average of relative
+
+937   gene expression levels for each month) of genes coding for hemicellulases. 
+
+938
+
+939
+940   Figure  S3. Dynamic  of  transcription  for  genes  involved  in  cellobiose  and
+
+941   cellulose depolymerisation.
+
+942   Relative  abundance  of  expressed  genes  coding  for  monosaccharide  releasing
+
+943   enzymes (β-glucosidases GH1 in green and GH3 in yellow), genes coding for long-
+
+944   chain acting enzymes (GH5_5 in black, GH6 in blue and GH7 in red), at month 2, 5
+
+945   and 10, for (A)   Gymnopus androsaceus  and (B)      Chalara longipes  (right). Lines
+
+946   represent fitted linear regressions with P <0.05 (solid line), 0.1< P >0.05 (dashed
+
+947   line), P >0.1 (dotted line).
+
+948
+
+949
+
+950   Figure S4.
+
+951   Principal component analysis (PCA) ordination displaying Chalara longipes overall
+
+952   pattern  of  gene  expression  during  the  experiment.  Relative  abundance  of
+
+953   expressed  genes  are  mean-normalized  to  represent  the  dynamic  of  gene
+
+954   expressions. Areas represent the global expression levels (i.e. sum of the average
+
+955   for each of the 3 month) for the selected genes, at a logarithmic scale. Vectors
+
+956   fitted the litter mass remaining and different carbon fractions of litter organic
+
+957   matter to the PCA ordination. The different plots highlight (A) the transcriptomes
+
+958   from  month  2  (M2T1,  M2T2),  month  5  (M5T1,  M5T2)  and  month  10  (M10T1,
+
+959   M10T2,  M10T3), (B)  expressed       genes  involved  in  cellobiose  and  cellulose
+
+960   decomposition  (monosaccharide  releasing  enzymes  in  blue,  long-chain  acting
+
+961   enzymes  in  green  and  LPMO  in  red), (C)  expressed  genes  coding  for
+
+962   hemicellulases (monosaccharide releasing enzymes in blue and long-chain acting
+
+963   enzymes in green), (D) the different hemicelluloses (xylan and xyloglucan in blue,
+
+964   galactomannan in green and all of them in red) targeted by the hemicellulases.
+965
+
+966
+
+967   Figure S5.
+
+968   (A)  Relationship  between  the  ratio  Aromatic  C  to  O-Alkyl  C  and  the  relative
+
+969   abundance  of  expressed  genes  coding  for  Class  II  peroxidases  (AA2)  for
+
+970   Gymnopus androsaceus at month 2 (empty circle), month 5 (circle with cross) and
+
+971   month 10 (full circle). (B) Evolution over month of the ratio Aromatic C to O-Alkyl
+
+972   C  in  presence  of Chalara  longipes. (C) Relationship  between  the  relative
+
+973   abundance      of  expressed      genes  coding       for  multicopper  oxidases
+
+974   (AA1+AA1_1+AA1_2+AA1_3) and the ratio Aromatic C to O-Alkyl C. Data obtained
+
+975   from  litter  decomposition  microcosms  in  presence  of Gymnopus  androsaceus
+
+976   (blue) and Chalara longipes (red) at month 2 (empty circle), month 5 (circle with
+
+977   cross) and month 10 (full circle). Lines represent fitted linear regressions with P
+
+978   <0.05 (solid line), 0.1< P >0.05 (dashed line), P >0.1 (dotted line). 
+
+979
+
+980
+
+981   Figure S6.
+
+982   Principal component analysis (PCA) ordination displaying Gymnopus androsaceus
+
+983   and Chalara longipes  overall pattern of gene expression during the experiment.
+
+984   Relative abundance of expressed genes are mean-normalized to represent the
+
+985   dynamic of gene expressions. Areas represent the global expression levels (i.e.
+
+986   sum of the average for each of the 3 month) for the selected genes, at a
+
+987   logarithmic scale. Vectors fitted the litter mass remaining and different carbon
+
+988   fractions  of  litter  organic  matter  to  the  PCA  ordination.  The  different  plots
+
+989   highlight (A) Gymnopus androsaceus transcriptomes from month 2 (M2T1, M2T2),
+990   month 5 (M5T1, M5T2) and month 10 (M10T1, M10T2, M10T3), (B)              Gymnopus
+
+991   androsaceus  expressed     genes  involved  in  pectin  decomposition  (yellow  and
+
+992   green) and expressed genes coding for laccases (blue). (C)         Chalara  longipes
+
+993   transcriptomes from month 2 (M2T1, M2T2), month 5 (M5T1, M5T2) and month 10
+
+994   (M10T1, M10T2, M10T3), (D) Chalara longipes expressed genes involved in pectin
+
+995   decomposition (yellow and green) and expressed genes coding for laccases (blue)
+
+996

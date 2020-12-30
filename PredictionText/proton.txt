@@ -1,0 +1,2016 @@
+                                              Published for SISSA by   Springer
+
+                                                             Received: July 8, 2020
+                                                       Accepted: September 22, 2020
+                                                        Published: November 2, 2020
+
+Investigation into the event-activity dependence of
+
+Υ(nS) relative production in proton-proton collisions                                 JHEP11(2020)001
+    √
+at     s  = 7   TeV
+
+
+The CMS collaboration
+
+ E-mail: cms-publication-committee-chair@cern.ch
+
+Abstract:  The ratios of the production cross sections between the excited Υ(2S) and
+Υ(3S) mesons and the Υ(1S) ground state, detected via their decay into two muons,
+are studied as a function of the number of charged particles in the event. The data are
+                             √
+from proton-proton collisions at s = 7 TeV, corresponding to an integrated luminosity
+of 4.8 fb−1, collected with the CMS detector at the LHC. Evidence of a decrease in these
+ratios as a function of the particle multiplicity is observed, more pronounced at low trans-
+                 µµ                        µµ
+verse momentum  pT . For Υ(nS) mesons with pT > 7 GeV, where most of the data were
+collected, the correlation with multiplicity is studied as a function of the underlying event
+transverse sphericity and the number of particles in a cone around the Υ(nS) direction.
+                                                                        µµ
+The ratios are found to be multiplicity independent for jet-like events. The mean pT values
+for the Υ(nS) states as a function of particle multiplicity are also measured and found to
+grow more steeply as their mass increases.
+
+Keywords:   B physics, Hadron-Hadron scattering (experiments), Particle correlations and
+ﬂuctuations, Quarkonium
+
+ArXiv ePrint:  2007.04277
+
+
+Open Access, Copyright CERN,                 https://doi.org/10.1007/JHEP11(2020)001
+for the beneﬁt of the CMS Collaboration.
+Article funded by SCOAP3.
+Contents
+
+1  Introduction1
+
+2  The CMS detector2
+
+3  Data analysis3
+   3.1  Event selection3
+
+   3.2  Track multiplicity evaluation3                                                JHEP11(2020)001
+   3.3  Signal extraction5
+   3.4  Acceptances, eﬃciencies and vertex merging corrections6
+
+4  Results and discussion8
+   4.1  The Υ(nS) ratios vs. multiplicity8
+   4.2  Transverse momentum dependence9
+   4.3  Local multiplicity dependence                                        10
+   4.4  Dependence on the Υ(nS) isolation                                    11
+   4.5  Transverse sphericity dependence                                     12
+   4.6  Discussion                                                           12
+
+5  Summary                                                                   13
+
+The CMS collaboration                                                        19
+
+1   Introduction
+
+A wealth of experimental data on quarkonium production is available [1], but very little of it
+investigates the relationship to the underlying event (UE). For instance, the fragmentation
+of soft gluons [2] or feed-down processes [3] (decays of higher-mass states to a lower-mass
+one), could generate diﬀerent numbers of particles associated with each of the quarkonium
+states. Therefore, the global event characteristics (multiplicity, sphericity, etc.) may show
+variations that depend on the quarkonium state. Recent observations in proton-proton
+(pp) collisions at the LHC have shown that J/ψ [4] and D [5] meson yields increase with
+the associated track multiplicity, which has been explained as a consequence of multiparton
+interactions [6]. The same eﬀect was seen in pp and proton-lead (pPb) collisions [7] for
+Υ(nS) mesons, where n = (1, 2, 3), with the additional observation that this eﬀect is more
+pronounced for the ground state than for the excited states.
+    A host of results obtained in pp collisions at the LHC [8–13] may be interpreted as
+a signal of collective eﬀects in the high particle density environment created at TeV en-
+ergies [14, 15]. However, it is still not clear whether the small-size system created in pp
+collisions could exhibit ﬂuid-like properties due to early thermalisation, as observed in
+PbPb collisions [16, 17]. Some of the collective eﬀects detected so far could possibly be re-
+produced by fragmentation of saturated gluon states [18] or by the Lund string model [19].
+
+
+                                     – 1 –
+These observations suggest that diﬀerent phenomena need to be considered for a full un-
+derstanding of the quarkonium and heavy-ﬂavour production mechanisms. An analysis
+of the dependence of quarkonium yields as a function of the number of charged particles
+produced in the event in pp collisions may help to resolve some of these questions [20, 21],
+in particular in interpreting the observed production rates in heavy ion collisions [22].
+    In this paper, measurements are presented of the cross section ratios, multiplied by the
+branching fractions to a muon pair [23], of the bottomonium excited states Υ(2S) and Υ(3S)
+to the ground state Υ(1S) (indicated by Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S), respectively) as
+a function of the number of charged particles per event in pp collisions at a centre-of-mass
+
+
+         √                                                                            JHEP11(2020)001
+energy of s = 7 TeV.
+    The data were collected in 2011 by the CMS experiment at the LHC. The Υ(nS) states
+are detected via their dimuon decay in the Υ(nS) rapidity range |yµµ| < 1.2. The charged
+
+particle multiplicity of the interaction containing the dimuon, Ntrack, is calculated starting
+                                                              track
+from the number of reconstructed tracks with transverse momentum pT > 0.4 GeV and
+pseudorapidity |ηtrack| < 2.4, and correcting for the track reconstruction eﬃciency. To-
+gether with the Υ(nS) cross section ratios, the evolution of the average transverse momen-
+                   
+ µµ                                   µµ
+tum of the Υ states, pT , is studied with respect to Ntrack. For pT > 7 GeV, additional
+observables are considered to characterise the dependence of the production cross section
+
+ratios on Ntrack, including the number of particles produced in various angular regions
+with respect to the Υ(nS) momentum direction, the number of particles in a restricted
+cone around this direction, and the transverse sphericity of charged particles in the event.
+
+2   The CMS detector
+
+The central feature of the CMS apparatus is a superconducting solenoid of 6 m internal
+diameter, providing a magnetic ﬁeld of 3.8 T. Within the solenoid volume are a silicon
+pixel and strip tracker, a lead tungstate crystal electromagnetic calorimeter, and a brass
+and scintillator hadron calorimeter, each composed of a barrel and two endcaps sections.
+Forward calorimeters extend the η coverage provided by the barrel and endcap detectors.
+Muons are detected in gas-ionisation chambers embedded in the steel ﬂux-return yoke
+outside the solenoid.
+    The silicon tracker measures charged particles within the range |ηtrack| < 2.5. During
+the LHC running period when the data used in this paper were recorded, the silicon tracker
+consisted of 1440 silicon pixel and 15 148 silicon strip detector modules. For nonisolated
+               track              track
+particles of 1 < pT < 10 GeV and |η  | < 1.4, the track resolutions are typically 1.5%
+   track
+in pT   and 25–90 (45–150) µm in the transverse (longitudinal) impact parameter [24].
+    Muons are measured in the range |ηµ| < 2.4, with detection planes made using three
+technologies: drift tubes, cathode strip chambers, and resistive plate chambers. Matching
+muons to tracks measured in the silicon tracker results in a transverse momentum resolution
+                         µ
+between 1% and 2.8%, for pT up to 100 GeV [25].
+    Events of interest are selected using a two-tiered trigger system [26]. The ﬁrst level,
+composed of custom hardware processors, uses information from the calorimeters and muon
+detectors to select events at a rate of around 100 kHz within a time interval of less than
+
+
+                                     – 2 –
+4 µs. The second level, known as the high-level trigger, consists of a farm of processors
+running a version of the full event reconstruction software optimised for fast processing,
+and reduces the event rate to around 1 kHz before data storage.
+    A more detailed description of the CMS detector, together with a deﬁnition of the
+coordinate system used and the relevant kinematic variables, can be found in ref. [27].
+
+3   Data analysis
+
+3.1  Event selection
+                                                                                      JHEP11(2020)001
+The trigger used to select events for this analysis requires an opposite-sign muon pair
+                                                  µµ
+with an invariant mass 8.5 < mµµ < 11.5 GeV, and |y | <  1.25, with no explicit pT
+requirement on the muons. Additionally, the dimuon vertex ﬁt χ2 probability has to be
+greater than 0.5% and the distance of closest approach between the two muons less than
+5 mm . Events where the two muons bend toward each other in the magnetic ﬁeld, such
+that their trajectory can cross within the muon detectors, are rejected to limit the trigger
+rate, while retaining the highest quality muon pairs. During the 2011 data taking, the
+                                                                             µµ
+increase in the LHC instantaneous luminosity necessitated the increase of the minimum pT
+requirement to maintain a constant rate for Υ(nS) events. The collected data correspond to
+                             −1      −1          −1              µµ
+an integrated luminosity of 0.3 fb , 1.9 fb , and 4.8 fb for minimum pT requirements
+                                              µµ
+of 0, 5, and 7 GeV, respectively. For the inclusive pT > 0 sample, the data are weighted
+according to the relative integrated luminosity of the period in which they were taken.
+    In the oﬄine analysis, two reconstructed opposite-sign muon tracks [28] are required to
+match the triggered muons. Each muon candidate must pass a pseudorapidity-dependent
+                    µ                    µ         µ               µ
+pT requirement with pT > 2 GeV for 1.6 < |η | < 2.4, pT > 3.5 GeV for |η | < 1.2, and
+                           µ                     µ                    µµ
+a linear interpolation of the pT threshold for 1.2 < |η | < 1.6. Given the |y | trigger
+constraints, the analysis is restricted to the kinematic region |yµµ| < 1.2. In addition, the
+muon tracks are each required to have at least 11 tracker hits, including at least two hits
+in the pixel detector. The track ﬁt must have a χ2 per degree of freedom (ndf) below 1.8
+and the tracks must intersect the beam line within a cylinder of radius 3 cm and length
+30 cm around the detector centre. Finally, the χ2 probability of the vertex ﬁt must exceed
+1%. These selection criteria result in 3 million candidates within the invariant mass range
+
+8.6 < mµµ < 11.3 GeV used to extract the signal.
+
+3.2  Track multiplicity evaluation
+In 2011, the average number of reconstructed pp collision vertices per bunch crossing
+(pileup) was seven. The reconstructed pp collision vertex that is closest to the dimuon
+vertex is considered as the production vertex (PV), and events in which another vertex
+is located closer than 0.2 cm along the beam line are discarded. This removes 8% of the
+events. The PV  must be located within 10 cm of the centre of the detector along the
+beamline, where the track reconstruction eﬃciency is constant.
+    The contribution of every track to the PV is given as a weight [24]. A track is considered
+associated if this weight is above 0.5, and the multiplicity is measured by considering the
+
+
+                                     – 3 –
+associated tracks that satisfy the high-purity criteria of ref. [24]. These criteria use the
+number of silicon tracker layers with hits, the χ2/ndf of the track ﬁt, and the impact
+parameter with respect to the beamline to reduce the number of spurious tracks. In
+addition, the following criteria are designed to check the quality of the tracks and ensure
+that they emanate from the PV. The transverse and longitudinal impact parameters of
+each track with respect to the PV must be less than three times the calculated uncertainty
+
+in the impact parameter. The tracks must also have a calculated relative pT uncertainty
+                track            track
+less than 10%, |η  | < 2.4, and |pT | > 0.4 GeV. The muon tracks are used in the
+vertex reconstruction, but are not counted in Ntrack.
+    Detector eﬀects in track reconstruction are studied with Monte Carlo (MC) samples JHEP11(2020)001
+generated with pythia 8.205 [29] and a UE tune CUETP8M1 [30], using a full simulation
+of the CMS detector response based on Geant4 [31]. The MC samples are reconstructed
+with the same software framework used for the data, including an emulation of the trigger.
+The track reconstruction eﬃciency for tracks originating from the PV and within the
+                                            track
+chosen kinematic region increases from 60% at pT = 0.4 GeV to greater than 90% for
+ track
+pT   > 1 GeV, with an average value of 75%. The rate of misreconstructed tracks (tracks
+coming from the reconstruction algorithms not matched with a simulated track) is 1–2%.
+                                                      track    track
+Following the method of ref. [32], two-dimensional maps in |η | and pT of the tracker
+eﬃciency and misreconstruction rate, are used to produce a factor for each track, given by
+
+the complement to 1 of the misreconstruction rate, divided by the eﬃciency. The Ntrack
+value is given by the sum of the associated tracks weighted by this factor. To evaluate
+the systematic uncertainties in the track multiplicity, correction maps are produced using
+diﬀerent types of processes (such as Drell-Yan and multijet events) and another pythia
+
+UE tune (4C [33]). The eﬀect on the ﬁnal Ntrack is of the order of 1%. This is combined
+in quadrature with the uncertainty in the tracking eﬃciency, which is 3.9% for a single
+
+track [24]. In the selected data sample, the mean track pT is around 1.4 GeV and the mean
+                    
+     
+corrected multiplicity Ntrack = 37.7  0.1 (stat)  1.4 (syst). This multiplicity is about
+twice the value of 17.8 found in an analysis of minimum bias (MB) events [8], which do not
+
+have any selection bias. The average corrected multiplicity is shown for 20 Ntrack ranges
+                                                       µµ
+in table1 . The same binning is used for the Υ(nS) ratios for pT > 7 GeV as a function of
+Ntrack. Diﬀerent Ntrack binning has been used for the other results, to take into account
+the available event statistics with alternative selections.
+
+    While the described Ntrack variable is used for all the results in this paper, to facilitate
+                                                                       true
+comparisons with theoretical models, the corresponding true track multiplicity (Ntrack) was
+also evaluated, where simulated stable charged particles (cτ > 10 mm) are counted. A large
+Drell-Yan pythia sample was used, which was produced with the same pileup conditions
+
+as data. Given the diﬀerence in the Ntrack distribution between data and simulation, the
+simulation events have been reweighed to reproduce the Ntrack distribution in data. Then,
+                             true                                 track
+for every range of Ntrack, the Ntrack distribution is produced both for pT > 0.4 GeV
+and >  0 GeV. These distributions are ﬁtted with two half-Gaussians, which are folded
+normal distributions having the same mean and diﬀerent standard deviations on the left
+and right sides. The most probable values from the ﬁts are listed in the third and fourth
+                     track                                    track
+columns of table1 for pT  > 0.4 GeV and 0 GeV, respectively. For pT > 0.4 GeV the
+
+
+                                     – 4 –
+              
+           true   track       true   track   
+    Ntrack     Ntrack     Ntrack pT > 0.4 GeV Ntrack pT > 0 GeV    MB (%)
+     0–6    4.2  0.2  0.1    4.2  0.3           6.6  0.6      26.94  0.03
+    6–11    8.8  0.4  0.3    8.9  0.4          14.9  0.9      16.73  0.03
+    11–15  13.1  0.5  0.4    13.4  0.4         22.7  0.9      10.21  0.02
+    15–19  17.1  0.7  0.6    17.1  0.4         28.5  0.9      8.39  0.02
+    19–22  20.5  0.8  0.7    20.7  0.4         35.4  1.0      5.36  0.02
+    22–25  23.5  0.9  0.8    23.5  0.4         40.3  1.0      4.70  0.02
+    25–28  26.5  1.0  0.9    26.4  0.4         43.6  1.0      4.12  0.01
+    28–31  29.5  1.2  1.0    29.3  0.5         48.5  1.0      3.61  0.01
+                                                                                      JHEP11(2020)001
+    31–34  32.5  1.3  1.1    32.2  0.5         53.0  1.0      3.12  0.01
+    34–37  35.5  1.4  1.2    35.1  0.5         57.6  1.0      2.72  0.01
+    37–40  38.5  1.5  1.3    38.0  0.5         62.1  1.1      2.60  0.01
+    40–44  42.0  1.6  1.4    41.3  0.5         67.2  1.1      2.36  0.01
+    44–48  45.9  1.8  1.5    45.1  0.6         72.8  1.2      2.21  0.01
+    48–53  50.4  2.0  1.7    49.4  0.6         79.1  1.2      2.01  0.01
+    53–59  55.8  2.2  1.9    54.4  0.6         86.6  1.2      1.75  0.01
+    59–67  62.7  2.5  2.1    60.8  0.6         95.8  1.3      1.41  0.01
+    67–80  72.6  2.9  2.4    69.6  0.6         109.2  1.3     1.12  0.01
+    80–95  86.0  3.4  2.9    81.9  0.6         126.4  1.4    0.459  0.005
+   95–110  100.1  4.0  3.3   95.8  0.9         145.0  1.6    0.121  0.002
+   110–140 118.7  4.9  3.9   109.4  1.2        164.5  2.0    0.0038  0.0001
+
+Table 1. Eﬃciency-corrected multiplicity bins used in the Υ(nS) ratio analysis and the corre-
+                                              track
+sponding mean number of charged particle tracks with pT > 0.4 GeV in the data sample. The
+                                                             true
+most probable values of the two half-Gaussian ﬁt to the corresponding Ntrack in simulation, for
+ track             track
+pT   > 0.4 GeV and pT  > 0 GeV, are also indicated. The uncertainties shown are statistical,
+         
+    
+except for Ntrack , where the systematic uncertainties are also reported. In the last column, the
+percentage of minimum bias (MB) events in the diﬀerent multiplicity bins is also indicated.
+
+                            
+     
+values are similar to those for Ntrack , except at high multiplicity. This is due to the
+probability of merging two nearby vertices during reconstruction, which moves events from
+low to high multiplicity. Using the same PYTHIA simulation, where a merged vertex can
+be easily tagged by comparison with the generator-level information, we ﬁnd that for the
+
+2011 pileup conditions the percentage of merged vertices is below 1% for Ntrack < 30,
+and reaches 13% in the highest-multiplicity bin. Table1 also reports the percentage of
+background MB events in data for each multiplicity bin.
+
+3.3  Signal extraction
+In each multiplicity bin listed in table1 , an extended binned maximum likelihood ﬁt is
+performed on the dimuon invariant mass distribution, using the RooFit toolkit [34]. Each
+signal peak is described by functions with a Gaussian core and an exponential tail on the
+low side. The Gaussian core takes into account the reconstructed dimuon mass resolution,
+which is much larger than the natural widths of the Υ(nS) states. The exponential tail
+
+
+                                     – 5 –
+describes the eﬀect from ﬁnal-state radiation. This function, usually referred to as Gaus-
+sExp [35], is continuous in its value and ﬁrst derivative. It has two parameters for the
+mean and width of the Gaussian function and one parameter for the decay constant of the
+exponential tail. Each peak is ﬁtted with two GaussExp functions, which diﬀer only in the
+
+widths of the Gaussians, to describe the pT and rapidity dependence of the resolution. The
+means of the Gaussian functions are constrained to the world-average Υ(nS) masses [23],
+multiplied by a common free factor to take into account the slightly shifted experimental
+dimuon mass scale [25]. The widths of the two Gaussian functions are constrained to scale
+between the three signal peaks, following the ratios of their world-average masses. The
+tail parameter of the exponential is left free in the ﬁt, but is common to the three Υ(nS) JHEP11(2020)001
+signal shapes. There are eight resulting free parameters in the ﬁt: the mass scale factor,
+the two widths of the Υ(1S) Gaussian function, their respective fraction in describing the
+Υ(1S) peak, the tail parameter of the exponential, the number of Υ(1S) events, and the
+ratios Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S). The validity of the ﬁt choices, in particular of the
+ﬁxed mass resolution scaling between the three states, has been conﬁrmed by relaxing these
+
+constraints and comparing the results in larger Ntrack bins, to decrease the sensitivity to
+statistical ﬂuctuations. To describe the background, an Error Function combined with an
+exponential is chosen.
+    Examples of the invariant mass distributions and the results of the ﬁt are shown in
+
+ﬁgure1 for Ntrack = 0–6 (left) and 110–140 (right). The lower panel displays the normalised
+residual (pull) distribution. This is given by the diﬀerence between the observed number
+of events in the data and the integral of the ﬁtted signal and background function in that
+bin, divided by the Poisson statistical uncertainty in the data. The lineshape description
+represents the data well and shows no systematic structure. Signal extraction was found
+to be the main source of systematic uncertainties in the measurement of the ratios. In
+order to evaluate it, eight alternative ﬁt functions have been considered, combining the
+described ones and alternative modelling of the signal (Crystal Ball functions [36]) and
+the background (polynomials of diﬀerent orders, exponential function). The maximum
+variation with respect to the chosen ﬁt is taken as the systematic uncertainty, and is found
+
+to be up to 5.5% in the highest Ntrack bins.
+
+3.4  Acceptances, eﬃciencies and vertex merging corrections
+
+Evaluation of the eﬃciencies begins with the single-muon reconstruction eﬃciencies ob-
+tained with a “tag-and-probe” approach [37], based on J/ψ control samples in data. The
+dimuon eﬃciency is then obtained by combining the single-muon eﬃciencies and a fac-
+tor that takes into account the trigger ineﬃciency for close-by muons, obtained from MC
+simulation, following the procedure detailed in ref. [38].
+    The acceptances for the three upsilon states are evaluated using an unpolarised hypoth-
+esis in the pythia + evtgen 1.4.0p1 [39] and photos 3.56 [40] packages. This hypothesis
+was chosen since there is no evidence for large Υ(nS) polarisation at LHC energies [41],
+nor any dependence of the polarisation on multiplicity [42]. No systematic uncertainties
+are assigned for this assumption.
+
+
+                                     – 6 –
+         CMS               4.8 fb-1 (7 TeV)     CMS              4.8 fb-1 (7 TeV)
+
+                         Data                                  Data
+                         Signal + background                   Signal + background
+                         Signal Υ(1S)       200                Signal Υ(1S)
+      1500               Signal Υ(2S)                          Signal Υ(2S)
+                         Signal Υ(3S)                          Signal Υ(3S)
+                         Background                            Background
+                                            150
+
+      1000                0 ≤ N track < 6                       110 ≤ N track ≤ 140
+                          pµµ > 7 GeV, |y µµ| < 1.2             pµµ > 7 GeV, |y µµ| < 1.2
+                          T                 100                 T
+     Events  / 25 MeV                      Events  / 25 MeV
+      500
+                                             50
+
+       0                                     0
+        2                                     2
+        0                                     0
+
+     Pull −2                               Pull −2
+                                                                                      JHEP11(2020)001
+           9.0   9.5 10.0  10.5 11.0             9.0   9.5 10.0  10.5 11.0
+                   mµµ [GeV]                             mµµ [GeV]
+
+                + −                                                  µµ
+Figure 1. The µ  µ  invariant mass distributions for dimuon candidates with pT > 7 GeV
+and |yµµ | < 1.2, in two intervals of charged particle multiplicity, 0–6 (left) and 110–140 (right).
+The result of the ﬁt is shown by the solid lines, with the various dotted lines giving the diﬀerent
+components. The lower panel displays the pull distribution.
+
+
+                                                     µµ
+    While the eﬃciency is determined event-by-event, the pT -dependent acceptance cor-
+                                                                             µµ
+rection is diﬀerent for the three upsilon states and the background. As a ﬁrst step a pT -
+dependent distribution for the eﬃciency is obtained from all the candidates in a considered
+multiplicity range, associating the calculated Υ(nS) candidate eﬃciency to its measured
+ µµ                µµ
+pT . Then, the true pT distribution from data is extracted using the sPlot [43] technique.
+This method provides an event-by-event weight, based on the value of mµµ, that allows
+                     µµ
+us to reconstruct the pT distribution, corrected for the background contribution. This
+             µµ                                                    µµ
+experimental pT distribution for the three Υ(nS) states is rescaled by the pT -dependent
+eﬃciency (estimated from data) and acceptance (obtained from simulation). A bin-by-bin
+correction factor is then calculated as the ratio of the integrals of the rescaled to the original
+ µµ
+pT  distributions for each bin.
+
+    These correction factors show a mild increase with Ntrack. To reduce the statistical
+ﬂuctuations, a ﬁt is performed with a logistic function to this multiplicity dependence, and
+
+the factor used to scale the yields is evaluated at the central Ntrack value in every bin. The
+diﬀerence in the ratio between low- and high-multiplicity bins due to the eﬃciency and
+acceptance corrections is of the order of 2%.
+    The systematic uncertainties due to acceptance and eﬃciency are calculated by making
+diﬀerent choices for their evaluation, and using the new values throughout all the steps
+of the analysis. For example, alternative procedures are used to estimate the eﬃciency
+and acceptance distributions (using simulation instead of collision data for the eﬃciency
+calculation, or using diﬀerent binnings), and the sPlot results are compared with those
+from an invariant mass sideband subtraction method. The only signiﬁcant eﬀect is found
+when the mean values of the acceptance and eﬃciency for all the candidates in a given bin
+                    µµ
+is used instead of the pT -linked correction. This gives a systematic variation in the ratio
+of the order of 1%.
+    A ﬁnal correction to the measured ratios comes from the eﬀect of vertex merging
+due to pileup. The merging of vertices causes migration of events from lower- to higher-
+
+
+                                     – 7 –
+       CMS               4.8 fb-1 (7 TeV)      CMS
+    0.5                                     0.5
+                       Υ(2S) / Υ(1S)            pp s = 7 TeV pp s = 2.76 TeV pPb s = 5.02 TeV
+                                                  Υ(2S) /  Υ(1S) Υ(2S) /  Υ(1S) Υ(2S) /  Υ(1S)
+                       Υ(3S) / Υ(1S)
+    0.4                                     0.4   Υ(3S) /  Υ(1S) Υ(3S) /  Υ(1S) Υ(3S) /  Υ(1S)
+                                                         pµµ > 0 GeV, |y µµ| < 1.93
+                                                         T
+                                           (1S)
+   (1S) 0.3                                 0.3
+                                           Υ
+   Υ
+                                            
+    
+                                           /
+   /
+                                            
+    
+    0.2                                     0.2
+                                           (nS)
+   (nS)
+                                           Υ
+   Υ
+
+
+     0.1                                    0.1                                       JHEP11(2020)001
+
+                pµµ > 7 GeV, |y µµ| < 1.2
+                 T
+    0.0                                     0.0
+      0   20  40  60   80 100 120  140        0  20  40  60 80 100 120 140 160
+                    N                                      N
+                     track                                   track
+
+                                                  µµ                  µµ
+Figure 2. The ratios Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S) with pT > 7 GeV (left) and pT > 0 GeV
+(right) as a function of Ntrack. The lines are ﬁts to the data with an exponential function. The
+outer vertical bars represent the combined statistical and systematic uncertainties in the ratios,
+                                        
+    
+while the horizontal bars give the uncertainty in Ntrack in each bin. Inner tick marks show only
+                                         
+     
+the statistical uncertainty, both in the ratio and in Ntrack . The results of ref. [7] are shown in the
+right plot for comparison, and a small correction is applied to the present results to account for the
+diﬀerent rapidity ranges in the measurements, |yµµ | < 1.20 here and |yµµ | < 1.93 in ref. [7].
+
+multiplicity bins. It is possible to evaluate the percentage of this migration using simulation.
+Once a map of the true percentage composition of all the bins is obtained, the ratios can
+
+be corrected using an unfolding procedure, starting from the lowest Ntrack bin where no
+merging aﬀects the ratios. Given that the ratios vary smoothly with Ntrack, the ﬁnal eﬀect
+is small, and the largest correction in the highest bin is estimated to be of the order of
+1.5%. Systematic uncertainties from diﬀerent pileup conditions and tunings were found to
+be negligible.
+
+4   Results and discussion
+
+4.1  The Υ(nS) ratios vs. multiplicity
+The measured Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S) values are shown in ﬁgure2 , as a function
+of N   , for both the (left) pµµ > 7 GeV (4.8 fb−1) and (right) pµµ > 0 GeV (0.3–4.8 fb−1)
+    track                 T                              T                √
+samples. In ﬁgure2 (right), the CMS results of ref. [7] for a smaller pp sample at s =
+2.76 TeV and in pPb collisions at 5.02 TeV are overlaid on the current results for comparison.
+
+In those samples, no pT cut was imposed on the Υ(nS), hence the smaller sample from this
+analysis starting at pT = 0 is included. A small 2% correction is applied to the present
+results to account for the diﬀerent rapidity ranges in the three measurements, based on the
+measured rapidity dependence of the Υ(nS) production cross sections [44].
+    A clear trend is visible in both plots with a decrease in the ratios from low- to high-
+multiplicity bins. The trend is similar in the two kinematic regions, and reminiscent of
+the measurements from ref. [7], in particular of the pPb results. To quantify the decrease,
+
+
+                                     – 8 –
+       CMS                4.8 fb-1 (7 TeV)     CMS               4.8 fb-1 (7 TeV)
+
+     14                                      14                       Y(3S)
+                                                                      Y(2S)
+     12                                      12
+                                                                      Y(1S)
+     10                                      10
+                              Y(3S)
+      8                                      8
+
+     [GeV]                    Y(2S)          [GeV]
+    〉                                       〉
+   µ                                      µ
+
+   µ T                        Y(1S)       µ  T
+
+    p 6                                     p 6
+    〈                                       〈
+      4                                      4
+                                                                                      JHEP11(2020)001
+           pµµ > 7 GeV, |y µµ| < 1.2               pµµ > 0 GeV, |y µµ| < 1.2
+      2     T                                2      T
+      0                                      0
+      0   20  40  60   80 100 120  140        0   20  40  60  80  100 120 140
+                    N                                      N
+                     track                                   track
+
+                µµ                                                   µµ
+Figure 3. Mean pT  values for the three Υ(nS) states as a function of Ntrack for pT > 7 GeV
+(left) and > 0 GeV (right). The outer vertical bars represent the combined statistical and systematic
+                                                              
+     
+uncertainties in the ratios, while the horizontal bars give the uncertainty in Ntrack in each bin.
+                                                                
+     
+Inner tick marks show only the statistical uncertainty, both in the ratio and in Ntrack .
+
+
+                                              (p0+p1x)
+a ﬁt is performed using an exponential function: e   +  p2, with p0, p1, and p2 as
+free parameters in the ﬁt. To measure the decrease in the ratios from this analysis, the
+
+resulting best ﬁt is evaluated at the centre of the lowest and highest Ntrack bins. In the
+ µµ
+pT  > 7 GeV case, this results in a decrease of (−223)% for Υ(2S)/Υ(1S) and (−424)%
+for Υ(3S)/Υ(1S), where the uncertainties combine the statistical (evaluated at the 95%
+conﬁdence level) and systematic (using the upper and lower shifts in the ordinates of the
+data) uncertainties.
+    Previous measurements [44] have shown that the ratios Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S)
+             µµ
+increase with pT . This eﬀect is also visible in ﬁgure2 , where the values of each ratio are
+                          µµ
+higher in the left plot with a pT minimum of 7 GeV than in the right plot with no minimum
+ µµ                                             µµ
+pT  requirement. Figure3 left (right) shows the mean pT values for the three Υ(nS) states
+      µµ
+with pT > 7 (0) GeV, as a function of Ntrack. This is obtained by taking the pT spectra of
+the dimuon candidates using the sPlot technique and rescaling them for the eﬃciency and
+                                  µµ
+acceptance corrections as a function of pT , as described in section 3.4. From these corrected
+ µµ
+pT  distributions the mean value and the corresponding uncertainty are calculated. We
+observe a hierarchical structure, where the transverse momentum increases more rapidly
+
+with Ntrack as the mass of the corresponding Υ(nS) increases. An increase with particle
+mass was also observed in pp collisions at the LHC for pions, kaons, and protons [45].
+
+4.2  Transverse momentum     dependence
+The ratios Υ(2S)/Υ(1S) (left) and Υ(3S)/Υ(1S) (right) are plotted in ﬁgure4 as a function
+                  µµ
+of Ntrack for seven pT intervals from 0 to 50 GeV.
+             µµ
+    In all the pT ranges, there is a decrease in the ratios with increasing multiplicity, with
+                               µµ                        µµ
+the largest rate of decrease in the pT = 5–7 GeV bin. At higher pT values, the decrease in
+                                                    µµ
+the ratios is smaller. This is particularly evident for the pT = 20–50 GeV bin, especially
+
+
+                                     – 9 –
+       CMS               4.8 fb-1 (7 TeV)      CMS               4.8 fb-1 (7 TeV)
+    0.5                                     0.5
+                         pµµ [GeV]:                             pµµ [GeV]:
+                          T                                      T
+    0.4                    20-50            0.4                    20-50
+                           15-20                                   15-20
+                           11-15                                   11-15
+
+   (1S) 0.3                                (1S) 0.3
+
+   Υ                       9-11            Υ                       9-11
+                                            
+   /                                       /
+                           7-9                                     7-9
+    0.2                    5-7              0.2                    5-7
+   (2S)                                    (3S)
+
+   Υ                       0-5             Υ                       0-5
+
+
+     0.1                                    0.1                                       JHEP11(2020)001
+                         |y µµ| < 1.2                            |y µµ| < 1.2
+    0.0                                     0.0
+      0   20  40  60   80 100 120  140        0   20  40  60  80  100 120 140
+                    N                                      N
+                     track                                   track
+
+Figure 4. The ratios Υ(2S)/Υ(1S) (left) and Υ(3S)/Υ(1S) (right) as a function of Ntrack, for
+        µµ                                                                   −1
+diﬀerent pT intervals. The interval 0–5 GeV corresponds to an integrated luminosity of 0.3 fb ,
+the interval 5–7 GeV to 1.9 fb−1, and the rest to the full integrated luminosity of 4.8 fb−1. The
+outer vertical bars represent the combined statistical and systematic uncertainties in the ratios,
+                                        
+    
+while the horizontal bars give the uncertainty in Ntrack in each bin. Inner tick marks show only
+                                          
+    
+the statistical uncertainty, both in the ratio and in Ntrack .
+
+for Υ(2S)/Υ(1S) where the ratio is compatible with being constant. In the 0–5 GeV bin,
+all the decrease occurs at low multiplicity, with the ratios consistent with being ﬂat beyond
+
+the ﬁrst Ntrack bin, especially for the ratio Υ(2S)/Υ(1S).
+
+4.3  Local multiplicity dependence
+
+To better investigate the connection between Υ(nS) production and the UE properties, a
+                        ∆φ
+new type of multiplicity, Ntrack, is deﬁned, based on the diﬀerence between the azimuthal
+angle of each track and the Υ(nS) meson, ∆φ. This relative angular separation is divided
+into three ranges (as is done in ref. [46]): a forward one comprised of |∆φ| < π/3 radians,
+a transverse one with π/3 ≤ |∆φ| < 2π/3 radians, and a backward one of 2π/3 ≤ |∆φ| ≤ π
+radians, as shown in ﬁgure5 (left).
+    On average, there are about three more tracks in the forward (14.55  0.05, includ-
+ing the two muons) and backward (14.83  0.05) regions than in the transverse interval
+(11.90  0.05), where the uncertainties are statistical only. Similar values are obtained
+when considering the Υ(1S), Υ(2S), and Υ(3S) mesons separately.
+                                                ∆φ
+    The Υ(nS) ratios are presented as a function of Ntrack in the three azimuthal intervals
+in ﬁgure5 (right), where the decrease in the ratios is again visible, with similar trends in
+                                                             ∆φ
+the three angular regions. The main diﬀerences are present at low Ntrack, where the ratios
+are slightly higher when considering the backward azimuthal region. In particular, the fact
+that the decrease is present in the transverse region suggests its connection with the UE
+itself, rather than a dependence on the particle activity along the Υ(nS) direction, which
+would produce additional particles only in the forward region. The same consideration
+
+
+                                     – 10 –
+                                               CMS                4.8 fb-1 (7 TeV)
+                                            0.5
+                                                Forward:Υ(2S) /  Υ (1S) Υ(3S) /  Υ(1S)
+                                                Transverse:Υ(2S) /  Υ (1S) Υ(3S) /  Υ(1S)
+
+                                            0.4 Backward:Υ(2S) /  Υ (1S) Υ(3S) /  Υ(1S)
+
+
+                                            (1S) 0.3
+                                            Υ
+                                             
+                                            /
+                                             
+                                            0.2
+                                            (nS)
+                                            Υ
+
+
+                                             0.1                                      JHEP11(2020)001
+
+                                                           pµµ > 7 GeV, | y µµ| < 1.2
+                                                            T
+                                            0.0
+                                               0    10    20    30   40    50
+                                                            N ∆φ
+                                                             track
+Figure 5. Left: a schematic view in the azimuthal plane of the three ∆φ regions with respect to
+the Υ(nS) momentum direction. Right: the ratios Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S), as a function
+    ∆φ
+of Ntrack for the three ∆φ regions shown in the left plot. The outer vertical bars represent the
+combined statistical and systematic uncertainties in the ratios, while the horizontal bars give the
+            
+  ∆φ 
+uncertainty in Ntrack for each bin. Inner tick marks show only the statistical uncertainty, both
+               
+  ∆φ 
+in the ratio and in Ntrack .
+
+applies to unaccounted eﬀects coming from feed-down, i.e. from Υ(nS) states not produced
+in the hard scatter, as discussed in the following section.
+
+4.4  Dependence on the Υ(nS) isolation
+The isolation of the Υ(nS) is deﬁned by the number of tracks found in a small angular region
+around its direction. The study is aimed at verifying whether charged tracks produced
+along the Υ momentum  direction, such as the “comovers” of ref. [47], could explain the
+                                                                  ∆R
+observed reduction in the cross section ratio. The number of particles (Ntrack) in a cone
+                                        p
+around the Υ momentum   direction (∆R =   (∆η)2 + (∆φ)2 <  0.5) is counted, where
+∆η  is the diﬀerence in pseudorapidity between the Υ(nS) and the other particles. The
+                                       ∆R
+data sample is split into four categories: Ntrack = 0, 1, 2, and > 2. In the last case, for
+the lower multiplicity range 0–15, a strong decrease in both ratios was initially observed.
+The source was identiﬁed as an enhancement of the Υ(1S) signal coming from the feed-
+down process Υ(2S) → Υ(1S)π+π−. This was veriﬁed by reconstructing the Υ(2S) state
+using the selection and procedure of ref. [48]. While the raw number of reconstructed Υ(2S)
+                             + −
+events from the ﬁt to the Υ(1S)π π mass spectrum is below 1% in all the Ntrack bins, this
+component increases signiﬁcantly, up to 25%, when we require tracks in the ∆R < 0.5 cone.
+On the other hand, the contributions from Υ(3S) → Υ(1S)π+π− and Υ(3S) → Υ(2S)π+π−
+decays remain negligible. A correction is applied to take into account both the number
+of reconstructed feed-down events and the probability that an event is selected in that
+multiplicity bin due to the presence of the feed-down π+π− pair. A sizeable (of the order
+
+of 30%) correction is needed only for the Ntrack = 0–15 bin, when requiring more than
+two particles in the cone. The ratios Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S) vs. track multiplicity
+
+
+                                     – 11 –
+in the four diﬀerent categories, after this correction, are shown in ﬁgure6 (left). The
+dependence on the charged particle multiplicity is similar in all the categories and also
+                        ∆R
+shows a ﬂattening in the Ntrack > 2 category, which is opposite to what would be expected
+in the comover picture.
+
+4.5  Transverse sphericity dependence
+The transverse sphericity is a momentum-space variable, useful in distinguishing the dom-
+inant physics process in the interaction. It is deﬁned as:
+
+                                        2λ2                                           JHEP11(2020)001
+                                 ST ≡        ,
+                                       λ1 + λ2
+
+where λ1 > λ2 are the eigenvalues of the matrix constructed from the transverse momenta
+components of the charged particles (labelled with the index i), linearised by the additional
+
+term 1/pTi (following ref. [49]):
+
+                                              2       !
+                               1   X    1    p   p  p
+                       ST =                   xi  xi yi .
+                        xy   P  p      p    p p    p2
+                               i Ti i   Ti   xi yi  yi
+
+    By construction, an isotropic event has sphericity close to 1 (”high” sphericity), while
+
+“jet-like” events have ST close to zero. For very low multiplicity, ST tends to take low
+values, so its deﬁnition is inherently multiplicity dependent. The cross section ratio between
+the Υ(nS) states is evaluated as a function of multiplicity in four transverse sphericity
+intervals, 0–0.55, 0.55–0.70, 0.70–0.85, and 0.85–1.00. The resulting trends are shown in
+ﬁgure6 (right). In the low-sphericity region, the ratios remain nearly independent of
+
+multiplicity, while the three bins with ST > 0.55 show a similar decrease as a function
+of multiplicity. This observation suggests that the decrease in the ratios is an UE eﬀect.
+
+When the high multiplicity is due to the presence of jets or other localised objects and ST
+is small, the decrease is absent. It can also help to explain why the multiplicity dependence
+                       µµ
+is almost ﬂat at higher pT , as shown in ﬁgure4 . This is because low-sphericity events
+             µµ
+have a higher pT on average.
+
+4.6  Discussion
+The impact of additional UE particles on the trend of the Υ cross section ratios to decrease
+with multiplicity in pp and pPb collisions was pointed out in ref. [7]. In particular, it
+was noted that the events containing the ground state had about two more tracks on
+average than the ones containing the excited states. It was concluded that the feed-down
+contributions cannot solely account for this feature. This is also seen in the present analysis,
+                                                                      
+     
+where the Υ(1S) meson is accompanied by about one more track on average ( Ntrack =
+                          
+     
+33.9  0.1) than the Υ(2S) ( Ntrack = 33.0  0.1), and about two more than the Υ(3S)
+ 
+     
+( Ntrack = 32.0  0.1). However, as seen in ﬁgure6 (left), no signiﬁcant change is seen
+when keeping only events with no tracks within a cone along the Υ(nS) direction.
+    One could argue that, given the same energy of a parton collision, the lower mass of
+the upsilon ground state compared to the excited states would leave more energy available
+
+
+                                     – 12 –
+       CMS                4.8 fb-1 (7 TeV)     CMS               4.8 fb-1 (7 TeV)
+    0.5                                     0.5
+                         Υ(2S) /  Υ(1S)                        Υ(2S) /  Υ(1S)
+                                                                  0.00 ≤ S  <  0.55
+                           N ∆R  = 0                                   T
+                            track                                 0.55 ≤ S  <  0.70
+    0.4                                     0.4                        T
+                           N ∆R  = 1
+                            track                                 0.70 ≤ ST <  0.85
+                            ∆R                                    0.85 ≤ S  ≤  1.00
+                           N track = 2                                 T
+                            ∆R
+
+
+    (1S)                   N   > 2
+    0.3                     track          (1S) 0.3            Υ(3S) /  Υ(1S)
+    Υ
+                                           Υ
+     
+                                                                  0.00 ≤ S  <  0.55
+                         Υ(3S) /  Υ(1S)                                T
+    /
+                                           /
+     
+                            ∆R                                    0.55 ≤ ST <  0.70
+                           N track = 0
+                                                                  0.70 ≤ ST <  0.85
+    0.2                    N ∆R  = 1        0.2
+    (nS)
+
+                            track          (nS)
+                                                                  0.85 ≤ ST ≤  1.00
+                            ∆R
+    Υ
+                           N track = 2     Υ
+                            ∆R
+                           N track > 2
+     0.1                                    0.1                                       JHEP11(2020)001
+                  pµµ > 7 GeV, |y µµ| < 1.2               pµµ > 7 GeV, |y µµ| < 1.2
+                   T                                       T
+    0.0                                     0.0
+      0   20  40  60   80 100 120  140        0   20  40  60  80  100 120 140
+                    N                                      N
+                     track                                   track
+
+Figure 6. The ratios Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S) are shown as a function of the track multi-
+
+plicity Ntrack: in four categories based on the number of charged particles produced in a ∆R < 0.5
+cone around the Υ direction (left), and in diﬀerent intervals of charged particle transverse sphericity,
+
+ST (right). The outer vertical bars represent the combined statistical and systematic uncertainties
+                                                 
+     
+in the ratios, while the horizontal bars give the uncertainty in Ntrack in each bin. Inner tick marks
+                                                  
+     
+show only the statistical uncertainty, both in the ratio and in Ntrack .
+
+for the production of accompanying particles. On the other hand, it is also true that, if we
+expect a suppression of the excited states at high multiplicity, it would also appear as a
+shift in the mean number of particles for that state (because events at higher multiplicities
+
+would be missing). Furthermore, if we consider only the events with 0 < ST < 0.55, where
+none or little dependence on multiplicity is present, the mean number of charged particles
+                                               
+     
+per event is exactly the same for the three Υ states ( Ntrack = 22.4  0.1). This suggests
+that the diﬀerent number of associated particles is not directly linked to the diﬀerence in
+mass between the three states.
+
+5   Summary
+
+The measurement of ratios of the Υ(nS) → µ+µ−  yields in proton-proton collisions at
+√
+  s = 7 TeV, corresponding to an integrated luminosity of 4.8 fb−1, collected with the
+CMS detector at the LHC, are reported as a function of the number of charged particles
+                            track                              track
+produced with pseudorapidity |η | < 2.4 and transverse momentum pT >  0.4 GeV. A
+signiﬁcant reduction of the Υ(2S)/Υ(1S) and Υ(3S)/Υ(1S) production ratios is observed
+with increasing multiplicity. This result conﬁrms the observation made in proton-proton
+and proton-lead collisions at lower centre-of-mass energy [7], with increased precision. The
+                                   µµ                             µµ       µµ
+eﬀect is present in diﬀerent ranges of pT , but decreases with increasing pT . For pT >
+7 GeV, diﬀerent observables are studied in order to obtain a better description of the
+phenomenon in connection with the underlying event. No variation in the decrease of the
+ratios is found by changing the azimuthal angle separation of the charged particles with
+respect to the Υ momentum  direction. The same applies when varying the number of
+
+
+                                     – 13 –
+tracks in a restricted cone around the Y momentum direction. However, the ratios are
+observed to be multiplicity independent for jet-like events. The presented results give for
+the ﬁrst time a comprehensive review of the connection between Υ(nS) production and the
+underlying event, stressing the need for an improved theoretical description of quarkonium
+production in proton-proton collisions.
+
+Acknowledgments
+
+We congratulate our colleagues in the CERN accelerator departments for the excellent per-
+formance of the LHC and thank the technical and administrative staﬀs at CERN and at   JHEP11(2020)001
+other CMS institutes for their contributions to the success of the CMS eﬀort. In addition,
+we gratefully acknowledge the computing centres and personnel of the Worldwide LHC
+Computing Grid for delivering so eﬀectively the computing infrastructure essential to our
+analyses. Finally, we acknowledge the enduring support for the construction and operation
+of the LHC and the CMS detector provided by the following funding agencies: BMBWF
+and FWF (Austria); FNRS and FWO (Belgium); CNPq, CAPES, FAPERJ, FAPERGS,
+and FAPESP (Brazil); MES (Bulgaria); CERN; CAS, MoST, and NSFC (China); COL-
+CIENCIAS (Colombia); MSES and CSF (Croatia); RIF (Cyprus); SENESCYT (Ecuador);
+MoER, ERC IUT, PUT and ERDF (Estonia); Academy of Finland, MEC, and HIP (Fin-
+land); CEA  and CNRS/IN2P3 (France); BMBF, DFG, and HGF (Germany); GSRT
+(Greece); NKFIA (Hungary); DAE and DST (India); IPM   (Iran); SFI (Ireland); INFN
+(Italy); MSIP and NRF (Republic of Korea); MES (Latvia); LAS (Lithuania); MOE and
+UM  (Malaysia); BUAP, CINVESTAV, CONACYT, LNS, SEP, and UASLP-FAI (Mexico);
+MOS (Montenegro); MBIE (New Zealand); PAEC (Pakistan); MSHE and NSC (Poland);
+FCT (Portugal); JINR (Dubna); MON, RosAtom, RAS, RFBR, and NRC KI (Russia);
+MESTD (Serbia); SEIDI, CPAN, PCTI, and FEDER (Spain); MOSTR (Sri Lanka); Swiss
+Funding Agencies (Switzerland); MST (Taipei); ThEPCenter, IPST, STAR, and NSTDA
+(Thailand); TUBITAK and TAEK (Turkey); NASU (Ukraine); STFC (United Kingdom);
+DOE and NSF (U.S.A.).
+    Individuals have received support from the Marie-Curie programme and the European
+Research Council and Horizon 2020 Grant, contract Nos. 675440, 752730, and 765710 (Eu-
+ropean Union); the Leventis Foundation; the A.P. Sloan Foundation; the Alexander von
+Humboldt Foundation; the Belgian Federal Science Policy Oﬃce; the Fonds pour la Forma-
+tion `ala Recherche dans l’Industrie et dans l’Agriculture (FRIA-Belgium); the Agentschap
+voor Innovatie door Wetenschap en Technologie (IWT-Belgium); the F.R.S.-FNRS and
+FWO (Belgium) under the “Excellence of Science — EOS” — be.h project n. 30820817; the
+Beijing Municipal Science & Technology Commission, No. Z191100007219010; the Ministry
+of Education, Youth and Sports (MEYS) of the Czech Republic; the Deutsche Forschungs-
+gemeinschaft (DFG) under Germany’s Excellence Strategy — EXC 2121 “Quantum Uni-
+verse” — 390833306; the Lend¨ulet(“Momentum”) Programme and the J´anosBolyai Re-
+search Scholarship of the Hungarian Academy of Sciences, the New National Excellence
+Program  UNKP,´ the NKFIA  research grants 123842, 123959, 124845, 124850, 125105,
+128713, 128786, and 129058 (Hungary); the Council of Science and Industrial Research,
+
+
+                                     – 14 –
+India; the HOMING PLUS programme of the Foundation for Polish Science, coﬁnanced
+from European Union, Regional Development Fund, the Mobility Plus programme of the
+Ministry of Science and Higher Education, the National Science Center (Poland), contracts
+Harmonia 2014/14/M/ST2/00428, Opus 2014/13/B/ST2/02543, 2014/15/B/ST2/03998,
+and 2015/19/B/ST2/02861, Sonata-bis 2012/07/E/ST2/01406; the National Priorities Re-
+search Program   by Qatar National Research Fund; the Ministry of Science and Higher
+Education, project no. 02.a03.21.0005 (Russia); the Programa Estatal de Fomento de la
+Investigaci´onCient´ıﬁcay T´ecnica de Excelencia Mar´ıade Maeztu, grant MDM-2015-0509
+and the Programa Severo Ochoa del Principado de Asturias; the Thalis and Aristeia pro-
+grammes coﬁnanced by EU-ESF and the Greek NSRF; the Rachadapisek Sompot Fund                     JHEP11(2020)001
+for Postdoctoral Fellowship, Chulalongkorn University and the Chulalongkorn Academic
+into Its 2nd Century Project Advancement Project (Thailand); the Kavli Foundation; the
+Nvidia Corporation; the SuperMicro Corporation; the Welch Foundation, contract C-1845;
+and the Weston Havens Foundation (U.S.A.).
+
+Open Access.      This article is distributed under the terms of the Creative Commons
+Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in
+any medium, provided the original author(s) and source are credited.
+
+References
+
+ [1] A. Andronic et al., Heavy-ﬂavour and quarkonium production in the LHC era: from
+     proton-proton to heavy-ion collisions, Eur. Phys. J. C 76 (2016) 107[ arXiv:1506.03981]
+     [INSPIRE].
+ [2] M. Kr¨amer, Quarkonium production at high-energy colliders, Prog. Part. Nucl. Phys. 47
+     (2001) 141[ hep-ph/0106120][INSPIRE].
+ [3] S. Digal, P. Petreczky and H. Satz, Quarkonium feed down and sequential suppression, Phys.
+     Rev. D 64 (2001) 094015[ hep-ph/0106017][INSPIRE].
+ [4] ALICE  collaboration, J/ψ Production as a Function of Charged Particle Multiplicity in pp
+                 √
+     Collisions at s = 7 TeV, Phys. Lett. B 712 (2012) 165[ arXiv:1202.2816][INSPIRE].
+                                                                √
+ [5] ALICE  collaboration, D-meson production in p-Pb collisions at s = 5.02 TeV and in pp
+                √                                                 NN
+     collisions at s = 7 TeV, Phys. Rev. C 94 (2016) 054908[ arXiv:1605.07569][INSPIRE].
+ [6] D. Thakur, S. De, R. Sahoo and S. Dansana, Role of multiparton interactions on J/ψ
+     production in p + p collisions at LHC energies, Phys. Rev. D 97 (2018) 094002
+     [arXiv:1709.06358][INSPIRE].
+                                                                     √
+ [7] CMS  collaboration, Event activity dependence of Υ(nS) production in s = 5.02 TeV
+             √                                                          NN
+     pPb and  s = 2.76 TeV pp collisions, JHEP 04 (2014) 103[ arXiv:1312.6300][INSPIRE].
+ [8] CMS  collaboration, Observation of long-range near-side angular correlations in
+     proton-proton collisions at the LHC, JHEP 09 (2010) 091[ arXiv:1009.4122][INSPIRE].
+                                                                                √
+ [9] ATLAS   collaboration, Observation of long-range elliptic azimuthal anisotropies in s = 13
+     and 2.76 TeV pp collisions with the ATLAS detector, Phys. Rev. Lett. 116 (2016) 172301
+     [arXiv:1509.04776][INSPIRE].
+
+
+                                         – 15 –
+[10] CMS  collaboration, Measurement of long-range near-side two-particle angular correlations in
+                   √
+     pp collisions at s = 13 TeV, Phys. Rev. Lett. 116 (2016) 172302[ arXiv:1510.03068]
+     [INSPIRE].
+[11] ALICE  collaboration, Enhanced production of multi-strange hadrons in high-multiplicity
+     proton-proton collisions, Nature Phys. 13 (2017) 535[ arXiv:1606.07424][INSPIRE].
+[12] CMS  collaboration, Evidence for collectivity in pp collisions at the LHC, Phys. Lett. B 765
+     (2017) 193[ arXiv:1606.06198][INSPIRE].
+[13] CMS  collaboration, Multiplicity and rapidity dependence of strange hadron production in pp,
+     pPb, and PbPb collisions at the LHC, Phys. Lett. B 768 (2017) 103[ arXiv:1605.06699]
+                                                                                                 JHEP11(2020)001
+     [INSPIRE].
+[14] R. Campanini and G. Ferri, Experimental equation of state in proton-proton and
+     proton-antiproton collisions and phase transition to quark gluon plasma, Phys. Lett. B 703
+     (2011) 237[ arXiv:1106.2008][INSPIRE].
+[15] K. Dusling, W. Li and B. Schenke, Novel collective phenomena in high-energy proton-proton
+     and proton-nucleus collisions, Int. J. Mod. Phys. E 25 (2016) 1630002[ arXiv:1509.07939]
+     [INSPIRE].
+[16] F.G. Gardim, G. Giacalone, M. Luzum and J.-Y. Ollitrault, Thermodynamics of hot
+     strong-interaction matter from ultrarelativistic nuclear collisions, Nature Phys. 16 (2020) 615
+     [arXiv:1908.09728][INSPIRE].
+[17] J.L. Nagle and W.A. Zajc, Small system collectivity in relativistic hadronic and nuclear
+     collisions, Ann. Rev. Nucl. Part. Sci. 68 (2018) 211[ arXiv:1801.03477][INSPIRE].
+[18] B. Schenke, S. Schlichting, P. Tribedy and R. Venugopalan, Mass ordering of spectra from
+     fragmentation of saturated gluon states in high multiplicity proton-proton collisions, Phys.
+     Rev. Lett. 117 (2016) 162301[ arXiv:1607.02496][INSPIRE].
+[19] S. Ferreres-Sol´eand T. Sj¨ostrand, The space-time structure of hadronization in the Lund
+     model, Eur. Phys. J. C 78 (2018) 983[ arXiv:1808.04619][INSPIRE].
+[20] T. Lang and M. Bleicher, Possibility for J/ψ suppression in high-multiplicity proton-proton
+                √
+     collisions at sNN = 7 TeV, Phys. Rev. C 87 (2013) 024907[ arXiv:1302.0655][INSPIRE].
+[21] E.G. Ferreiro and C. Pajares, High multiplicity pp events and J/ψ production at LHC, Phys.
+     Rev. C 86 (2012) 034903[ arXiv:1203.5936][INSPIRE].
+[22] CMS  collaboration, Measurement of nuclear modiﬁcation factors of Υ(1S), Υ(2S), and
+                                      √
+     Υ(3S) mesons in PbPb collisions at s  = 5.02 TeV, Phys. Lett. B 790 (2019) 270
+                                        NN
+     [arXiv:1805.09215][INSPIRE].
+[23] Particle Data Group    collaboration, Review of particle physics, Phys. Rev. D 98 (2018)
+     030001[ INSPIRE].
+[24] CMS  collaboration, Description and performance of track and primary-vertex reconstruction
+     with the CMS tracker, 2014 JINST 9 P10009[ arXiv:1405.6569][INSPIRE].
+[25] CMS  collaboration, Performance of CMS muon reconstruction in pp collision events at
+     √
+      s = 7 TeV, 2012 JINST  7 P10002[ arXiv:1206.4071][INSPIRE].
+[26] CMS  collaboration, The CMS trigger system, 2017 JINST 12 P01020[ arXiv:1609.02366]
+     [INSPIRE].
+
+
+                                         – 16 –
+[27] CMS  collaboration, The CMS experiment at the CERN LHC, 2008 JINST  3 S08004
+     [INSPIRE].
+[28] CMS  collaboration, The performance of the CMS muon detector in proton-proton collisions
+       √
+     at  s = 7 TeV at the LHC, 2013 JINST 8 P11002[ arXiv:1306.6905][INSPIRE].
+[29] T. Sj¨ostrandet al., An introduction to PYTHIA 8.2, Comput. Phys. Commun. 191 (2015)
+     159[ arXiv:1410.3012][INSPIRE].
+[30] CMS  collaboration, Event generator tunes obtained from underlying event and multiparton
+     scattering measurements, Eur. Phys. J. C 76 (2016) 155[ arXiv:1512.00815][INSPIRE].
+
+[31] GEANT4    collaboration, GEANT4 —  A simulation toolkit, Nucl. Instrum. Meth. A 506         JHEP11(2020)001
+     (2003) 250[ INSPIRE].
+[32] CMS  collaboration, Jet and underlying event properties as a function of charged-particle
+                                           √
+     multiplicity in proton-proton collisions at s = 7 TeV, Eur. Phys. J. C 73 (2013) 2674
+     [arXiv:1310.4554][INSPIRE].
+[33] R. Corke and T. Sj¨ostrand, Interleaved parton showers and tuning prospects, JHEP 03
+     (2011) 032[ arXiv:1011.1759][INSPIRE].
+[34] W. Verkerke and D.P. Kirkby, The RooFit toolkit for data modeling, eConf C 0303241
+     (2003) MOLT007 [physics/0306116][INSPIRE].
+
+[35] S. Das, A simple alternative to the Crystal Ball function, arXiv:1603.08591 [INSPIRE].
+[36] M.J. Oreglia, A study of the reactions ψ0 → γγψ, Ph.D. thesis, Stanford University, Stanford,
+     U.S.A. (1980).
+[37] CMS  collaboration, Measurements of inclusive W and Z cross sections in pp collisions at
+     √
+      s = 7 TeV, JHEP  01 (2011) 080[ arXiv:1012.2466][INSPIRE].
+[38] CMS  collaboration, Measurements of the Υ(1S), Υ(2S), and Υ(3S) diﬀerential cross
+                             √
+     sections in pp collisions at s = 7 TeV, Phys. Lett. B 749 (2015) 14[ arXiv:1501.07750]
+     [INSPIRE].
+[39] D.J. Lange, The EvtGen particle decay simulation package, Nucl. Instrum. Meth. A 462
+     (2001) 152[ INSPIRE].
+[40] E. Barberio and Z. Was, PHOTOS: a universal Monte Carlo for QED radiative corrections.
+     Version 2.0, Comput. Phys. Commun. 79 (1994) 291[ INSPIRE].
+[41] CMS  collaboration, Measurement of the Y (1S),Y (2S) and Y (3S) polarizations in pp
+                √
+     collisions at s = 7 TeV, Phys. Rev. Lett. 110 (2013) 081802[ arXiv:1209.2922][INSPIRE].
+[42] CMS  collaboration, Υ(nS) polarizations versus particle multiplicity in pp collisions at
+     √
+      s = 7 TeV, Phys. Lett. B 761 (2016) 31[ arXiv:1603.02913][INSPIRE].
+[43] M. Pivk and F.R. Le Diberder, SPlot: a statistical tool to unfold data distributions, Nucl.
+     Instrum. Meth. A 555 (2005) 356[ physics/0402083][INSPIRE].
+[44] CMS  collaboration, Measurement of the Υ(1S), Υ(2S), and Υ(3S) cross sections in pp
+                √
+     collisions at s = 7 TeV, Phys. Lett. B 727 (2013) 101[ arXiv:1303.5900][INSPIRE].
+[45] CMS  collaboration, Study of the inclusive production of charged pions, kaons, and protons in
+                   √
+     pp collisions at s = 0.9, 2.76, and 7 TeV, Eur. Phys. J. C 72 (2012) 2164
+     [arXiv:1207.4724][INSPIRE].
+
+
+                                         – 17 –
+[46] CMS  collaboration, First measurement of the underlying event activity at the LHC with
+     √
+      s = 0.9 TeV, Eur. Phys. J. C 70 (2010) 555[ arXiv:1006.2083][INSPIRE].
+[47] E.G. Ferreiro, Charmonium dissociation and recombination at LHC: revisiting comovers,
+     Phys. Lett. B 731 (2014) 57[ arXiv:1210.3209][INSPIRE].
+[48] CMS  collaboration, Search for a new bottomonium state decaying to Υ(1S)π+π− in pp
+                √
+     collisions at s = 8 TeV, Phys. Lett. B 727 (2013) 57[ arXiv:1309.0250][INSPIRE].
+[49] ALICE  collaboration, Transverse sphericity of primary charged particles in minimum bias
+                             √
+     proton-proton collisions at s = 0.9, 2.76 and 7 TeV, Eur. Phys. J. C 72 (2012) 2124
+     [arXiv:1205.3963][INSPIRE].
+                                                                                                 JHEP11(2020)001
+
+
+                                         – 18 –
+The CMS collaboration
+
+Yerevan Physics Institute, Yerevan, Armenia
+A.M. Sirunyan†, A. Tumasyan
+
+Institut f¨urHochenergiephysik, Wien, Austria
+W. Adam, F. Ambrogi, T. Bergauer, M. Dragicevic, J. Er¨o, A. Escalante Del Valle,
+M. Flechl, R. Fr¨uhwirth1, M. Jeitler1, N. Krammer, I. Kr¨atschmer, D. Liko, T. Madlener,
+I. Mikulec, N. Rad, J. Schieck1, R. Sch¨ofbeck, M. Spanring, W. Waltenberger, C.-E. Wulz1,
+M. Zarucki                                                                            JHEP11(2020)001
+
+Institute for Nuclear Problems, Minsk, Belarus
+V. Drugakov, V. Mossolov, J. Suarez Gonzalez
+
+Universiteit Antwerpen, Antwerpen, Belgium
+M.R. Darwish, E.A. De Wolf, D. Di Croce, X. Janssen, T. Kello2, A. Lelek, M. Pieters,
+H. Rejeb Sfar, H. Van Haevermaet, P. Van Mechelen, S. Van Putte, N. Van Remortel
+
+Vrije Universiteit Brussel, Brussel, Belgium
+F. Blekman, E.S. Bols, S.S. Chhibra, J. D’Hondt, J. De Clercq, D. Lontkovskyi, S. Lowette,
+I. Marchesini, S. Moortgat, Q. Python, S. Tavernier, W. Van Doninck, P. Van Mulders
+
+Universit´eLibre de Bruxelles, Bruxelles, Belgium
+D. Beghin, B. Bilin, B. Clerbaux, G. De Lentdecker, H. Delannoy, B. Dorney, L. Favart,
+A. Grebenyuk, A.K. Kalsi, L. Moureaux, A. Popov, N. Postiau, E. Starling, L. Thomas,
+C. Vander Velde, P. Vanlaer, D. Vannerom
+
+Ghent University, Ghent, Belgium
+T. Cornelis, D. Dobur, I. Khvastunov3, M. Niedziela, C. Roskas, K. Skovpen, M. Tytgat,
+W. Verbeke, B. Vermassen, M. Vit
+
+Universit´eCatholique de Louvain, Louvain-la-Neuve, Belgium
+G. Bruno, C. Caputo, P. David, C. Delaere, M. Delcourt, A. Giammanco, V. Lemaitre,
+J. Prisciandaro, A. Saggio, P. Vischia, J. Zobec
+
+Centro Brasileiro de Pesquisas Fisicas, Rio de Janeiro, Brazil
+G.A. Alves, G. Correia Silva, C. Hensel, A. Moraes
+
+Universidade do Estado do Rio de Janeiro, Rio de Janeiro, Brazil
+E. Belchior Batista Das Chagas, W. Carvalho, J. Chinellato4, E. Coelho, E.M. Da Costa,
+G.G.  Da   Silveira5, D. De  Jesus Damiao,   C.  De  Oliveira Martins,  S. Fon-
+seca De  Souza,  H. Malbouisson,  J. Martins6,  D. Matos   Figueiredo, M. Med-
+ina Jaime7, M. Melo   De  Almeida, C. Mora    Herrera, L. Mundim, H. Nogima,
+W.L. Prado Da Silva, P. Rebello Teles, L.J. Sanchez Rosas, A. Santoro, A. Sznajder,
+M. Thiel, E.J. Tonelli Manganote4, F. Torres Da Silva De Araujo, A. Vilela Pereira
+
+
+                                     – 19 –
+Universidade Estadual Paulistaa, Universidade Federal do ABCb, S˜aoPaulo,
+Brazil
+C.A. Bernardesa, L. Calligarisa, T.R. Fernandez  Perez Tomeia, E.M. Gregoresb,
+D.S. Lemos, P.G. Mercadanteb, S.F. Novaesa, Sandra S. Padulaa
+
+Institute for Nuclear Research and Nuclear Energy, Bulgarian Academy of
+Sciences, Soﬁa, Bulgaria
+A. Aleksandrov, G. Antchev, R. Hadjiiska, P. Iaydjiev, M. Misheva, M. Rodozov,
+M. Shopova, G. Sultanov
+                                                                                      JHEP11(2020)001
+University of Soﬁa, Soﬁa, Bulgaria
+M. Bonchev, A. Dimitrov, T. Ivanov, L. Litov, B. Pavlov, P. Petkov, A. Petrov
+
+Beihang University, Beijing, China
+W. Fang2, X. Gao2, L. Yuan
+
+Department of Physics, Tsinghua University, Beijing, China
+M. Ahmad, Z. Hu, Y. Wang
+
+Institute of High Energy Physics, Beijing, China
+G.M. Chen8, H.S. Chen8, M. Chen, C.H. Jiang, D. Leggat, H. Liao, Z. Liu, A. Spiezia,
+J. Tao, E. Yazgan, H. Zhang, S. Zhang8, J. Zhao
+
+State Key Laboratory of Nuclear Physics and Technology, Peking University,
+Beijing, China
+A. Agapitos, Y. Ban, G. Chen, A. Levin, J. Li, L. Li, Q. Li, Y. Mao, S.J. Qian, D. Wang,
+Q. Wang
+
+Zhejiang University, Hangzhou, China
+M. Xiao
+
+Universidad de Los Andes, Bogota, Colombia
+C. Avila, A. Cabrera, C. Florez, C.F. Gonz´alezHern´andez, M.A. Segura Delgado
+
+Universidad de Antioquia, Medellin, Colombia
+J. Mejia Guisao, J.D. Ruiz Alvarez, C.A. Salazar Gonz´alez,N. Vanegas Arbelaez
+
+University of Split, Faculty of Electrical Engineering, Mechanical Engineering
+and Naval Architecture, Split, Croatia
+D. Giljanovi´c,N. Godinovic, D. Lelas, I. Puljak, T. Sculac
+
+University of Split, Faculty of Science, Split, Croatia
+Z. Antunovic, M. Kovac
+
+Institute Rudjer Boskovic, Zagreb, Croatia
+V. Brigljevic, D. Ferencek,  K. Kadija,  D. Majumder,   B. Mesic,  M. Roguljic,
+A. Starodumov9, T. Susa
+
+
+                                     – 20 –
+University of Cyprus, Nicosia, Cyprus
+M.W. Ather, A. Attikis, E. Erodotou, A. Ioannou, M. Kolosova, S. Konstantinou,
+G. Mavromanolakis, J. Mousa, C. Nicolaou, F. Ptochos, P.A. Razis, H. Rykaczewski,
+H. Saka, D. Tsiakkouri
+
+Charles University, Prague, Czech Republic
+M. Finger10, M. Finger Jr.10, A. Kveton, J. Tomsa
+
+Escuela Politecnica Nacional, Quito, Ecuador
+
+E. Ayala                                                                              JHEP11(2020)001
+
+Universidad San Francisco de Quito, Quito, Ecuador
+E. Carrera Jarrin
+
+Academy of Scientiﬁc Research and Technology of the Arab Republic of Egypt,
+Egyptian Network of High Energy Physics, Cairo, Egypt
+H. Abdalla11, S. Elgammal12
+
+National Institute of Chemical Physics and Biophysics, Tallinn, Estonia
+S. Bhowmik, A. Carvalho Antunes De Oliveira, R.K. Dewanjee, K. Ehataht, M. Kadastik,
+M. Raidal, C. Veelken
+
+Department of Physics, University of Helsinki, Helsinki, Finland
+P. Eerola, L. Forthomme, H. Kirschenmann, K. Osterberg, M. Voutilainen
+
+Helsinki Institute of Physics, Helsinki, Finland
+E. Br¨ucken, F. Garcia, J. Havukainen, J.K. Heikkil¨a,V. Karim¨aki,M.S. Kim, R. Kinnunen,
+T. Lamp´en,K. Lassila-Perini, S. Laurila, S. Lehti, T. Lind´en,H. Siikonen, E. Tuominen,
+J. Tuominiemi
+
+Lappeenranta University of Technology, Lappeenranta, Finland
+P. Luukka, T. Tuuva
+
+IRFU, CEA, Universit´eParis-Saclay, Gif-sur-Yvette, France
+M. Besancon, F. Couderc, M. Dejardin, D. Denegri, B. Fabbro, J.L. Faure, F. Ferri,
+S. Ganjour, A. Givernaud, P. Gras, G. Hamel de Monchenault, P. Jarry, C. Leloup,
+B. Lenzi, E. Locci, J. Malcles, J. Rander, A. Rosowsky, M.O.¨ Sahin, A. Savoy-Navarro13,
+M. Titov, G.B. Yu
+
+Laboratoire Leprince-Ringuet, CNRS/IN2P3, Ecole Polytechnique, Institut
+Polytechnique de Paris, Paris, France
+S. Ahuja, C. Amendola, F. Beaudette, M. Bonanomi, P. Busson, C. Charlot, B. Diab,
+G. Falmagne, R. Granier de Cassagnac, I. Kucher, A. Lobanov, C. Martin Perez,
+M. Nguyen, C. Ochando, P. Paganini, J. Rembser, R. Salerno, J.B. Sauvan, Y. Sirois,
+A. Zabi, A. Zghiche
+
+
+                                     – 21 –
+Universit´ede Strasbourg, CNRS, IPHC     UMR    7178, Strasbourg, France
+J.-L. Agram14, J. Andrea, D. Bloch, G. Bourgatte, J.-M. Brom, E.C. Chabert, C. Collard,
+E. Conte14, J.-C. Fontaine14, D. Gel´e, U. Goerlach, C. Grimault, A.-C. Le Bihan, N. Tonon,
+P. Van Hove
+Centre de Calcul de l’Institut National de Physique Nucleaire et de Physique
+des Particules, CNRS/IN2P3, Villeurbanne, France
+S. Gadrat
+Universit´ede Lyon, Universit´eClaude Bernard Lyon 1, CNRS-IN2P3, Institut
+de Physique Nucl´eairede Lyon, Villeurbanne, France                                   JHEP11(2020)001
+S. Beauceron, C. Bernet, G. Boudoul, C. Camen, A. Carle, N. Chanon, R. Chierici,
+D. Contardo, P. Depasse, H. El Mamouni, J. Fay, S. Gascon, M. Gouzevitch, B. Ille,
+Sa. Jain, I.B. Laktineh, H. Lattaud, A. Lesauvage, M. Lethuillier, L. Mirabito, S. Perries,
+V. Sordini, L. Torterotot, G. Touquet, M. Vander Donckt, S. Viret
+Georgian Technical University, Tbilisi, Georgia
+T. Toriashvili15
+Tbilisi State University, Tbilisi, Georgia
+Z. Tsamalaidze10
+RWTH    Aachen University, I. Physikalisches Institut, Aachen, Germany
+C. Autermann, L. Feld, K. Klein, M. Lipinski, D. Meuser, A. Pauls, M. Preuten,
+M.P. Rauch, J. Schulz, M. Teroerde
+RWTH    Aachen University, III. Physikalisches Institut A, Aachen, Germany
+M. Erdmann, B. Fischer, S. Ghosh, T. Hebbeker, K. Hoepfner, H. Keller, L. Mastrolorenzo,
+M. Merschmeyer, A. Meyer, P. Millet, G. Mocellin, S. Mondal, S. Mukherjee, D. Noll,
+A. Novak, T. Pook, A. Pozdnyakov, T. Quast, M. Radziej, Y. Rath, H. Reithler, J. Roemer,
+A. Schmidt, S.C. Schuler, A. Sharma, S. Wiedenbeck, S. Zaleski
+RWTH    Aachen University, III. Physikalisches Institut B, Aachen, Germany
+G. Fl¨ugge,W. Haj Ahmad16, O. Hlushchenko, T. Kress, T. M¨uller,A. Nowack, C. Pistone,
+O. Pooth, D. Roy, H. Sert, A. Stahl17
+Deutsches Elektronen-Synchrotron, Hamburg, Germany
+M. Aldaya Martin, P. Asmuss, I. Babounikau, H. Bakhshiansohi, K. Beernaert, O. Behnke,
+A. Berm´udezMart´ınez,A.A. Bin Anuar, K. Borras18, V. Botta, A. Campbell, A. Cardini,
+P. Connor, S. Consuegra Rodr´ıguez, C. Contreras-Campana, V. Danilov, A. De Wit,
+M.M. Defranchis, C. Diez Pardos, D. Dom´ınguez Damiani, G. Eckerlin, D. Eckstein,
+T. Eichhorn, A. Elwood, E. Eren, L.I. Estevez Banos, E. Gallo19, A. Geiser, A. Grohsjean,
+M. Guthoﬀ, M. Haranko, A. Harb, A. Jafari, N.Z. Jomhari, H. Jung, A. Kasem18, M. Kase-
+mann, H. Kaveh, J. Keaveney, C. Kleinwort, J. Knolle, D. Kr¨ucker, W. Lange, T. Lenz,
+J. Lidrych, K. Lipka, W. Lohmann20, R. Mankel, I.-A. Melzer-Pellmann, A.B. Meyer,
+M. Meyer, M. Missiroli, J. Mnich, A. Mussgiller, V. Myronenko, D. P´erez Ad´an,
+S.K. Pﬂitsch, D. Pitzl, A. Raspereza, A. Saibel, M. Savitskyi, V. Scheurer, P. Sch¨utze,
+
+
+                                     – 22 –
+C. Schwanenberger, R. Shevchenko, A. Singh, R.E. Sosa Ricardo, H. Tholen, O. Turkot,
+A. Vagnerini, M. Van De Klundert, R. Walsh, Y. Wen, K. Wichmann, C. Wissing,
+O. Zenaiev, R. Zlebcik
+University of Hamburg, Hamburg, Germany
+R. Aggleton, S. Bein, L. Benato, A. Benecke, T. Dreyer, A. Ebrahimi, F. Feindt,
+A. Fr¨ohlich, C. Garbers, E. Garutti, D. Gonzalez, P. Gunnellini, J. Haller, A. Hinz-
+mann, A. Karavdina, G. Kasieczka, R. Klanner, R. Kogler, N. Kovalchuk, S. Kurz,
+V. Kutzner, J. Lange, T. Lange, A. Malara, J. Multhaup, C.E.N. Niemeyer, A. Reimers,
+
+
+O. Rieger, P. Schleper, S. Schumann, J. Schwandt, J. Sonneveld, H. Stadie, G. Steinbr¨uck, JHEP11(2020)001
+B. Vormwald, I. Zoi
+Karlsruher Institut fuer Technologie, Karlsruhe, Germany
+M. Akbiyik, M. Baselga, S. Baur, T. Berger, E. Butz, R. Caspart, T. Chwalek, W. De Boer,
+A. Dierlamm, K. El Morabit, N. Faltermann, M. Giﬀels, A. Gottmann, F. Hartmann17,
+C. Heidecker, U. Husemann, M.A. Iqbal, S. Kudella, S. Maier, S. Mitra, M.U. Mozer,
+D. M¨uller,Th. M¨uller,M. Musich, A. N¨urnberg, G. Quast, K. Rabbertz, D. Savoiu,
+D. Sch¨afer,M. Schnepf, M. Schr¨oder,I. Shvetsov, H.J. Simonis, R. Ulrich, M. Wassmer,
+M. Weber, C. W¨ohrmann,R. Wolf, S. Wozniewski
+Institute of Nuclear and Particle Physics (INPP), NCSR      Demokritos, Aghia
+Paraskevi, Greece
+G. Anagnostou, P. Asenov, G. Daskalakis, T. Geralis, A. Kyriakis, D. Loukas, G. Paspalaki,
+A. Stakia
+National and Kapodistrian University of Athens, Athens, Greece
+M. Diamantopoulou, G. Karathanasis, P. Kontaxakis, A. Manousakis-katsikakis, A. Pana-
+giotou, I. Papavergou, N. Saoulidou, K. Theoﬁlatos, K. Vellidis, E. Vourliotis
+National Technical University of Athens, Athens, Greece
+G. Bakas, K. Kousouris, I. Papakrivopoulos, G. Tsipolitis, A. Zacharopoulou
+University of Io´annina,Io´annina,Greece
+I. Evangelou, C. Foudas, P. Gianneios, P. Katsoulis, P. Kokkas, S. Mallios, K. Manitara,
+N. Manthos, I. Papadopoulos, J. Strologas, F.A. Triantis, D. Tsitsonis
+MTA-ELTE Lend¨uletCMS Particle and Nuclear Physics Group, E¨otv¨osLor´and
+University, Budapest, Hungary
+M. Bart´ok21, R. Chudasama, M. Csanad, P. Major, K. Mandal, A. Mehta, G. Pasztor,
+O. Sur´anyi, G.I. Veres
+Wigner Research Centre for Physics, Budapest, Hungary
+G. Bencze, C. Hajdu, D. Horvath22, F. Sikler, V. Veszpremi, G. Vesztergombi†
+Institute of Nuclear Research ATOMKI, Debrecen, Hungary
+N. Beni, S. Czellar, J. Karancsi21, J. Molnar, Z. Szillasi
+Institute of Physics, University of Debrecen, Debrecen, Hungary
+P. Raics, D. Teyssier, Z.L. Trocsanyi, B. Ujvari
+
+
+                                     – 23 –
+Eszterhazy Karoly University, Karoly Robert Campus, Gyongyos, Hungary
+T. Csorgo, S. L¨ok¨os,W.J. Metzger, F. Nemes, T. Novak
+Indian Institute of Science (IISc), Bangalore, India
+S. Choudhury, J.R. Komaragiri, L. Panwar, P.C. Tiwari
+National Institute of Science Education and Research, HBNI, Bhubaneswar,
+India
+S. Bahinipati24, C. Kar, G. Kole, P. Mal, V.K. Muraleedharan Nair Bindhu, A. Nayak25,
+D.K. Sahoo24, S.K. Swain
+                                                                                      JHEP11(2020)001
+Panjab University, Chandigarh, India
+S. Bansal, S.B. Beri, V. Bhatnagar, S. Chauhan, N. Dhingra26, R. Gupta, A. Kaur,
+M. Kaur, S. Kaur, P. Kumari, M. Lohan, M. Meena, K. Sandeep, S. Sharma, J.B. Singh,
+A.K. Virdi
+University of Delhi, Delhi, India
+A. Bhardwaj, B.C. Choudhary, R.B. Garg, M. Gola, S. Keshri, A. Kumar, M. Naimuddin,
+P. Priyanka, K. Ranjan, A. Shah, R. Sharma
+Saha Institute of Nuclear Physics, HBNI, Kolkata, India
+R. Bhardwaj27, M. Bharti27, R. Bhattacharya, S. Bhattacharya, U. Bhawandeep27,
+D. Bhowmik, S. Dutta, S. Ghosh, B. Gomber28, M. Maity29, K. Mondal, S. Nandan,
+A. Purohit, P.K. Rout, G. Saha, S. Sarkar, M. Sharan, B. Singh27, S. Thakur27
+Indian Institute of Technology Madras, Madras, India
+P.K. Behera, S.C. Behera, P. Kalbhor, A. Muhammad, R. Pradhan, P.R. Pujahari,
+A. Sharma, A.K. Sikdar
+Bhabha Atomic Research Centre, Mumbai, India
+D. Dutta, V. Jha, D.K. Mishra, P.K. Netrakanti, L.M. Pant, P. Shukla
+Tata Institute of Fundamental Research-A, Mumbai, India
+T. Aziz, M.A. Bhat, S. Dugad, R. Kumar Verma, G.B. Mohanty, N. Sur
+Tata Institute of Fundamental Research-B, Mumbai, India
+S. Banerjee, S. Bhattacharya, S. Chatterjee, P. Das, M. Guchait, S. Karmakar, S. Kumar,
+G. Majumder, K. Mazumdar, N. Sahoo, S. Sawant
+Indian Institute of Science Education and Research (IISER), Pune, India
+S. Dube, B. Kansal, A. Kapoor, K. Kothekar, S. Pandey, A. Rane, A. Rastogi, S. Sharma
+Institute for Research in Fundamental Sciences (IPM), Tehran, Iran
+S. Chenarani, S.M. Etesami, M. Khakzad, M. Mohammadi Najafabadi, M. Naseri,
+F. Rezaei Hosseinabadi
+University College Dublin, Dublin, Ireland
+M. Felcini, M. Grunewald
+
+
+                                     – 24 –
+INFN   Sezione di Baria, Universit`adi Barib, Politecnico di Baric, Bari, Italy
+M. Abbresciaa,b, R. Alya,b,30, C. Aruta, C. Calabriaa,b, A. Colaleoa, D. Creanzaa,c,
+L. Cristellaa,b, N. De Filippisa,c, M. De Palmaa,b, A. Di Florioa,b, W. Elmetenaweea,b,
+L. Fiorea, A. Gelmia,b, G. Iasellia,c, M. Incea,b, S. Lezkia,b, G. Maggia,c, M. Maggia,
+J.A. Merlina, G. Minielloa,b, S. Mya,b, S. Nuzzoa,b, A. Pompilia,b, G. Pugliesea,c,
+R. Radognaa, A. Ranieria, G. Selvaggia,b, L. Silvestrisa, F.M. Simonea,b, R. Vendittia,
+P. Verwilligena
+INFN   Sezione di Bolognaa, Universit`adi Bolognab, Bologna, Italy
+           a            a,b            a,b           a,b                     a,b
+G. Abbiendi , C. Battilana , D. Bonacorsi , L. Borgonovi , S. Braibant-Giacomelli ,   JHEP11(2020)001
+R. Campaninia,b, P. Capiluppia,b, A. Castroa,b, F.R. Cavalloa, C. Cioccaa, G. Codispotia,b,
+M. Cuﬃania,b, G.M. Dallavallea, F. Fabbria, A. Fanfania,b, G. Ferria,b, E. Fontanesia,b,
+P. Giacomellia, C. Grandia, L. Guiduccia,b, F. Iemmia,b, S. Lo Meoa,31, S. Marcellinia,
+G. Masettia, F.L. Navarriaa,b, A. Perrottaa, F. Primaveraa,b, T. Rovellia,b, G.P. Sirolia,b,
+N. Tosia
+INFN   Sezione di Cataniaa, Universit`adi Cataniab, Catania, Italy
+S. Albergoa,b,32, S. Costaa,b, A. Di Mattiaa, R. Potenzaa,b, A. Tricomia,b,32, C. Tuvea,b
+INFN   Sezione di Firenzea, Universit`adi Firenzeb, Firenze, Italy
+G. Barbaglia, A. Cassesea, R. Ceccarellia,b, V. Ciullia,b, C. Civininia, R. D’Alessandroa,b,
+F. Fioria, E. Focardia,b, G. Latinoa,b, P. Lenzia,b, M. Lizzoa,b, M. Meschinia, S. Paolettia,
+R. Seiditaa,b, G. Sguazzonia, L. Viliania
+INFN   Laboratori Nazionali di Frascati, Frascati, Italy
+L. Benussi, S. Bianco, D. Piccolo
+INFN   Sezione di Genovaa, Universit`adi Genovab, Genova, Italy
+M. Bozzoa,b, F. Ferroa, R. Mulargiaa,b, E. Robuttia, S. Tosia,b
+INFN Sezione di Milano-Bicoccaa, Universit`adi Milano-Bicoccab, Milano, Italy
+A. Benagliaa, A. Beschia,b, F. Brivioa,b, V. Cirioloa,b,17, M.E. Dinardoa,b, P. Dinia,
+S. Gennaia, A. Ghezzia,b, P. Govonia,b, L. Guzzia,b, M. Malbertia, S. Malvezzia,
+D. Menascea, F. Montia,b, L. Moronia, M. Paganonia,b, D. Pedrinia, S. Ragazzia,b,
+T. Tabarelli de Fatisa,b, D. Valsecchia,b,17, D. Zuoloa,b
+INFN   Sezione di Napolia, Universit`adi Napoli ’Federico II’b, Napoli, Italy,
+Universit`adella Basilicatac, Potenza, Italy, Universit`aG. Marconid, Roma,
+Italy
+S. Buontempoa, N. Cavalloa,c, A. De Iorioa,b, A. Di Crescenzoa,b, F. Fabozzia,c, F. Fiengaa,
+G. Galatia, A.O.M. Iorioa,b, L. Layera,b, L. Listaa,b, S. Meolaa,d,17, P. Paoluccia,17,
+B. Rossia, C. Sciaccaa,b, E. Voevodinaa,b
+INFN   Sezione di Padovaa, Universit`adi Padovab, Padova, Italy, Universit`adi
+Trentoc, Trento, Italy
+P. Azzia, N. Bacchettaa, D. Biselloa,b, A. Bolettia,b, A. Bragagnoloa,b, R. Carlina,b,
+P. Checchiaa, P. De Castro Manzanoa, T. Dorigoa, U. Dossellia, F. Gasparinia,b,
+
+
+                                     – 25 –
+U. Gasparinia,b, A. Gozzelinoa, S.Y. Hoha,b, M. Margonia,b, A.T. Meneguzzoa,b,
+J. Pazzinia,b, M. Presillab, P. Ronchesea,b, R. Rossina,b, F. Simonettoa,b, A. Tikoa,
+M. Tosia,b, M. Zanettia,b, P. Zottoa,b, A. Zucchettaa,b, G. Zumerlea,b
+INFN   Sezione di Paviaa, Universit`adi Paviab, Pavia, Italy
+A. Braghieria, D. Fiorinaa,b, P. Montagnaa,b, S.P. Rattia,b, V. Rea, M. Ressegottia,b,
+C. Riccardia,b, P. Salvinia, I. Vaia, P. Vituloa,b
+INFN   Sezione di Perugiaa, Universit`adi Perugiab, Perugia, Italy
+M. Biasinia,b, G.M. Bileia, D. Ciangottinia,b, L. Fan`oa,b, P. Laricciaa,b, R. Leonardia,b,
+E. Manonia, G. Mantovania,b, V. Mariania,b, M. Menichellia, A. Rossia,b, A. Santocchiaa,b, JHEP11(2020)001
+D. Spigaa
+INFN   Sezione di Pisaa, Universit`adi Pisab, Scuola Normale Superiore di Pisac,
+Pisa, Italy
+K. Androsova, P. Azzurria, G. Bagliesia, V. Bertacchia,c, L. Bianchinia, T. Boccalia,
+R. Castaldia, M.A. Cioccia,b, R. Dell’Orsoa, S. Donatoa, L. Gianninia,c, A. Giassia,
+M.T. Grippoa, F. Ligabuea,c, E. Mancaa,c, G. Mandorlia,c, A. Messineoa,b, F. Pallaa,
+A. Rizzia,b, G. Rolandia,c, S. Roy Chowdhurya,c, A. Scribanoa, P. Spagnoloa, R. Tenchinia,
+G. Tonellia,b, N. Turinia, A. Venturia, P.G. Verdinia
+INFN   Sezione di Romaa, Sapienza Universit`adi Romab, Rome, Italy
+F. Cavallaria, M. Cipriania,b, D. Del Rea,b, E. Di Marcoa, M. Diemoza, E. Longoa,b,
+P. Meridiania,  G. Organtinia,b, F. Pandolﬁa,  R. Paramattia,b,  C. Quarantaa,b,
+S. Rahatloua,b, C. Rovellia, F. Santanastasioa,b, L. Soﬃa,b, R. Tramontanoa,b
+INFN   Sezione di Torinoa, Universit`adi Torinob, Torino, Italy, Universit`adel
+Piemonte Orientalec, Novara, Italy
+N. Amapanea,b,   R. Arcidiaconoa,c, S. Argiroa,b, M. Arneodoa,c,  N. Bartosika,
+R. Bellana,b, A. Belloraa,b, C. Biinoa, A. Cappatia,b, N. Cartigliaa, S. Comettia,
+M. Costaa,b, R. Covarellia,b, N. Demariaa, J.R. Gonz´alez Fern´andeza, B. Kiania,b,
+F. Leggera, C. Mariottia, S. Masellia, E. Migliorea,b, V. Monacoa,b, E. Monteila,b,
+M. Montenoa, M.M. Obertinoa,b, G. Ortonaa, L. Pachera,b, N. Pastronea, M. Pelliccionia,
+G.L. Pinna Angionia,b, A. Romeroa,b, M. Ruspaa,c, R. Salvaticoa,b, V. Solaa, A. Solanoa,b,
+D. Soldia,b, A. Staianoa, D. Trocinoa,b
+INFN   Sezione di Triestea, Universit`adi Triesteb, Trieste, Italy
+S. Belfortea, V. Candelisea,b, M. Casarsaa, F. Cossuttia, A. Da Rolda,b, G. Della Riccaa,b,
+F. Vazzolera,b, A. Zanettia
+Kyungpook National University, Daegu, Korea
+B. Kim, D.H. Kim, G.N. Kim, J. Lee, S.W. Lee, C.S. Moon, Y.D. Oh, S.I. Pak, S. Sekmen,
+D.C. Son, Y.C. Yang
+Chonnam   National University, Institute for Universe and Elementary Particles,
+Kwangju, Korea
+H. Kim, D.H. Moon
+
+
+                                     – 26 –
+Hanyang University, Seoul, Korea
+B. Francois, T.J. Kim, J. Park
+Korea University, Seoul, Korea
+S. Cho, S. Choi, Y. Go, S. Ha, B. Hong, K. Lee, K.S. Lee, J. Lim, J. Park, S.K. Park,
+Y. Roh, J. Yoo
+Kyung Hee University, Department of Physics, Seoul, Republic of Korea
+J. Goh
+
+
+Sejong University, Seoul, Korea                                                       JHEP11(2020)001
+H.S. Kim
+Seoul National University, Seoul, Korea
+J. Almond, J.H. Bhyun, J. Choi, S. Jeon, J. Kim, J.S. Kim, H. Lee, K. Lee, S. Lee, K. Nam,
+M. Oh, S.B. Oh, B.C. Radburn-Smith, U.K. Yang, H.D. Yoo, I. Yoon
+University of Seoul, Seoul, Korea
+D. Jeon, J.H. Kim, J.S.H. Lee, I.C. Park, I.J. Watson
+Sungkyunkwan University, Suwon, Korea
+Y. Choi, C. Hwang, Y. Jeong, J. Lee, Y. Lee, I. Yu
+Riga Technical University, Riga, Latvia
+V. Veckalns33
+Vilnius University, Vilnius, Lithuania
+V. Dudenas, A. Juodagalvis, A. Rinkevicius, G. Tamulaitis, J. Vaitkus
+National Centre   for Particle  Physics, Universiti Malaya, Kuala     Lumpur,
+Malaysia
+F. Mohamad Idris34, W.A.T. Wan Abdullah, M.N. Yusli, Z. Zolkapli
+Universidad de Sonora (UNISON), Hermosillo, Mexico
+J.F. Benitez, A. Castaneda Hernandez, J.A. Murillo Quijada, L. Valencia Palomo
+Centro de Investigacion y de Estudios Avanzados del IPN, Mexico City, Mexico
+H. Castilla-Valdez, E. De La Cruz-Burelo, I. Heredia-De La Cruz35, R. Lopez-Fernandez,
+A. Sanchez-Hernandez
+Universidad Iberoamericana, Mexico City, Mexico
+S. Carrillo Moreno, C. Oropeza Barrera, M. Ramirez-Garcia, F. Vazquez Valencia
+Benemerita Universidad Autonoma de Puebla, Puebla, Mexico
+J. Eysermans, I. Pedraza, H.A. Salazar Ibarguen, C. Uribe Estrada
+Universidad Aut´onomade San Luis Potos´ı,San Luis Potos´ı,Mexico
+A. Morelos Pineda
+University of Montenegro, Podgorica, Montenegro
+J. Mijuskovic3, N. Raicevic
+
+
+                                     – 27 –
+University of Auckland, Auckland, New    Zealand
+D. Krofcheck
+University of Canterbury, Christchurch, New    Zealand
+S. Bheesette, P.H. Butler, P. Lujan
+National Centre for Physics, Quaid-I-Azam    University, Islamabad, Pakistan
+A. Ahmad, M. Ahmad, M.I.M. Awan, Q. Hassan, H.R. Hoorani, W.A. Khan, M.A. Shah,
+M. Shoaib, M. Waqas
+
+
+AGH    University of Science and   Technology   Faculty  of Computer Science,         JHEP11(2020)001
+Electronics and Telecommunications, Krakow, Poland
+V. Avati, L. Grzanka, M. Malawski
+National Centre for Nuclear Research, Swierk, Poland
+H. Bialkowska, M. Bluj, B. Boimska, M. G´orski,M. Kazana, M. Szleper, P. Zalewski
+Institute of Experimental Physics, Faculty of Physics, University of Warsaw,
+Warsaw, Poland
+K. Bunkowski, A. Byszuk36, K. Doroba, A. Kalinowski, M. Konecki, J. Krolikowski,
+M. Olszewski, M. Walczak
+Laborat´oriode Instrumenta¸c˜aoe F´ısicaExperimental de Part´ıculas, Lisboa,
+Portugal
+M. Araujo, P. Bargassa, D. Bastos, A. Di Francesco, P. Faccioli, B. Galinhas, M. Gallinaro,
+J. Hollar, N. Leonardo, T. Niknejad, J. Seixas, K. Shchelina, G. Strong, O. Toldaiev,
+J. Varela
+Joint Institute for Nuclear Research, Dubna, Russia
+S. Afanasiev, P. Bunin, M. Gavrilenko, I. Golutvin, I. Gorbunov, A. Kamenev, V. Kar-
+javine, A. Lanev, A. Malakhov, V. Matveev37,38, P. Moisenz, V. Palichik, V. Perelygin,
+M. Savina, S. Shmatov, S. Shulha, N. Skatchkov, V. Smirnov, N. Voytishin, A. Zarubin
+Petersburg Nuclear Physics Institute, Gatchina (St. Petersburg), Russia
+L. Chtchipounov, V. Golovtcov, Y. Ivanov, V. Kim39, E. Kuznetsova40, P. Levchenko,
+V. Murzin, V. Oreshkin, I. Smirnov, D. Sosnov, V. Sulimov, L. Uvarov, A. Vorobyev
+Institute for Nuclear Research, Moscow, Russia
+Yu. Andreev, A. Dermenev, S. Gninenko, N. Golubev, A. Karneyeu, M. Kirsanov,
+N. Krasnikov, A. Pashenkov, D. Tlisov, A. Toropin
+Institute for Theoretical and Experimental Physics named by A.I. Alikhanov
+of NRC   ‘Kurchatov Institute’, Moscow, Russia
+V. Epshteyn, V. Gavrilov, N. Lychkovskaya, A. Nikitenko41, V. Popov, I. Pozdnyakov,
+G. Safronov, A. Spiridonov, A. Stepennov, M. Toms, E. Vlasov, A. Zhokin
+Moscow   Institute of Physics and Technology, Moscow, Russia
+T. Aushev
+
+
+                                     – 28 –
+National Research Nuclear University ’Moscow Engineering Physics Institute’
+(MEPhI), Moscow, Russia
+M. Chadeeva42, P. Parygin, D. Philippov, E. Popova, V. Rusinov
+P.N. Lebedev Physical Institute, Moscow, Russia
+V. Andreev, M. Azarkin, I. Dremin, M. Kirakosyan, A. Terkulov
+Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University,
+Moscow, Russia
+A. Belyaev, E. Boos, M. Dubinin43, L. Dudko, A. Ershov, A. Gribushin, V. Klyukhin,
+O. Kodolova, I. Lokhtin, S. Obraztsov, S. Petrushanko, V. Savrin, A. Snigirev         JHEP11(2020)001
+Novosibirsk State University (NSU), Novosibirsk, Russia
+A. Barnyakov44, V. Blinov44, T. Dimova44, L. Kardapoltsev44, I. Ovtin44, Y. Skovpen44
+Institute for High Energy Physics of National Research Centre ‘Kurchatov
+Institute’, Protvino, Russia
+I. Azhgirey, I. Bayshev, S. Bitioukov, V. Kachanov, D. Konstantinov, P. Mandrik,
+V. Petrov, R. Ryutin, S. Slabospitskii, A. Sobol, S. Troshin, N. Tyurin, A. Uzunian,
+A. Volkov
+National Research Tomsk Polytechnic University, Tomsk, Russia
+A. Babaev, A. Iuzhakov, V. Okhotnikov
+Tomsk State University, Tomsk, Russia
+V. Borchsh, V. Ivanchenko, E. Tcherniaev
+University of Belgrade: Faculty of Physics and VINCA       Institute of Nuclear
+Sciences, Belgrade, Serbia
+P. Adzic45, P. Cirkovic, M. Dordevic, P. Milenovic, J. Milosevic, M. Stojanovic
+Centro   de  Investigaciones  Energ´eticas Medioambientales     y  Tecnol´ogicas
+(CIEMAT), Madrid, Spain
+M. Aguilar-Benitez, J. Alcaraz Maestre, A. Alvarez´ Fern´andez, I. Bachiller, M. Bar-
+rio Luna, Cristina F. Bedoya, J.A. Brochero Cifuentes, C.A. Carrillo Montoya, M. Cepeda,
+M. Cerrada, N. Colino, B. De La Cruz, A. Delgado Peris, J.P. Fern´andezRamos, J. Flix,
+M.C. Fouz, O. Gonzalez Lopez, S. Goy Lopez, J.M. Hernandez, M.I. Josa, D. Moran,
+A.´ Navarro Tobar, A. P´erez-CaleroYzquierdo, J. Puerta Pelayo, I. Redondo, L. Romero,
+S. S´anchez Navas, M.S. Soares, A. Triossi, C. Willmott
+Universidad Aut´onomade Madrid, Madrid, Spain
+C. Albajar, J.F. de Troc´oniz,R. Reyes-Almanza
+Universidad  de  Oviedo, Instituto   Universitario de  Ciencias y   Tecnolog´ıas
+Espaciales de Asturias (ICTEA), Oviedo, Spain
+B. Alvarez Gonzalez, J. Cuevas, C. Erice, J. Fernandez Menendez, S. Folgueras,
+I. Gonzalez Caballero, E. Palencia Cortezon, C. Ram´on Alvarez,´ V. Rodr´ıguez Bouza,
+S. Sanchez Cruz
+
+
+                                     – 29 –
+Instituto de F´ısica de Cantabria (IFCA), CSIC-Universidad       de Cantabria,
+Santander, Spain
+I.J. Cabrillo, A. Calderon, B. Chazin Quero, J. Duarte Campderros, M. Fernandez,
+P.J. Fern´andezManteca, A. Garc´ıa Alonso, G. Gomez, C. Martinez Rivero, P. Mar-
+tinez Ruiz del Arbol, F. Matorras, J. Piedra Gomez, C. Prieels, F. Ricci-Tam, T. Rodrigo,
+A. Ruiz-Jimeno, L. Russo46, L. Scodellaro, I. Vila, J.M. Vizan Garcia
+
+University of Colombo, Colombo, Sri Lanka
+D.U.J. Sonnadara
+                                                                                      JHEP11(2020)001
+
+University of Ruhuna, Department of Physics, Matara, Sri Lanka
+W.G.D. Dharmaratna, N. Wickramage
+
+CERN, European Organization for Nuclear Research, Geneva, Switzerland
+T.K. Aarrestad, D. Abbaneo, B. Akgun, E. Auﬀray, G. Auzinger, J. Baechler, P. Baillon,
+A.H. Ball, D. Barney, J. Bendavid, M. Bianco, A. Bocci, P. Bortignon, E. Bossini,
+E. Brondolin, T. Camporesi, A. Caratelli, G. Cerminara, E. Chapon, G. Cucciati,
+D. d’Enterria, A. Dabrowski, N. Daci, V. Daponte, A. David, O. Davignon, A. De Roeck,
+M. Deile, R. Di Maria, M. Dobson, M. D¨unser, N. Dupont, A. Elliott-Peisert, N. Em-
+riskova, F. Fallavollita47, D. Fasanella, S. Fiorendi, G. Franzoni, J. Fulcher, W. Funk,
+S. Giani, D. Gigi, K. Gill, F. Glege, L. Gouskos, M. Gruchala, M. Guilbaud, D. Gulhan,
+J. Hegeman, C. Heidegger, Y. Iiyama, V. Innocente, T. James, P. Janot, O. Karacheban20,
+J. Kaspar, J. Kieseler, M. Krammer1, N. Kratochwil, C. Lange, P. Lecoq, K. Long,
+C. Louren¸co, L. Malgeri, M. Mannelli, A. Massironi, F. Meijers, S. Mersi, E. Meschi,
+F. Moortgat, M. Mulders, J. Ngadiuba, J. Niedziela, S. Nourbakhsh, S. Orfanelli, L. Orsini,
+F. Pantaleo17, L. Pape, E. Perez, M. Peruzzi, A. Petrilli, G. Petrucciani, A. Pfeiﬀer,
+M. Pierini, F.M. Pitters, D. Rabady, A. Racz, M. Rieger, M. Rovere, H. Sakulin,
+J. Salfeld-Nebgen, S. Scarﬁ, C. Sch¨afer,C. Schwick, M. Selvaggi, A. Sharma, P. Silva,
+W. Snoeys, P. Sphicas48, J. Steggemann, S. Summers, V.R. Tavolaro, D. Treille, A. Tsirou,
+G.P. Van Onsem, A. Vartak, M. Verzetti, K.A. Wozniak, W.D. Zeuner
+
+Paul Scherrer Institut, Villigen, Switzerland
+L. Caminada49, K. Deiters, W. Erdmann, R. Horisberger, Q. Ingram, H.C. Kaestli,
+D. Kotlinski, U. Langenegger, T. Rohe
+
+ETH   Zurich —  Institute for Particle Physics and Astrophysics (IPA), Zurich,
+Switzerland
+M. Backhaus, P. Berger, A. Calandri, N. Chernyavskaya, G. Dissertori, M. Dittmar,
+M. Doneg`a, C. Dorfer, T.A. G´omez Espinosa, C. Grab, D. Hits, W. Lustermann,
+R.A. Manzoni, M.T. Meinhard, F. Micheli, P. Musella, F. Nessi-Tedaldi, F. Pauss,
+V. Perovic, G. Perrin, L. Perrozzi, S. Pigazzini, M.G. Ratti, M. Reichmann, C. Reissel,
+T. Reitenspiess, B. Ristic, D. Ruini, D.A. Sanz Becerra, M. Sch¨onenberger, L. Shchutska,
+M.L. Vesterbacka Olsson, R. Wallny, D.H. Zhu
+
+
+                                     – 30 –
+Universit¨atZ¨urich, Zurich, Switzerland
+C. Amsler50, C. Botta, D. Brzhechko, M.F. Canelli, A. De Cosa, R. Del Burgo, B. Kilmin-
+ster, S. Leontsinis, V.M. Mikuni, I. Neutelings, G. Rauco, P. Robmann, K. Schweiger,
+Y. Takahashi, S. Wertz
+
+National Central University, Chung-Li, Taiwan
+C.M. Kuo, W. Lin, A. Roy, T. Sarkar29, S.S. Yu
+
+National Taiwan University (NTU), Taipei, Taiwan
+
+
+P. Chang, Y. Chao, K.F. Chen, P.H. Chen, W.-S. Hou, Y.y. Li, R.-S. Lu, E. Paganis,    JHEP11(2020)001
+A. Psallidas, A. Steen
+
+Chulalongkorn University, Faculty of Science, Department of Physics, Bangkok,
+Thailand
+B. Asavapibhop, C. Asawatangtrakuldee, N. Srimanobhas, N. Suwonjandee
+
+C¸ukurova University, Physics Department, Science and Art Faculty, Adana,
+Turkey
+A. Bat, F. Boran, A. Celik51, S. Damarseckin52, Z.S. Demiroglu, F. Dolek, C. Dozen53,
+I. Dumanoglu54, G. Gokbulut, Y. Guler, E. Gurpinar Guler55, I. Hos56, C. Isik,
+E.E. Kangal57, O. Kara, A. Kayis Topaksu, U. Kiminsu, G. Onengut, K. Ozdemir58,
+A.E. Simsek, U.G. Tok, S. Turkcapar, I.S. Zorbakir, C. Zorbilmez
+
+Middle East Technical University, Physics Department, Ankara, Turkey
+B. Isildak59, G. Karapinar60, M. Yalvac61
+
+Bogazici University, Istanbul, Turkey
+I.O. Atakisi, E. G¨ulmez,M. Kaya62, O. Kaya63, O.¨ Oz¸celik,S.¨ Tekten64, E.A. Yetkin65
+
+Istanbul Technical University, Istanbul, Turkey
+A. Cakir, K. Cankocak54, Y. Komurcu, S. Sen66
+
+Istanbul University, Istanbul, Turkey
+S. Cerci67, B. Kaynak, S. Ozkorucuklu, D. Sunar Cerci67
+
+Institute for Scintillation Materials of National Academy of Science of Ukraine,
+Kharkov, Ukraine
+B. Grynyov
+
+National Scientiﬁc   Center, Kharkov    Institute of Physics and   Technology,
+Kharkov, Ukraine
+L. Levchuk
+
+University of Bristol, Bristol, United Kingdom
+E. Bhal, S. Bologna, J.J. Brooke, D. Burns68, E. Clement, D. Cussans, H. Flacher,
+J. Goldstein, G.P. Heath, H.F. Heath, L. Kreczko, B. Krikler, S. Paramesvaran, T. Sakuma,
+S. Seif El Nasr-Storey, V.J. Smith, J. Taylor, A. Titterton
+
+
+                                     – 31 –
+Rutherford Appleton Laboratory, Didcot, United Kingdom
+K.W. Bell, A. Belyaev69, C. Brew, R.M. Brown, D.J.A. Cockerill, J.A. Coughlan,
+K. Harder, S. Harper, J. Linacre, K. Manolopoulos, D.M. Newbold, E. Olaiya, D. Petyt,
+T. Reis, T. Schuh, C.H. Shepherd-Themistocleous, A. Thea, I.R. Tomalin, T. Williams
+
+Imperial College, London, United Kingdom
+R. Bainbridge, P. Bloch, S. Bonomally, J. Borg, S. Breeze, O. Buchmuller, A. Bundock,
+G.S. Chahal70, D. Colling, P. Dauncey, G. Davies, M. Della Negra, P. Everaerts, G. Hall,
+G. Iles, M. Komm, J. Langford, L. Lyons, A.-M. Magnan, S. Malik, A. Martelli, V. Milose-
+vic, A. Morton, J. Nash71, V. Palladino, M. Pesaresi, D.M. Raymond, A. Richards, A. Rose, JHEP11(2020)001
+E. Scott, C. Seez, A. Shtipliyski, M. Stoye, T. Strebler, A. Tapper, K. Uchida, T. Virdee17,
+N. Wardle, S.N. Webb, D. Winterbottom, A.G. Zecchinelli, S.C. Zenz
+
+Brunel University, Uxbridge, United Kingdom
+J.E. Cole, P.R. Hobson, A. Khan, P. Kyberd, C.K. Mackay, I.D. Reid, L. Teodorescu,
+S. Zahid
+
+Baylor University, Waco, U.S.A.
+A. Brinkerhoﬀ, K. Call, B. Caraway, J. Dittmann, K. Hatakeyama, C. Madrid, B. McMas-
+ter, N. Pastika, C. Smith
+
+Catholic University of America, Washington, DC, U.S.A.
+R. Bartek, A. Dominguez, R. Uniyal, A.M. Vargas Hernandez
+
+The University of Alabama, Tuscaloosa, U.S.A.
+A. Buccilli, S.I. Cooper, S.V. Gleyzer, C. Henderson, P. Rumerio, C. West
+
+Boston University, Boston, U.S.A.
+A. Albert, D. Arcaro, Z. Demiragli, D. Gastler, C. Richardson, J. Rohlf, D. Sperka,
+D. Spitzbart, I. Suarez, L. Sulak, D. Zou
+
+Brown University, Providence, U.S.A.
+G. Benelli, B. Burkle, X. Coubez18, D. Cutts, Y.t. Duh, M. Hadley, U. Heintz,
+J.M. Hogan72, K.H.M. Kwok, E. Laird, G. Landsberg, K.T. Lau, J. Lee, M. Narain,
+S. Sagir73, R. Syarif, E. Usai, W.Y. Wong, D. Yu, W. Zhang
+
+University of California, Davis, Davis, U.S.A.
+R. Band, C. Brainerd, R. Breedon, M. Calderon De La Barca Sanchez, M. Chertok,
+J. Conway, R. Conway, P.T. Cox, R. Erbacher, C. Flores, G. Funk, F. Jensen, W. Ko†,
+O. Kukral, R. Lander, M. Mulhearn, D. Pellett, J. Pilot, M. Shi, D. Taylor, K. Tos,
+M. Tripathi, Z. Wang, F. Zhang
+
+University of California, Los Angeles, U.S.A.
+M. Bachtis, C. Bravo, R. Cousins, A. Dasgupta, A. Florent, J. Hauser, M. Ignatenko,
+N. Mccoll, W.A. Nash, S. Regnard, D. Saltzberg, C. Schnaible, B. Stone, V. Valuev
+
+
+                                     – 32 –
+University of California, Riverside, Riverside, U.S.A.
+K. Burt, Y. Chen, R. Clare, J.W. Gary, S.M.A. Ghiasi Shirazi, G. Hanson, G. Karapostoli,
+O.R. Long, N. Manganelli, M. Olmedo Negrete, M.I. Paneva, W. Si, S. Wimpenny,
+B.R. Yates, Y. Zhang
+
+University of California, San Diego, La Jolla, U.S.A.
+J.G. Branson, P. Chang, S. Cittolin, S. Cooperstein, N. Deelen, M. Derdzinski, J. Duarte,
+R. Gerosa, D. Gilbert, B. Hashemi, D. Klein, V. Krutelyov, J. Letts, M. Masciovec-
+chio, S. May, S. Padhi, M. Pieri, V. Sharma, M. Tadel, F. W¨urthwein, A. Yagil,
+
+G. Zevi Della Porta                                                                   JHEP11(2020)001
+
+University  of California, Santa  Barbara   —  Department of Physics, Santa
+Barbara, U.S.A.
+N. Amin, R. Bhandari, C. Campagnari, M. Citron, V. Dutta, J. Incandela, B. Marsh,
+H. Mei, A. Ovcharova, H. Qu, J. Richman, U. Sarica, D. Stuart, S. Wang
+
+California Institute of Technology, Pasadena, U.S.A.
+D. Anderson, A. Bornheim, O. Cerri, I. Dutta, J.M. Lawhorn, N. Lu, J. Mao, H.B. Newman,
+T.Q. Nguyen, J. Pata, M. Spiropulu, J.R. Vlimant, S. Xie, Z. Zhang, R.Y. Zhu
+
+Carnegie Mellon University, Pittsburgh, U.S.A.
+J. Alison, M.B. Andrews, T. Ferguson, T. Mudholkar, M. Paulini, M. Sun, I. Vorobiev,
+M. Weinberg
+
+University of Colorado Boulder, Boulder, U.S.A.
+J.P. Cumalat, W.T. Ford, E. MacDonald, T. Mulholland, R. Patel, A. Perloﬀ, K. Stenson,
+K.A. Ulmer, S.R. Wagner
+
+Cornell University, Ithaca, U.S.A.
+J. Alexander, Y. Cheng, J. Chu, A. Datta, A. Frankenthal, K. Mcdermott, J.R. Patterson,
+D. Quach, A. Ryd, S.M. Tan, Z. Tao, J. Thom, P. Wittich, M. Zientek
+
+Fermi National Accelerator Laboratory, Batavia, U.S.A.
+S. Abdullin, M. Albrow, M. Alyari, G. Apollinari, A. Apresyan, A. Apyan, S. Banerjee,
+L.A.T. Bauerdick, A. Beretvas, D. Berry, J. Berryhill, P.C. Bhat, K. Burkett, J.N. Butler,
+A. Canepa, G.B. Cerati, H.W.K. Cheung, F. Chlebana, M. Cremonesi, V.D. Elvira,
+J. Freeman, Z. Gecse, E. Gottschalk, L. Gray, D. Green, S. Gr¨unendahl,O. Gutsche,
+J. Hanlon, R.M. Harris, S. Hasegawa, R. Heller, J. Hirschauer, B. Jayatilaka, S. Jindariani,
+M. Johnson, U. Joshi, T. Klijnsma, B. Klima, M.J. Kortelainen, B. Kreis, S. Lammel,
+J. Lewis, D. Lincoln, R. Lipton, M. Liu, T. Liu, J. Lykken, K. Maeshima, J.M. Marraﬃno,
+D. Mason, P. McBride, P. Merkel, S. Mrenna, S. Nahn, V. O’Dell, V. Papadimitriou,
+K. Pedro, C. Pena43, F. Ravera, A. Reinsvold Hall, L. Ristori, B. Schneider, E. Sexton-
+Kennedy, N. Smith, A. Soha, W.J. Spalding, L. Spiegel, S. Stoynev, J. Strait, L. Taylor,
+S. Tkaczyk, N.V. Tran, L. Uplegger, E.W. Vaandering, R. Vidal, M. Wang, H.A. Weber,
+A. Woodard
+
+
+                                     – 33 –
+University of Florida, Gainesville, U.S.A.
+D. Acosta, P. Avery, D. Bourilkov, L. Cadamuro, V. Cherepanov, F. Errico, R.D. Field,
+D. Guerrero, B.M. Joshi, M. Kim, J. Konigsberg, A. Korytov, K.H. Lo, K. Matchev,
+N. Menendez, G. Mitselmakher, D. Rosenzweig, K. Shi, J. Wang, S. Wang, X. Zuo
+
+Florida International University, Miami, U.S.A.
+Y.R. Joshi
+
+Florida State University, Tallahassee, U.S.A.
+
+
+T. Adams, A. Askew, R. Habibullah, S. Hagopian, V. Hagopian, K.F. Johnson, R. Khurana, JHEP11(2020)001
+T. Kolberg, G. Martinez, T. Perry, H. Prosper, C. Schiber, R. Yohay, J. Zhang
+
+Florida Institute of Technology, Melbourne, U.S.A.
+M.M. Baarmand, M. Hohlmann, D. Noonan, M. Rahmani, M. Saunders, F. Yumiceva
+
+University of Illinois at Chicago (UIC), Chicago, U.S.A.
+M.R. Adams, L. Apanasevich, R.R. Betts, R. Cavanaugh, X. Chen, S. Dittmer, O. Ev-
+dokimov, C.E. Gerber, D.A. Hangal, D.J. Hofman, V. Kumar, C. Mills, G. Oh, T. Roy,
+M.B. Tonjes, N. Varelas, J. Viinikainen, H. Wang, X. Wang, Z. Wu
+
+The University of Iowa, Iowa City, U.S.A.
+M. Alhusseini, B. Bilki55, K. Dilsiz74, S. Durgut, R.P. Gandrajula, M. Haytmyradov,
+V. Khristenko, O.K. K¨oseyan, J.-P. Merlo, A. Mestvirishvili75, A. Moeller, J. Nachtman,
+H. Ogul76, Y. Onel, F. Ozok77, A. Penzo, C. Snyder, E. Tiras, J. Wetzel, K. Yi78
+
+Johns Hopkins University, Baltimore, U.S.A.
+B. Blumenfeld, A. Cocoros, N. Eminizer, A.V. Gritsan, W.T. Hung, S. Kyriacou, P. Mak-
+simovic, C. Mantilla, J. Roskes, M. Swartz, T.A.´ V´ami
+
+The University of Kansas, Lawrence, U.S.A.
+C. Baldenegro Barrera, P. Baringer, A. Bean, S. Boren, A. Bylinkin, T. Isidori, S. Khalil,
+J. King, G. Krintiras, A. Kropivnitskaya, C. Lindsey, W. Mcbrayer, N. Minafra, M. Murray,
+C. Rogan, C. Royon, S. Sanders, E. Schmitz, J.D. Tapia Takaki, Q. Wang, J. Williams,
+G. Wilson
+
+Kansas State University, Manhattan, U.S.A.
+S. Duric, A. Ivanov, K. Kaadze, D. Kim, Y. Maravin, D.R. Mendis, T. Mitchell, A. Modak,
+A. Mohammadi
+
+Lawrence Livermore National Laboratory, Livermore, U.S.A.
+F. Rebassoo, D. Wright
+
+University of Maryland, College Park, U.S.A.
+A. Baden, O. Baron, A. Belloni, S.C. Eno, Y. Feng, N.J. Hadley, S. Jabeen, G.Y. Jeng,
+R.G. Kellogg, A.C. Mignerey, S. Nabili, M. Seidel, A. Skuja, S.C. Tonwar, L. Wang,
+K. Wong
+
+
+                                     – 34 –
+Massachusetts Institute of Technology, Cambridge, U.S.A.
+D. Abercrombie, B. Allen, R. Bi, S. Brandt, W. Busza, I.A. Cali, M. D’Alfonso,
+G. Gomez Ceballos, M. Goncharov, P. Harris, D. Hsu, M. Hu, M. Klute, D. Kovalskyi,
+Y.-J. Lee, P.D. Luckey, B. Maier, A.C. Marini, C. Mcginn, C. Mironov, S. Narayanan,
+X. Niu, C. Paus, D. Rankin, C. Roland, G. Roland, Z. Shi, G.S.F. Stephans, K. Sumorok,
+K. Tatar, D. Velicanu, J. Wang, T.W. Wang, B. Wyslouch
+University of Minnesota, Minneapolis, U.S.A.
+R.M. Chatterjee, A. Evans, S. Guts†, P. Hansen, J. Hiltbrand, Sh. Jain, Y. Kubota,
+
+
+Z. Lesko, J. Mans, M. Revering, R. Rusack, R. Saradhy, N. Schroeder, N. Strobbe,      JHEP11(2020)001
+M.A. Wadud
+University of Mississippi, Oxford, U.S.A.
+J.G. Acosta, S. Oliveros
+University of Nebraska-Lincoln, Lincoln, U.S.A.
+K. Bloom, S. Chauhan, D.R. Claes, C. Fangmeier, L. Finco, F. Golf, R. Kamalieddin,
+I. Kravchenko, J.E. Siado, G.R. Snow†, B. Stieger, W. Tabb
+State University of New  York at Buﬀalo, Buﬀalo, U.S.A.
+G. Agarwal, C. Harrington, I. Iashvili, A. Kharchilava, C. McLean, D. Nguyen, A. Parker,
+J. Pekkanen, S. Rappoccio, B. Roozbahani
+Northeastern University, Boston, U.S.A.
+G. Alverson, E. Barberis, C. Freer, Y. Haddad, A. Hortiangtham, G. Madigan, B. Marzoc-
+chi, D.M. Morse, V. Nguyen, T. Orimoto, L. Skinnari, A. Tishelman-Charny, T. Wamorkar,
+B. Wang, A. Wisecarver, D. Wood
+Northwestern University, Evanston, U.S.A.
+S. Bhattacharya, J. Bueghly, G. Fedi, A. Gilbert, T. Gunter, K.A. Hahn, N. Odell,
+M.H. Schmitt, K. Sung, M. Velasco
+University of Notre Dame, Notre Dame, U.S.A.
+R. Bucci, N. Dev, R. Goldouzian, M. Hildreth, K. Hurtado Anampa, C. Jessop, D.J. Kar-
+mgard, K. Lannon, W. Li, N. Loukas, N. Marinelli, I. Mcalister, F. Meng, Y. Musienko37,
+R. Ruchti, P. Siddireddy, G. Smith, S. Taroni, M. Wayne, A. Wightman, M. Wolf
+The Ohio State University, Columbus, U.S.A.
+J. Alimena, B. Bylsma, B. Cardwell, L.S. Durkin, B. Francis, C. Hill, W. Ji, A. Lefeld,
+T.Y. Ling, B.L. Winer
+Princeton University, Princeton, U.S.A.
+G. Dezoort, P. Elmer, J. Hardenbrook, N. Haubrich, S. Higginbotham, A. Kalogeropoulos,
+S. Kwan, D. Lange, M.T. Lucchini, J. Luo, D. Marlow, K. Mei, I. Ojalvo, J. Olsen,
+C. Palmer, P. Pirou´e,D. Stickland, C. Tully
+University of Puerto Rico, Mayaguez, U.S.A.
+S. Malik, S. Norberg
+
+
+                                     – 35 –
+Purdue University, West Lafayette, U.S.A.
+A. Barker, V.E. Barnes, R. Chawla, S. Das, L. Gutay, M. Jones, A.W. Jung, B. Mahakud,
+D.H. Miller, G. Negro, N. Neumeister, C.C. Peng, S. Piperov, H. Qiu, J.F. Schulte,
+N. Trevisani, F. Wang, R. Xiao, W. Xie
+Purdue University Northwest, Hammond, U.S.A.
+T. Cheng, J. Dolen, N. Parashar
+Rice University, Houston, U.S.A.
+A. Baty, U. Behrens, S. Dildick, K.M. Ecklund, S. Freed, F.J.M. Geurts, M. Kilpatrick,
+                                                                                      JHEP11(2020)001
+A. Kumar, W. Li, B.P. Padley, R. Redjimi, J. Roberts, J. Rorie, W. Shi, A.G. Stahl Leiton,
+Z. Tu, A. Zhang
+University of Rochester, Rochester, U.S.A.
+A. Bodek, P. de Barbaro, R. Demina, J.L. Dulemba, C. Fallon, T. Ferbel, M. Galanti,
+A. Garcia-Bellido, O. Hindrichs, A. Khukhunaishvili, E. Ranken, R. Taus
+Rutgers, The State University of New   Jersey, Piscataway, U.S.A.
+B. Chiarito, J.P. Chou, A. Gandrakota, Y. Gershtein, E. Halkiadakis, A. Hart, M. Heindl,
+E. Hughes, S. Kaplan, I. Laﬂotte, A. Lath, R. Montalvo, K. Nash, M. Osherson, S. Salur,
+S. Schnetzer, S. Somalwar, R. Stone, S. Thomas
+University of Tennessee, Knoxville, U.S.A.
+H. Acharya, A.G. Delannoy, S. Spanier
+Texas A&M    University, College Station, U.S.A.
+O. Bouhali79, M. Dalchenko, A. Delgado, R. Eusebi, J. Gilmore, T. Huang, T. Kamon80,
+H. Kim, S. Luo, S. Malhotra, D. Marley, R. Mueller, D. Overton, L. Perni`e,D. Rathjens,
+A. Safonov
+Texas Tech University, Lubbock, U.S.A.
+N. Akchurin, J. Damgov, F. De Guio, V. Hegde, S. Kunori, K. Lamichhane, S.W. Lee,
+T. Mengke, S. Muthumuni, T. Peltola, S. Undleeb, I. Volobouev, Z. Wang, A. Whitbeck
+Vanderbilt University, Nashville, U.S.A.
+S. Greene, A. Gurrola, R. Janjam, W. Johns, C. Maguire, A. Melo, H. Ni, K. Padeken,
+F. Romeo, P. Sheldon, S. Tuo, J. Velkovska, M. Verweij
+University of Virginia, Charlottesville, U.S.A.
+L. Ang, M.W. Arenton, P. Barria, B. Cox, G. Cummings, J. Hakala, R. Hirosky, M. Joyce,
+A. Ledovskoy, C. Neu, B. Tannenwald, Y. Wang, E. Wolfe, F. Xia
+Wayne State University, Detroit, U.S.A.
+R. Harr, P.E. Karchin, N. Poudyal, J. Sturdy, P. Thapa
+University of Wisconsin —   Madison, Madison, WI, U.S.A.
+K. Black, T. Bose, J. Buchanan, C. Caillol, D. Carlsmith, S. Dasu, I. De Bruyn, L. Dodd,
+C. Galloni, H. He, M. Herndon, A. Herv´e,U. Hussain, A. Lanaro, A. Loeliger, R. Loveless,
+
+
+                                     – 36 –
+J. Madhusudanan Sreekala, A. Mallampalli, D. Pinna, T. Ruggles, A. Savin, V. Sharma,
+W.H. Smith, D. Teague, S. Trembath-reichert
+
+   †: Deceased
+   1: Also at Vienna University of Technology, Vienna, Austria
+   2: Also at Universit´eLibre de Bruxelles, Bruxelles, Belgium
+   3: Also at IRFU, CEA, Universit´eParis-Saclay, Gif-sur-Yvette, France
+   4: Also at Universidade Estadual de Campinas, Campinas, Brazil
+   5: Also at Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+
+
+   6: Also at UFMS, Nova Andradina, Brazil                                                       JHEP11(2020)001
+   7: Also at Universidade Federal de Pelotas, Pelotas, Brazil
+   8: Also at University of Chinese Academy of Sciences, Beijing, China
+   9: Also at Institute for Theoretical and Experimental Physics named by A.I. Alikhanov of NRC
+      ‘Kurchatov Institute’, Moscow, Russia
+  10: Also at Joint Institute for Nuclear Research, Dubna, Russia
+  11: Also at Cairo University, Cairo, Egypt
+  12: Now at British University in Egypt, Cairo, Egypt
+  13: Also at Purdue University, West Lafayette, U.S.A.
+  14: Also at Universit´ede Haute Alsace, Mulhouse, France
+  15: Also at Tbilisi State University, Tbilisi, Georgia
+  16: Also at Erzincan Binali Yildirim University, Erzincan, Turkey
+  17: Also at CERN, European Organization for Nuclear Research, Geneva, Switzerland
+  18: Also at RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany
+  19: Also at University of Hamburg, Hamburg, Germany
+  20: Also at Brandenburg University of Technology, Cottbus, Germany
+  21: Also at Institute of Physics, University of Debrecen, Debrecen, Hungary, Debrecen, Hungary
+  22: Also at Institute of Nuclear Research ATOMKI, Debrecen, Hungary
+  23: Also at MTA-ELTE Lend¨uletCMS Particle and Nuclear Physics Group, E¨otv¨osLor´and
+      University, Budapest, Hungary, Budapest, Hungary
+  24: Also at IIT Bhubaneswar, Bhubaneswar, India, Bhubaneswar, India
+  25: Also at Institute of Physics, Bhubaneswar, India
+  26: Also at G.H.G. Khalsa College, Punjab, India
+  27: Also at Shoolini University, Solan, India
+  28: Also at University of Hyderabad, Hyderabad, India
+  29: Also at University of Visva-Bharati, Santiniketan, India
+  30: Now at INFN Sezione di Baria, Universit`adi Barib, Politecnico di Baric, Bari, Italy
+  31: Also at Italian National Agency for New Technologies, Energy and Sustainable Economic
+      Development, Bologna, Italy
+  32: Also at Centro Siciliano di Fisica Nucleare e di Struttura Della Materia, Catania, Italy
+  33: Also at Riga Technical University, Riga, Latvia, Riga, Latvia
+  34: Also at Malaysian Nuclear Agency, MOSTI, Kajang, Malaysia
+  35: Also at Consejo Nacional de Ciencia y Tecnolog´ıa,Mexico City, Mexico
+  36: Also at Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+  37: Also at Institute for Nuclear Research, Moscow, Russia
+  38: Now  at National Research Nuclear University ’Moscow   Engineering Physics Institute’
+      (MEPhI), Moscow, Russia
+  39: Also at St. Petersburg State Polytechnical University, St. Petersburg, Russia
+  40: Also at University of Florida, Gainesville, U.S.A.
+
+
+                                         – 37 –
+41: Also at Imperial College, London, United Kingdom
+42: Also at P.N. Lebedev Physical Institute, Moscow, Russia
+43: Also at California Institute of Technology, Pasadena, U.S.A.
+44: Also at Budker Institute of Nuclear Physics, Novosibirsk, Russia
+45: Also at Faculty of Physics, University of Belgrade, Belgrade, Serbia
+46: Also at Universit`adegli Studi di Siena, Siena, Italy
+47: Also at INFN Sezione di Paviaa, Universit`adi Paviab, Pavia, Italy, Pavia, Italy
+48: Also at National and Kapodistrian University of Athens, Athens, Greece
+49: Also at Universit¨atZ¨urich, Zurich, Switzerland
+50: Also at Stefan Meyer Institute for Subatomic Physics, Vienna, Austria, Vienna, Austria
+51: Also at Burdur Mehmet Akif Ersoy University, BURDUR, Turkey                                JHEP11(2020)001
+52: Also at S¸ırnak University, Sirnak, Turkey
+53: Also at Department of Physics, Tsinghua University, Beijing, China, Beijing, China
+54: Also at Near East University, Research Center of Experimental Health Science, Nicosia,
+    Turkey
+55: Also at Beykent University, Istanbul, Turkey, Istanbul, Turkey
+56: Also at Istanbul Aydin University, Application and Research Center for Advanced Studies
+    (App. & Res. Cent. for Advanced Studies), Istanbul, Turkey
+57: Also at Mersin University, Mersin, Turkey
+58: Also at Piri Reis University, Istanbul, Turkey
+59: Also at Ozyegin University, Istanbul, Turkey
+60: Also at Izmir Institute of Technology, Izmir, Turkey
+61: Also at Bozok Universitetesi Rekt¨orl¨ug¨u,Yozgat, Turkey
+62: Also at Marmara University, Istanbul, Turkey
+63: Also at Milli Savunma University, Istanbul, Turkey
+64: Also at Kafkas University, Kars, Turkey
+65: Also at Istanbul Bilgi University, Istanbul, Turkey
+66: Also at Hacettepe University, Ankara, Turkey
+67: Also at Adiyaman University, Adiyaman, Turkey
+68: Also at Vrije Universiteit Brussel, Brussel, Belgium
+69: Also at School of Physics and Astronomy, University of Southampton, Southampton, United
+    Kingdom
+70: Also at IPPP Durham University, Durham, United Kingdom
+71: Also at Monash University, Faculty of Science, Clayton, Australia
+72: Also at Bethel University, St. Paul, Minneapolis, U.S.A., St. Paul, U.S.A.
+73: Also at Karamano˘gluMehmetbey University, Karaman, Turkey
+74: Also at Bingol University, Bingol, Turkey
+75: Also at Georgian Technical University, Tbilisi, Georgia
+76: Also at Sinop University, Sinop, Turkey
+77: Also at Mimar Sinan University, Istanbul, Istanbul, Turkey
+78: Also at Nanjing Normal University Department of Physics, Nanjing, China
+79: Also at Texas A&M University at Qatar, Doha, Qatar
+80: Also at Kyungpook National University, Daegu, Korea, Daegu, Korea
+
+
+                                       – 38 –

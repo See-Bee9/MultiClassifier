@@ -1,0 +1,581 @@
+Lawrence Berkeley National Laboratory
+Recent Work
+
+Title
+First on-line detection of radioactive fission isotopes produced by laser-accelerated 
+protons.
+
+Permalink
+https://escholarship.org/uc/item/6v7238zb
+
+Journal
+Scientific reports, 10(1)
+
+ISSN
+2045-2322
+
+Authors
+Boller, Pascal
+Zylstra, Alex
+Neumayer, Paul
+et al.
+
+Publication Date
+2020-10-14
+
+DOI
+10.1038/s41598-020-74045-5
+ 
+Peer reviewed
+
+
+ eScholarship.org                                Powered by the California Digital Library
+                                                                   University of California
+                                                                                    www.nature.com/scientificreports
+
+
+             OPEN           First on‑line detection 
+                            of radioactive fssion isotopes 
+                            produced by laser‑accelerated 
+                            protons
+                            Pascal Boller1,2*, Alex Zylstra3, Paul Neumayer1,4, Lee Bernstein3, Christian Brabetz1, 
+                            John Despotopulos3, Jan Glorius1, Johannes Hellmund1, Eugene A. Henry3, 
+                            Johannes Hornung1,5,6, Justin Jeet3, Jadambaa Khuyagbaatar1, Lotte Lens1, Simon Roeder1,2, 
+                            Thomas Stoehlker1,5,6, Alexander Yakushev1, Yuri A. Litvinov1, Dawn Shaughnessy3, 
+                            Vincent Bagnoud1,2, Thomas Kuehl1,5,7 & Dieter H. G. Schneider3
+
+                            The on-going developments in laser acceleration of protons and light ions, as well as the production 
+                            of strong bursts of neutrons and multi-MeV photons by secondary processes now provide a basis for 
+                            novel high-fux nuclear physics experiments. While the maximum energy of protons resulting from 
+                            Target Normal Sheath Acceleration is presently still limited to around 100 MeV , the generated proton 
+                            peak fux within the short laser-accelerated bunches can already today exceed the values achievable at 
+                            the most advanced conventional accelerators by orders of magnitude. This paper consists of two parts 
+                            covering the scientifc motivation and relevance of such experiments and a frst proof-of-principle 
+                            demonstration. In the presented experiment pulses of 200 J at ≈ 500 fs duration from the PHELIX laser 
+                            produced more than 1012 protons with energies above 15 MeV in a bunch of sub-nanosecond duration. 
+                            They were used to induce fssion in foil targets made of natural uranium. To make use of the nonpareil 
+                            fux, these targets have to be very close to the laser acceleration source, since the particle density 
+                            within the bunch is strongly afected by Coulomb explosion and the velocity diferences between ions 
+                            of diferent energy. The main challenge for nuclear detection with high-purity germanium detectors 
+                            is given by the strong electromagnetic pulse caused by the laser-matter interaction close to the laser 
+                            acceleration source. This was mitigated by utilizing fast transport of the fssion products by a gas fow 
+                            to a carbon flter, where the γ-rays were registered. The identifed nuclides include those that have 
+                            half-lives down to 39 s . These results demonstrate the capability to produce, extract, and detect short-
+                            lived reaction products under the demanding experimental condition imposed by the high-power 
+                            laser interaction. The approach promotes research towards relevant nuclear astrophysical studies at 
+                            conditions currently only accessible at nuclear high energy density laser facilities.
+
+                            At present, Target Normal Sheath Acceleration (TNSA)1, 2 produces protons with energies up to around 100 MeV3, 
+                            with abundances of more than 1012 protons above 15 MeV4. One of the pre-requisites for TNSA is the necessity to 
+                            maintain relativistic intensities during the laser-matter interaction over many tens of femtoseconds, a capability 
+                            which is met by low-repetition-rate high-intensity lasers of 10 Hz and below. Tis acceleration scheme opens up 
+                            new opportunities for proton-induced reactions that until now have not been possible. Indeed, while the average 
+                            proton fux of a laser-based proton source remains low compared to standard accelerators, the peak proton fux 
+                            reaches 1022 particles per second within the laser-accelerated particle bunch, which dramatically exceeds the 
+                            capabilities of conventional particle accelerators. Tis gives a perspective to probe into new regimes or reliably 
+                            trigger and detect processes with small cross-sections at ultrashort lifetimes. Additional improvements of these 
+
+
+                            1GSI  Helmholtzzentrum  für  Schwerionenforschung,  Planckstraße  1,  64291  Darmstadt,  Germany. 2Technische 
+                            Universität  Darmstadt,  Institut  für  Kernphysik,  Schloßgartenstraße  9,  64289  Darmstadt,  Germany. 3Lawrence 
+                            Livermore  National  Laboratory,  7000  East Avenue,  Livermore, CA  94551,  USA. 4Goethe-Universität  Frankfurt, 
+                            60323 Frankfurt am Main, Germany. 5Helmholtz Institute Jena, Fröbelstieg 3, 07743 Jena, Germany. 6Friedrich-Sch
+                            iller-Universität Jena, Fürstengraben 1, 07743 Jena, Germany. 7Johannes Gutenberg-Universität Mainz, Saarstraße 
+                            21, 55122 Mainz, Germany. *email: p.boller@gsi.de
+
+Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 1
+                                                                                                                     Vol.:(0123456789)
+        www.nature.com/scientificreports/
+
+
+                                    Figure 1.  Experimental setup. Te produced protons from TNSA enter the uranium-target container through a 
+                                    titanium window. RCFs located in front and behind the uranium-target container measure the proton spectrum. 
+                                    Te fssion products are stopped by a gas mixture of helium and argon in the same mass fow proportion 
+                                    and transported to a carbon flter 12 m away outside the PHELIX target chamber. Te various γ-lines from the 
+                                    transported isotopes are measured with a HPGe detector.
+
+
+                                    parameters by novel laser-driven acceleration schemes, although not yet substantiated, are expected and will 
+                                    increase the proton ­fux5, 6. A requirement is the combination of the laser production method with spectroscopy 
+                                    setups and tools, allowing for sensitive nuclear spectroscopy on nuclides with a short half-life. In order to explore 
+                                    this new feld, a platform had to be developed that can detect γ-ray and β-particle emission from the fssion 
+                                    fragments in the presence of the strong electromagnetic pulse (EMP) created by the laser-matter interaction. 
+                                    Such a platform based on the radiochemistry method opens up the possibility for the investigation of nuclear 
+                                    excitation processes at the nuclear-atomic interface in high-energy-density (HED) environments­ 7.
+                                      Tis present experiment, conducted at the PHELIX facility­ 8, the Petawatt High-Energy Laser for Heavy-Ion 
+                                    eXperiments at GSI in Darmstadt, Germany, is part of the early development phase of a platform for future 
+                                    nuclear physics experiments at other advanced laser facilities (e. g. ELI-NP (Romania)9, 10 and ARC (LLNL)11). 
+                                    Due to its continuous gas fow, the method used is also well suited for high repetitive lasers like ELI-Beamlines 
+                                    (Czech Republic)12, BELLA (LBNL)13, Draco (HZDR)14, J-KAREN (KPSI)15, and CoReLS (South Korea)16. Te 
+                                    platform utilizes a state-of-the-art short pulse, high temporal contrast, high energy laser (in the experiment 
+                                                            −
+                                    ≈ 200 J in ≈ 500 fs at < 10 12 temporal contrast) to provide laser-accelerated protons to induce nuclear 
+                                    reactions. Te rapid high-efciency detection of reaction products is the primary focus.
+                                      In this experiment, we studied proton-induced fssion of uranium, motivated by the appropriate matching of 
+                                    the wide cross-section profle to the range of the proton spectrum produced by TNSA. A particularly interesting 
+                                    aspect of these experiments with short-pulsed, laser-driven particle beams is that the pulse duration is much 
+                                    shorter than in conventional sources and limited only by the laser pulse itself and the associated time-of-fight 
+                                    spread of the accelerated ions. An abundance of fssion fragments is produced within this time, providing 
+                                    sensitivity to short-lived isotopes. Nuclei with half-lives down to several seconds have been identifed. So far, very 
+                                    little experience exists in this short-pulsed time domain. Te transportation of the fragments to the detection 
+                                    apparatus can take several seconds, which ultimately impairs sensitivity to very short-lived isomers. Nevertheless, 
+                                    the build-up of daughter isotopes from the chain-yield and the γ-rays resulting from their deexcitations can be 
+                                    expected in the measured spectra, potentially revealing heretofore unobserved aspects of the reaction process. 
+                                    Our successful proof-of-principle experiment opens a new perspective for a variety of nuclear structure and 
+                                    nuclear astrophysics, where some of the very small reaction cross-sections with shortest lifetimes require huge 
+                                    luminosities not yet available at conventional accelerators.
+                                    Results and discussion
+                                    Te purpose of this work is to demonstrate the use of laser-accelerated high-fux proton bursts for nuclear physics 
+                                    applications. Te immediate goal of this frst beam time was to observe short-lived natU(p,f) fssion products. 
+                                    Nuclides with half-lives as short as 39 s were readily identifed in the measured spectra. Observation of products 
+                                    with even shorter half-lives requires an upgraded detector setup planned in future studies.
+                                      Using the setup described in Fig. 1, two 15-µm-thick uranium foils located 50 and 80 mm away from the 
+                                    proton source were irradiated by (1.35 ± 0.12) × 1011 and (0.506 ± 0.047) × 1011 protons with energies above 
+                                   15 MeV , respectively, taking into account the solid angle of irradiation. Figure 2 gives the retrieved proton 
+                                    spectra for calibration shots using radiochromic flms at imaging spectroscopy (RIS) at the distance of the frst 
+                                    uranium foil. Te exponential function is obtained by an iterative ft to the deposited energy in the RCF layers. 
+                                    Altogether, this illustrates the statistical and systematic sources of error made in estimating the proton numbers. 
+                                    Applied to the uranium target, this corresponds to an efective conversion efciency of (0.50 ± 0.16)% at the frst 
+                                    uranium foil and of (0.19 ± 0.06)% at the second, and represents the fraction of laser energy that is converted into 
+
+        Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 2
+Vol:.(1234567890)
+www.nature.com/scientificreports/
+
+
+                            Figure 2.  Proton spectrum of calibration laser shots recorded with RCFs 5 cm behind the laser acceleration 
+                            source. To refect the aperture of the uranium target container, only 1 cm of the RCFs in the middle were 
+                            evaluated. Te exponential function is obtained by an iterative t to the deposited energy in the RCF layers. 
+                            Above the dotted line at 15 MeV the protons contribute signifcantly to the fssion process.
+
+
+                            usable kinetic energy. Te cross-section of proton-induced fssion reaches 500 mb around 15 MeV and is rising 
+                            to a maximum of 1.75 b at 70 MeV17, well matching the energy spectrum achieved. Te most energetic protons 
+                            arrive at the frst uranium foil in 0.46 ns subsequent to laser irradiation of the gold target, while less energetic 
+                            protons with E = 15 MeV arrive at 0.94 ns . Te overall exposure of uranium to the proton fux was shorter than 
+                           1 ns , which corresponds to an efective peak current in excess of 1020 protons/s . During the irradiation, gas is 
+                            constantly fushed through the uranium target container resulting in the transport of the freshly produced fssion 
+                            fragments to a carbon flter located directly in front of an HPGe detector.
+                              Te γ spectra recorded by the HPGe detector were analyzed on the basis of published nuclear data ­tables18, 
+                            19 for the identifcation of the observed γ-ray peaks, and associated lifetimes. All major volatile fssion product 
+                            isotopes having a lifetime in the range of 39.68 s to 14.14 min were identifed. Tese are: 134m I, 136m I, 137Xe, 138Xe, 
+                           139Xe, and 140Cs. Figure 3 depicts the γ-ray spectra recorded at three diferent times, 27 (red), 65 (green), and 
+                            238 (blue) seconds, respectively, following the laser pulse. Te time information facilitates the identifcation. 
+                            Each spectrum represents an accumulation of detected γ-rays up to the indicated times. Te background in the 
+                            spectra is low, due to the short integration time and the ability to massively shield the detector against the EMP 
+                            and high-energy radiation. Due to a large number of various radioactive nuclei produced in this experiment, we 
+                            focused on unambiguous identifcation of abundantly generated fssion products and did not aim at identifcation 
+                            of all γ-lines in the spectra. Broader features at low energies may stem from X-ray emission following internal 
+                            conversion and positron decays, and secondary excitation from the lead shielding. Neutron-defcient nuclides 
+                            responsible for the latter decays are probably produced in proton-induced direct reactions like (p,pn), (p,2n) or 
+                            (p,3n). Also, the fragmentation or spallation reactions due to incident protons are not excluded. Te presence of 
+                            such neutron-defcient nuclides is evidenced by a relatively strong γ-line = 511 keV responsible for positron-
+                            electron annihilation. For these spectra, the results of eleven laser shots are added up. It should be noted that 
+                            the γ-lines associated with the nuclei 134m I, 136m I,  and 139 Xe can be clearly extracted even from a single shot, as 
+                            they are produced with high enough yield.
+                              Table 1 lists the identifed γ-rays present in the spectra. Given are the parent isotope, the respective decay 
+                            mode, the associated lifetime, and the γ energy as well as the number of collected nuclides in the flter and the 
+                            integral cross-sections. Other γ-ray energies are expected from isotopes produced later in the decay chain but 
+                            are not visible due to the selected time window.
+                              For comparison, Fig. 4 shows the spectrum of the irradiated uranium targets afer the experiment. In this 
+                            spectrum, a large number of reaction products can be identifed, including long-lived daughter nuclei from the 
+                            decay chains of fssion fragments and nuclides generated by a direct reaction like 237 U  from 238U(p,pn) and 
+                            236 Np  from 238U(p,3n). In addition, γ-lines from the natural decay of uranium appear. Since the spectrum was 
+                            taken several hours afer the irradiation, short-lived isotopes are not visible. Tis demonstrates and validates 
+                            that the experimental setup enables the detection of short-lived isotopes, that can otherwise not be identifed 
+                            by post-irradiation measurements.
+
+Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 3
+                                                                                                                     Vol.:(0123456789)
+        www.nature.com/scientificreports/
+
+
+                                                                                         Number of collected  Integral cross-section 
+                                    Parent decay Lifetime Excited daughter Gamma in keV  nuclides per shot    in mb
+                                    134m                 134
+                                       I        3.52 min   I           272.1             551 ± 59             1.17 ± 0.10
+                                    136m                 136
+                                       I        46.6 s    Xe           197.32, 381.36, 1313.02 147 ± 16       0.636 ± 0.051
+                                    137                  137
+                                      Xe        3.82 min   Cs          455.49            860 ± 130            2.04 ± 0.24
+                                    138                  138
+                                      Xe        14.08 min Cs           434.56            750 ± 400            1.09 ± 0.38
+                                    139                  139           174.97, 218.59, 289.78
+                                                39.68 s                                  627 ± 47             3.13 ± 0.17
+                                      Xe                  Cs           296.53, 393.5
+                                    140                  140
+                                      Cs        63.7 s    Ba           602.35            529 ± 75             1.85 ± 0.20
+
+                                    Table 1.  Identifed nuclides with their lifetimes, their excited daughters and their γ-ray energies from 
+                                    ­literature18, 19 as well as the number of collected nuclides per shot in the flter and the calculated integral cross-
+                                    sections.
+
+
+                                    Figure 3.  Measured γ spectra and some identifed fssion products. Te spectra were accumulated for periods 
+                                    of 27 (red), 65 (green), and 238 (blue) seconds following the laser pulse. For these spectra, the results of eleven 
+                                    laser shots are added up.
+
+
+                                      One interesting feature of this experimental platform is the possibility to calibrate the various modules of-line 
+                                    and deliver quantitative reaction yield values. Te proton source is calibrated with radiochromic flms (RCFs), 
+                                    which is an established calibration method. RCFs are readily available for medical applications from various 
+                                    vendors. By calibrating the RCFs against an external accelerator source, an absolute error in dose deposition 
+                                    around 5% is normally achieved. At the other end of the system, the detector efciency was cross-calibrated using 
+                                    radioactive sources. Additionally, the losses in the gas transport in the capillary were determined of-line for 
+                                    219 Rn to be less than 1% including the capture efciency in the carbon flter. Given that the container reaction 
+                                    geometry is well known, this platform could be used to determine integral reaction cross-sections quantitatively. 
+                                    For this purpose, the stopping range of the generated fssion fragments and the proportion of the generated 
+                                    fssion fragments that can enter the gas was determined. Te number of target particles available for the measured 
+                                    fssion products is (1.71 ± 0.11) × 1019 for iodine and (1.56 ± 0.11) × 1019 for xenon depending on the diferent 
+                                    stopping range. 10.27% of the iodine and 11.22% of the xenon elements difuse into the gas and have the possibility 
+                                    to be stopped there. It should be noted, that the error of the cross-sections are mainly statistical, which can be 
+                                    reduced by a longer series of measurements and by adding up several spectra of laser shots. Te ratios between 
+                                    the isotopes are completely consistent with literature values­ 20, 21. Te measured cross-sections are too low by a 
+                                    factor of 8. Tis has to be explained by defciency of the extraction from the target container.
+
+
+        Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 4
+Vol:.(1234567890)
+www.nature.com/scientificreports/
+
+
+                            Figure 4.  Measured γ spectrum of the irradiated uranium targets afer the experiment afer an accumulation 
+                            period of 81 min.
+
+
+                              It is important to emphasize that the ability to identify shorter-lived isotopes is improved when lasers such 
+                            as PHELIX are utilized. In our realization, the lower limit of observed lifetimes and the restriction to transport 
+                            only volatile elements were dictated by the specifc conditions chosen for the gas transport parameters, aiming 
+                            for improved operation safety. By changing these parameters, much faster transport times can be achieved.
+                            Scientifc motivation and relevance
+                            Laser-driven ion acceleration produces particle bunches of unprecedented density. In a secondary target that 
+                            is close enough to the laser acceleration source, this leads to a nuclear-interaction-rich scenario. However, this 
+                            environment is not background free and hinders a direct detection of the processes of interest. In combination 
+                            with a gas transport system, we achieved to transfer the reaction products to a safe location for typical HPGe 
+                            detection, more than 10 m away from the point of laser interaction. Tis allowed for high-detection sensitivity 
+                            and nearly background-free γ spectroscopy while mitigating the interference of the strong EMP.
+                              High-fux proton pulses of sub-nanosecond down to picosecond duration provide an opportunity to study 
+                            nuclear reactions in a plasma-like environment. For example, this pulsed-beam regime could cause additional 
+                            Coulomb excitations of the target material by the impinging protons within the pulse duration, similar to the 
+                            low-lying states’ coupling efects in highly-charged states heavy-ion reactions. Efects on the cross-sections 
+                            from varying excited state populations due to the plasma environment will be of interest in future experiments.
+
+                            Fission  in  HED  environment.  For fssionable nuclei embedded in a HED environment, the plasma 
+                            interaction is expected to afect “transition” states and alter the fssion probability. Te initial studies involve 
+                            measurements of the isotope distributions of fssion fragments identifed from the observation of characteristic 
+                            γ-rays. In the nuclear fssion process, a heavy nucleus typically separates into energetic fssion fragments with 
+                            diferent masses sharing a total kinetic energy gain of approximately 200 MeV22, 23. Details of the induced fssion 
+                            process over a wide range of projectile species and energies are still not well understood for many fssionable 
+                            nuclei. Furthermore, a fully microscopic theory of fssion describing experimental data is still to be developed. 
+                            Accurate measurements of cross-sections as well as new techniques to measure short-lived fssion fragments 
+                            will provide new insight into the nucleon-nucleus interaction. In particular, information on the properties and 
+                            efects of highly excited nuclei, e.g., level densities and fssion barriers, can be gained.
+                              Neutron-induced fssion experiments at the National Ignition Facility (NIF) have demonstrated the capability 
+                            to rapidly collect and detect short-lived gaseous fssion fragment isotopes for the frst time, following an 
+                            approximately 80 ps-long pulse of nearly 1016 14−MeV neutrons into 4π from a burning deuterium-tritium 
+                            fusion plasma­ 23. Te neutron-induced fssion at NIF, and the present experiment at PHELIX, demonstrate fssion 
+                            studies in a new time-domain amid plasma environments.
+                              Fission research still is intensively pursued. A particular interest involving astrophysical HED environments 
+                            now is driven by energy research, e.g., novel nuclear reactor ­schemes24, advanced nuclear astrophysics, and 
+                            cosmogenic nucleosynthesis (e.g., r-processes)25. Te long history of fssion research and the renewed interest 
+
+Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 5
+                                                                                                                     Vol.:(0123456789)
+        www.nature.com/scientificreports/
+
+
+                                    reveal that there are many open and new questions regarding fssion in HED environments. Te detection of 
+                                    plasma efects on nuclear reactions, for example, its infuence on the nuclear fssion process’s mechanisms, is a 
+                                    long-term focus at HED facilities. Since the discovery of fssion in the 1930s, extensive data and literature on 
+                                    fssion have been ­published19, 22, 26. Te nuclear fssion is treated within the macroscopic-microscopic nuclear 
+                                    models. Here, the macroscopic part is a charged liquid drop described by the standard formula for nuclear 
+                                    ground state energies: E = EVol + ESurf + ECoul + EPauli . Te terms correspond to efects arising from the nuclear 
+                                    volume, the surface area, Coulomb repulsion, and the Pauli exclusion principle (asymmetry energy), respectively. 
+                                    Te microscopic corrections, shell efects (utilizing the Nilsson model), and the pairing interaction, are taken 
+                                    into account­ 22 as well as, most recently, fragment ­formation27. Tis led to a satisfactory description of the fssion 
+                                    barrier with an appropriate height as well as oscillation (“hump structure”) of the potential energy barrier for 
+                                    actinide nuclei as a function of nucleus deformation­ 26.
+                                      Motivated through new nuclear astrophysical observations, recent research on macroscopic-microscopic 
+                                    nuclear models aimed to improve the understanding of fssion, the fssion barriers, and dynamic aspects of fssion 
+                                    in HED environments­ 25. Te heavy element nucleosynthesis in neutron star mergers involving fssion and fssion 
+                                    recycling are examples. For “multiple-hump” actinide fssion barrier structures, the second potential minimum 
+                                    has been extensively investigated in fssion isomer studies. Te existence of a third potential minimum has 
+                                    recently been established for even-even uranium nuclei (as well as an odd isotope). Te thin outer barriers result 
+                                    in shorter fssion lifetimes than those from collectively excited ­states25. Te detailed studies involve transmission 
+                                    resonance spectroscopy, where the prompt fssion cross-section is measured. Te cross-section exhibits resonance 
+                                    enhancements at certain excitation energies because the energies of the collective states in the frst well coincide 
+                                    with those of the vibrational states in the second or third well. Te verifcation of a third well led to an agreement 
+                                    between measured cross-sections and model calculations with appropriate assumptions for the multiple-hump 
+                                    structure and well depths (e.g. 232Torium).
+
+                                    Excited states and nuclear decay.   Te fssion platform being developed will also enable research on the 
+                                    efects of a HED environment on other nuclear processes. In a plasma environment, atomic binding energies 
+                                    are modifed due to charge state and screening efects, and atomic transitions may interact with excited nuclear 
+                                    states, thereby causing nuclear ­transitions7, 28, 29. Terefore, electron-mediated NPIs may cause signifcant 
+                                    changes in reaction cross-sections in HED environments such as astrophysical plasmas. However, NPIs remain 
+                                    largely unobserved due to the extremely narrow energies of nuclear transitions (Ŵ  ≤ 1 µeV ). Various attempts 
+                                    to detect NPIs such as NEEC (Nuclear Excitation by Electron Capture)29, 30 or NEET (Nuclear Excitation 
+                                    Electron Transition)31–34 processes are in progress but no consistent experimental evidence has been reported 
+                                    yet. In hot stellar environments, the nuclei can reach a thermal population of low-lying nuclear states from 
+                                    ­photoexcitation35, 36, NEEC, NEET, and inelastic electron scattering in the dense stellar plasma. Since the nuclear 
+                                    reaction cross-sections dramatically depend on the spin-parities of the involved quantum states and the reaction 
+                                    Q-value, studies of nuclear reactions in hot plasma environments are essential. Te relevance of NPI processes to 
+                                    the production of post-capture nuclei is due to a competition between the short lifetimes of highly-excited states 
+                                    versus a large number of nuclear transitions available, and high electron and photon fux.
+
+                                    Nuclear  astrophysics  relevance.   Te nucleosynthesis research on the heavy-element abundance 
+                                    determined by s- and r-processes in supernovae and neutron-star mergers motivates laboratory astrophysics 
+                                    studies. Te s-process, in which the time interval between neutron-captures is longer than the average β-
+                                    decay lifetime, proceeds through nuclides along the valley of stability with an isotopic abundance inversely 
+                                    proportional to neutron-capture rates. Te s-process is sensitive to nuclear shell closures at which the neutron 
+                                    capture probabilities abruptly change. Te work of the s-process is seen in the measured solar element 
+                                    abundance pattern as sharp peaks at Sr (N = 50), Ba (N = 82) and Pb (N = 126). Te faster r-process occurs in 
+                                                                                             −
+                                    high temperature (>  109K ) and high neutron density (>  1020 cm 3 ) environments in events that last several 
+                                    seconds­ 37. A rapid capture succession on a seed nucleus goes until the neutron binding energy is sufciently 
+                                    small so that the rate of capture is balanced by the photodisintegration by ambient black-body photons. Just as 
+                                    in the s-process, the neutron capture rates signifcantly change at nuclear closures, leading to so-called “waiting 
+                                    points”. Afer some time, β-decay occurs, and the capture process starts again. Te r-process is terminated by 
+                                    reaching the nuclei that undergo fssion, thereby fuelling the r-process by neutrons from fssion and moving the 
+                                    abundance pattern to mid-Z nuclei. When the neutron fux ceases, radioactive products decay back to the valley 
+                                    of stability (low-mass side of s-process peaks), and the resulting, broader than in s-process, peaks in the mass 
+                                    distribution are identifers for the r-process. Te path of r-process fow is through neutron-rich nuclei far from 
+                                    the valley of stability through nuclei with binding energies of about 1 to 4 MeV . At this stage, recycling fssion 
+                                    may come into play: heavy elements produced by the r-process can undergo fssion, enhancing the population 
+                                    of neutron-rich lower-Z elements. Te r-process abundances are determined from solar abundances minus 
+                                    s-process contributions. Tus, uncertainties persist in the elemental abundances produced by the r-process.
+                                      Substantial experimental and theoretical eforts are proposed and in progress for upcoming new laser 
+                                    facilities (e. g. ELI, ARC) and ion beam facilities (e.g. FAIR) to improve the database and theoretical modeling 
+                                    to understand astrophysical data. Concrete experiments are planned at ELI­ 10, 38 to demonstrate the production 
+                                    of neutron-rich nuclei at the N = 126 waiting point with lasers. We believe that the method presented here is 
+                                    ideally suited to detect such products.
+                                      In the future, we plan on extending our method to investigate proton-induced reactions of astrophysical 
+                                    importance. Here unprecedented proton intensities might allow us to address reactions with tiny cross-sections 
+                                    that are presently inaccessible at dedicated underground accelerators. For instance, (p,γ ), (p,n), and (p,α )  reactions 
+                                    can be studied simultaneously. However, this might require to perform the laser experiment underground as 
+
+        Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 6
+Vol:.(1234567890)
+www.nature.com/scientificreports/
+
+                            well. Furthermore, owing to the very short duration of the laser pulse, application of time-of-fight techniques 
+                            will be pursued to enable energy-resolved measurements.
+                            Experimental method
+                            A schematic diagram for the experimental setup at the GSI PHELIX facility is depicted in Fig. 1. Te setup 
+                            includes the laser-driven proton source and the uranium target container inside the PHELIX target chamber and 
+                            the fssion isotope collection flter directly in front of the γ-detector outside the target chamber.
+
+                            Laser‑driven proton source and laser setup for TNSA.    An extensive work has taken place in the last 
+                            two decades on the generation of protons with lasers, afer the pioneering work done at the Nova-Petawatt laser 
+                            ­facility1. Since then, the developments have followed two main directions, the frst one exploring theoretically 
+                            and experimentally the various mechanisms underlying laser-driven proton acceleration, with the aim to 
+                            generate highly-energetic and mono-energetic proton beams in the energy range of 0.1–1 GeV, and the second 
+                            one is optimizing the proton sources for ­applications39.
+                              As far as laser-driven proton acceleration is concerned, the high-energy sub-picosecond PHELIX system, 
+                            which is based on a neodymium-doped-glass chain of amplifying modules, has distinct advantages over other 
+                            short-pulse lasers. First, the laser energy and long interaction times of sub-picosecond lasers enable reaching 
+                            the highest proton yields as a consequence of the combined efects of the energy and high conversion efciency 
+                            demonstrated with this type of laser­ 40. Second, some preliminary work has been done at PHELIX, as in the 
+                            framework of the LIGHT ­project41, to condition laser-generated protons for applications, and this knowledge lays 
+                            the basis for further work. Previous fndings have shown two optimal interaction conditions for the generation of 
+                            stable and reliable protons beams. Te frst confguration, used in the LIGHT project, deals with relatively thick 
+                            (several-micrometers) foils, irradiated with a laser pulse exhibiting a moderate nanosecond pedestal. In this case, 
+                            the nanosecond pedestal creates a pre-plasma at the surface of the interaction foil that fosters improved light 
+                            absorption, and therefore a more efcient proton generation. Te acceleration takes place in the TNSA regime, 
+                            and the target thickness helps with the proton beam homogeneity. In the second confguration, the laser irradiates 
+                            a sub-micrometer or micrometer foil­ 42. To avoid target pre-heating that destroys the foil, the level of the pulse 
+                            pedestal is reduced by the use of an ultrafast optical parametric amplifer in the laser­ 43. While the thinner targets 
+                            deliver higher proton energies, the drawback comes from a lower laser-energy coupling into the target because 
+                            of the thin nanometer-thick interaction volume at the target surface.
+                              Optimization of the proton source by directly comparing quantitatively these proton-source geometries has 
+                            been conducted. Our fndings show that, for the current PHELIX parameters, a proton source generated by 
+                                                                                                                 ◦
+                            irradiating 1 µm thick foils with P-polarized laser beams of the highest temporal contrast under 45  incidence 
+                            is the best trade-of44. Afer the initial setup and test, the source delivered reliably, on every shot, TNSA proton 
+                            beams with 1012 protons of energy higher than 15 MeV and with cut-of energy around 70 MeV . In comparison 
+                            to standard experiments, the pulse profle of PHELIX was stabilized using an acousto-optic programmable 
+                            dispersive flter (Fastlite, France) and the pulse profle (spectrum and phase) adjusted daily directly at the 
+                            interaction point. A measured proton spectrum is shown in Fig. 2.
+
+                            Experimental  setup  for  proton‑induced  fssion.   Te PHELIX target chamber contains the laser 
+                            transport and focusing mirrors and diagnostics, as well as the target holder for the proton production. Te setup 
+                            is shown in Fig. 1. A compact target container, holding the uranium target foils, is positioned at a distance of 4 cm 
+                            from the laser acceleration source. Te proton bunch enters and leaves the uranium target container through 
+                            15-µm-thick titanium windows. A stack of three radiochromic flms (RCFs) is placed in front of the container to 
+                            obtain a spatial diagnostic of the proton beam. On the backside, a stack of eleven RCFs is mounted, to diagnose 
+                            the protons afer they pass through the uranium targets. Te sensitivity of these flms was calibrated at a proton 
+                                                                                               −
+                            accelerator. While the PHELIX target chamber is operated at a vacuum of 10 5 mbar , the target container is 
+                                                                                              −
+                            connected to the gas transport system with a constant gas fow of 500 cm3 min 1 at a pressure of approximately 
+                            1 bar. Te container has a length of 60 mm and a diameter of 40 mm . Two uranium target foils with a size of 
+                           16 mm  ×  19 mm and a thickness of 15 µm are mounted between two metal frames of size 25 mm × 20 mm , 
+                            with a 10-mm opening. Due to their fssion energy, the fragments are emitted from a thin layer at the front and 
+                            back of the target material. To increase the fssion fragment production yield, two uranium foils were used with 
+                            a distance of 30 mm between them, equivalent to the approximate stopping distance of the fragments. Fission 
+                            fragments are stopped in the gas and transported through a polytetrafuoroethylene (PTFE) tube with an inner 
+                            diameter of 4 mm , over a distance of 12 m to be collected in a carbon flter at room temperature, in front of an 
+                            HPGe detector system. Tis method is ofen practiced for nuclear chemistry ­experiments45, 46 but not adapted 
+                            so far together with laser acceleration. Te transport distance of several meters is crucial in this case in order to 
+                            reduce EMP-induced background at the HPGe detector to an acceptable level.
+                              In the experiment, helium, nitrogen, neon, and argon were used as a transport gas. Depending on the gas, the 
+                            stopping power and the background in the spectrum changed, caused by the activation of the carrier gas. Te 
+                            best results were achieved with a mixture of helium and argon with a mass fow ratio of 1:1.
+                              Te carbon flter consists of a PTFE tube flled with carbon grains with 20–40 µm mesh held in place on 
+                            both sides by quartz wool. Te capture efciency for rare heavy gases was tested before the main experiment 
+                            with 219 Rn from an 227 Ac source. By comparison of the activity retained in the flter to the activity in a second 
+                            identical flter, a capture rate of (99.29 ± 0.15)% was found. For the detection an N-type HPGe detector with 
+                            electric cooling was used. Te recorded spectra were stored at certain time intervals in order to obtain the 
+                            time-dependent behavior of the spectrum. Even at a distance of 12 m from the laser target, the detector and its 
+                            electronics had to be shielded. In addition to a metallic cover, a thin, fexible shielding of polyamide spun-bond 
+
+Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 7
+                                                                                                                     Vol.:(0123456789)
+          www.nature.com/scientificreports/
+
+
+                                          feece, which is internally metal-coated, was used. It ofers damping of around 100 dB over a wide spectral range 
+                                          of electromagnetic radiation. Te flter and the detector head were enclosed with lead shielding to minimize 
+                                          the γ-ray spectrum background in the relevant energy range. Te collected fssion products are identifed on 
+                                          the basis of the observed γ-rays. Te most short-lived isotope observed had a lifetime of 39 seconds, due to the 
+                                          transport time.
+                                             Tis transport time is given by the volume of the PTFE tube and the mass fow in the gas system. In the given 
+                                          setup, it is approximately 18 s . A transport time of around one second can be achieved by using a slightly higher 
+                                          pressure in combination with a stronger vacuum pump at the exhaust. Te restriction of the present experiment 
+                                          to volatile elements can also be overcome by adding reactive gas or aerosols or a combination of both. For future 
+                                          experiments, it will be possible to use more advanced detection ­systems47, which will allow the detection of 
+                                          electrons and photons and registration of coincidences.
+
+                                          Received: 14 April 2020; Accepted: 24 September 2020
+
+                                          References
+                                            1.  Snavely, R. et al. Intense high-energy proton beams from petawatt-laser irradiation of solids. Phys. Rev. Lett. 85, 2945 (2000).
+                                            2.  Wilks, S. et al. Energetic proton generation in ultra-intense laser–solid interactions. Phys. Plasmas 8, 542–549 (2001).
+                                            3.  Higginson, A. et al. Near-100 MeV protons via a laser-driven transparency-enhanced hybrid acceleration scheme. Nat. Commun. 
+                                              9, 1–9 (2018).
+                                            4.  Schreiber, J., Bolton, P. & Parodi, K. Invited review article: “Hands-on laser”-driven ion acceleration: a primer for laser-driven 
+                                              source development and potential applications. Rev. Sci. Instrum. 87, 071101 (2016).
+                                            5.  Robinson, A., Zepf, M., Kar, S., Evans, R. & Bellei, C. Radiation pressure acceleration of thin foils with circularly polarized laser 
+                                              pulses. New J. Phys. 10, 013021 (2008).
+                                            6.  Matys, M. et al. Generation of collimated quasi-mono-energetic ion beams using a double layer target with interface modulations. 
+                                              In Laser Acceleration of Electrons, Protons, and Ions V, Vol. 11037, 110370Z (International Society for Optics and Photonics, 2019).
+                                            7.  Cerjan, C. J. et al. Dynamic high energy density plasma environments at the national ignition facility for nuclear science research. 
+                                              J. Phys. G Nucl. Part. Phys. 45, 033003 (2018).
+                                            8.  Bagnoud, V. et al. Commissioning and early experiments of the PHELIX facility. Appl. Phys. B 100, 137–150 (2010).
+                                            9.  Negoita, F. et al. Laser driven nuclear physics at ELI-NP. Roman. Rep. Phys. 68, S37–S144 (2016).
+                                           10.  Tanaka, K. A. et al. Current status and highlights of the ELI-NP research program. Matter Radiat. Extremes 5, 024402. https://doi.​
+                                              org/10.1063/1.50935​35 (2020).
+                                           11.  Mariscal, D. et al. First demonstration of ARC-accelerated proton beams at the National Ignition Facility. Phys. Plasmas 26, 043110 
+                                              (2019).
+                                           12.  Rus, B. et al. Eli-beamlines: development of next generation short-pulse laser systems. In Research Using Extreme Light: Entering 
+                                              New Frontiers with Petawatt-Class Lasers II, Vol. 9515, 95150F (International Society for Optics and Photonics, 2015).
+                                           13.  Leemans, W. et al. Bella laser and operations. In International Part. Acc. Conf., Vol. 1097 (2013).
+                                           14.  Florian-Emanuel,  B. et al. Spectral and spatial shaping of laser-driven proton beams using a pulsed high-feld magnet beamline. 
+                                              Sci. Rep. (Nature Publisher Group) 10 (2020).
+                                           15.  Kiriyama, H. et al. High-contrast, high-intensity petawatt-class laser and applications. IEEE J. Select. Top. Quantum Electron. 21, 
+                                              232–249 (2014).
+                                           16.  Sung, J. H. et al. 4.2 PW, 20 fs Ti: sapphire laser at 0.1 Hz. Opt. Lett. 42, 2058–2061 (2017).
+                                           17.  Soppera,  N. et al. JANIS 4: an improved version of the NEA java-based nuclear data information system. Nucl. Data Sheets 120, 
+                                              294–296 (2014).
+                                           18.  National Nuclear Data Center, B. N. L. NuDat (Nuclear Structure and Decay Data, 2008).
+                                           19.  Firestone, R. B., Shirley, V. S., Baglin, C. M., Chu, S. F. & Zipkin, J. Table of Isotopes 8th edn. (Wiley, New York, 1996).
+                                           20.  Maslov, V. M. Nucleon-induced fssion cross sections of uraniums up to 40 MeV (2000).
+                                           21.  Bocquet, J., Brissot, R., Crancon, J. & Moussa, A. On-line measurements of rare-gas fssion yields in 14 MeV neutron fssion. Nucl. 
+                                              Phys. A 189, 556–576 (1972).
+                                           22.  Strutinsky, V. Shell efects in nuclear masses and deformation energies. Nucl. Phys. A 95, 420–442 (1967).
+                                                                                                                                       238
+                                           23.  Cassata,  W. et al. Determination of gaseous fssion product yields from 14 MeV neutron induced fssion of U at the National 
+                                              Ignition Facility. J. Radioanal. Nucl. Chem. 309, 899–908 (2016).
+                                           24.  Radkowsky, A. & Galperin, A. Te nonproliferative light water thorium reactor: a new approach to light water reactor core 
+                                              technology. Nucl. Technol. 124, 215–222 (1998).
+                                           25.  Tirolf, P. et al. Laser particle acceleration: status and perspectives for nuclear physics. Acta Phys. Polon. B 42, 843 (2011).
+                                           26.  Bjørnholm, S. & Lynn, J. Te double-humped fssion barrier. Rev. Mod. Phys. 52, 725 (1980).
+                                           27.  Zhang, C. L., Schuetrumpf, B. & Nazarewicz, W. Nucleon localization and fragment formation in nuclear fssion. Phys. Rev. C 94, 
+                                              064323. https​://doi.org/10.1103/PhysR​evC.94.06432​3 (2016).
+                                           28.  Gosselin, G., Méot, V. & Morel, P. Modifed nuclear level lifetime in hot dense plasmas. Phys. Rev. C 76, 044611 (2007).
+                                           29.  Chiara, C. et al. Isomer depletion as experimental evidence of nuclear excitation by electron capture. Nature 554, 216–218 (2018).
+                                                                         93m
+                                           30.  Wu, Y., Keitel, C. H. & Pálfy, A. Mo isomer depletion via beam-based nuclear excitation by electron capture. Phys. Rev. Lett. 
+                                              122, 212501. https​://doi.org/10.1103/PhysR​evLet​t.122.21250​1 (2019).
+                                           31.  Pálfy, A. Nuclear efects in atomic transitions. Contemp. Phys. 51, 471–496 (2010).
+                                                                                                           134
+                                           32.  Bleuel, D. L. et al. Method for detection of nuclear-plasma interactions in a Xe exploding pusher at the National Ignition Facility. 
+                                              Plasma Fus. Res. 11, 3401075–3401075 (2016).
+                                           33.  Lestinsky, M. et al. Physics book: CRYRING@ ESR. Eur. Phys. J. Spec. Top. 225, 797–882 (2016).
+                                                                                                                           84m
+                                           34.  Denis-Petit, D. et al. Calculation of the rate of nuclear excitation by electron transition in an Rb plasma under the hypothesis 
+                                              of local thermodynamic equilibrium using a multiconfguration Dirac-Fock approach. Phys. Rev. C 96, 024604. https​://doi.
+                                              org/10.1103/PhysR​evC.96.02460​4 (2017).
+                                                                                                               26
+                                           35.  Gupta, S. & Meyer, B. Internal equilibration of a nucleus with metastable states: Al as an example. Phys. Rev. C 64, 025805. https​
+                                              ://doi.org/10.1103/PhysR​evC.64.02580​5 (2001).
+                                           36.  Spohr, K., Doria, D. & Meyer, B. Teoretical discourse on producing high temporal yields of nuclear excitations in cosmogenic 
+                                              26
+                                               Al with a PW laser system: the pathway to an astrophysical earthbound laboratory. Galaxies 7. https​://doi.org/10.3390/galax​
+                                              ies70​10004​ (2018).
+                                           37.  Shternin, P., Beard, M., Wiescher, M. & Yakovlev, D. Neutron degeneracy and plasma physics efects on radiative neutron captures 
+                                              in neutron star crust. Phys. Rev. C 86, 015808 (2012).
+                                           38.  Wormser, G. et al. Te White Book of ELI Nuclear Physics Bucharest-Magurele. Romania (2010).
+
+
+          Scientifc Reports |        (2020) 10:17183  |       https://doi.org/10.1038/s41598-020-74045-5                                               8
+Vol:.(1234567890)
+www.nature.com/scientificreports/
+
+
+                             39.  Daido, H., Nishiuchi, M. & Pirozhkov, A. S. Review of laser-driven ion sources and their applications. Rep. Prog. Phys. 75, 056401 
+                               (2012).
+                             40.  Brenner, C. M. et al. High energy conversion efciency in laser-proton acceleration by controlling laser-energy deposition onto 
+                               thin foil targets. Appl. Phys. Lett. 104, 081123 (2014).
+                             41.  Busold, S. et al. Towards highest peak intensities for ultra-short MeV-range ion bunches. Sci. Rep. 5, 12459 (2015).
+                             42.  Wagner,  F. et al. Maximum proton energy above 85 MeV from the relativistic interaction of laser pulses with micrometer thick 
+                               CH2 targets. Phys. Rev. Lett. 116, 205002 (2016).
+                             43.  Bagnoud, V. & Wagner, F. Ultrahigh temporal contrast performance of the PHELIX petawatt facility. High Power Laser Sci. Eng. 4 
+                               (2016).
+                             44.  Hornung, J. et al. Enhancement of the laser-driven proton source at PHELIX. High Power Laser Sci. Eng. 8 (2020).
+                             45.  Schädel, M. & Shaughnessy, D. Te Chemistry of Superheavy Elements (Springer, Berlin, 2013).
+                             46.  Türler, A. & Pershina, V. Advances in the production and chemistry of the heaviest elements. Chem. Rev. 113, 1237–1312 (2013).
+                             47.  Di Nitto,  A. et al. ALBEGA: a decay spectroscopy setup for chemically separated samples, vol. 2015-1 of GSI Report, 184 (GSI 
+                               Helmholtzzentrum für Schwerionenforschung, Darmstadt, 2015).
+                            Acknowledgements
+                            Tis work has been carried out within the framework of the EUROfusion Consortium and has received funding 
+                            from the Euratom research and training program 2014–2018 and 2019–2020 under grant agreement No 633053. 
+                            J.G. and Y.L. acknowledge support by the European Research Conceil (ERC) under the European Unions Horizon 
+                            2020 research and innovation program (Grant agreement No 682841 “ASTRUm”). Te views and opinions 
+                            expressed herein do not necessarily refect those of the European Commission. Te experiment was conducted 
+                            at and supported by the GSI Helmholtzzentrum. Tis work was performed under the auspices of the U.S. 
+                            Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 
+                            and was supported by the LLNL-LDRD Program under Project No. 20-ERD-031. Necessary travel of the U.S. 
+                            participants was supported by the LLNL. Special thanks go to the PHELIX Group, which contributed to the 
+                            successful conduction of the experiment.
+                            Author contributions
+                            P.B. was responsible for the experimental campaign, P.N. was the principal investigator of the experiment, A.Z., 
+                            J.G., J.He., J.Ho., and S.R. actively performed the experiment and the data evaluation, Ch.B. was the link scientist 
+                            of the experiment. J.K., L.L., and A.Y. supervised the experiment from the nuclear chemistry side, L.B., J.D., 
+                            E.A.H., and J.J. analyzed and commented the on-line data, T.S. , Y. L., D.S., J.K., and A.Y. gave important input to 
+                            the proposal, V.B., D.S. and T.K. as the group leaders conceived the idea to conduct the experiment and actively 
+                            participated. All authors reviewed the manuscript.
+                            Funding
+                            Open Access funding enabled and organized by Projekt DEAL.
+
+                            Competing interests 
+                            Te authors declare no competing interests.
+                            Additional information
+                            Correspondence and requests for materials should be addressed to P.B.
+                            Reprints and permissions information is available at www.nature.com/reprints.
+                            Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+                            institutional afliations.
+                                       Open Access Tis article is licensed under a Creative Commons Attribution 4.0 International 
+                                       License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+                            format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the 
+                            Creative Commons licence, and indicate if changes were made. Te images or other third party material in this 
+                            article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+                            material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+                            permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from 
+                            the copyright holder. To view a copy of this licence, visit http://creat​iveco​mmons​.org/licen​ses/by/4.0/.
+
+                            © Te Author(s) 2020
+
+
+Scientifc Reports |        (2020) 10:17183  | https://doi.org/10.1038/s41598-020-74045-5                                 9
+                                                                                                                     Vol.:(0123456789)
