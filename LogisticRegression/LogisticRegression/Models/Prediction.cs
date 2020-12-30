@@ -4,7 +4,7 @@ namespace LogisticRegression.Models
 {
     public class Prediction
     {
-        [ColumnName("Classification")] public string  Classification;
+        [ColumnName("PredictedLabel")] public string  Classification;
         [ColumnName("Score")]          public float[] Score;
     }
 }

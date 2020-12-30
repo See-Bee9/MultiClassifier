@@ -1,6 +1,8 @@
 ﻿using System;
+using System.IO;
 using CommandLine;
 using LogisticRegression.CLI;
+using LogisticRegression.Models;
 using LogisticRegression.Trainers;
 
 namespace LogisticRegression
@@ -35,6 +37,23 @@ namespace LogisticRegression
 
         private static void Predict(PredictOptions options)
         {
+            if (options.FolderPath == null) throw new ArgumentNullException(nameof(options.FolderPath));
+            if (options.TrainerPath == null) throw new ArgumentNullException(nameof(options.TrainerPath));
+            var predictor = new Predictor();
+            var files     = Directory.GetFiles(options.FolderPath);
+            foreach (var file in files)
+            {
+                var fileName = Path.GetFileName(file).Split('.')[0];
+                var trainingModel = new TrainingModel
+                {
+                    Content = File.ReadAllText(file)
+                };
+                var result = predictor.Predict(options.TrainerPath, trainingModel);
+                Console.WriteLine(
+                    $"{fileName} : {result.Classification}"
+                    + $"{Environment.NewLine}\t Proton Confidence : {result.Score[0]:0.###}"
+                    + $"{Environment.NewLine}\t Ecology Confidence : {result.Score[1]:0.###}");
+            }
         }
     }
 }

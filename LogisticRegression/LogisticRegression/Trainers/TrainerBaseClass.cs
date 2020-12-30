@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using LogisticRegression.Models;
 using Microsoft.ML;
 
@@ -27,7 +28,7 @@ namespace LogisticRegression.Trainers
 
             mlContext.Model.Save(trainedModel, data.Schema, modelPath);
 
-            var testDataView = mlContext.Data.LoadFromTextFile<Prediction>(modelPath);
+            var testDataView = mlContext.Data.LoadFromTextFile<TrainingModel>(Path.Combine(directoryPath,"2009.07123.tsv"), '\t', hasHeader: false);
             var modelMetrics = mlContext.MulticlassClassification.Evaluate(trainedModel.Transform(testDataView));
             Console.WriteLine($"MicroAccuracy: {modelMetrics.MicroAccuracy:0.###}");
             Console.WriteLine($"MacroAccuracy: {modelMetrics.MacroAccuracy:0.###}");
